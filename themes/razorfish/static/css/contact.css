@@ -1,0 +1,48 @@
+/* jgeorge@aa-rf.com */
+
+
+
+
+form.snappy .required {
+	color: #FF0000;
+}
+
+.snappyerrors {
+	color: #FF0000;
+}
+
+/* TEXT CSS */
+
+
+
+
+/* STRUCTURE CSS */
+
+.snappywrap {
+	
+	width: 510px; 
+}
+
+.contactForm {
+	width: 400px;
+}
+
+.verifyForm {
+	width: 100px;
+}
+
+
+.verifyBg {
+	width: 400px;
+	height: 40px;
+
+}
+
+
+.messageBox {
+	display: block;
+	float: left;
+	width: 93%;
+
+}
+
