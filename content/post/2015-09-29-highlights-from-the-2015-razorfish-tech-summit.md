@@ -17,7 +17,6 @@ wordpress_id: 5946
 
 
 
-# [
 ![ray-and-andy-web](/uploads/2015/09/ray-and-andy-web.jpg)](/uploads/2015/09/ray-and-andy-web.jpg)
 
 
