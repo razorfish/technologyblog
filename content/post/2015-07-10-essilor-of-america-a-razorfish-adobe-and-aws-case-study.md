@@ -12,10 +12,6 @@ url: /2015/07/10/essilor-of-america-a-razorfish-adobe-and-aws-case-study
 wordpress_id: 1165
 ---
 
-
-# [Essilor of America – a Razorfish, Adobe and AWS Case Study](http://technology.razorfish.com/?p=1165)
-
-
 [![headerimage1](/uploads/2015/07/headerimage1.jpg)](/uploads/2015/07/headerimage1.jpg)
 
 In 2014, after a comprehensive RFP and review process, Essilor of America selected Razorfish to be a Digital Agency Partner for its consumer brands, including but not limited to Varilux® , Crizal® and Xperio UV™ lenses. Less than a year later, we have successfully launched all three redesigned brand sites on the Essilor of America new digital marketing platform.
