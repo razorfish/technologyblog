@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: near-field-communications-primer
 title: Near Field Communications - Primer
 url: /2011/02/09/near-field-communications-primer
 wordpress_id: 541
-+++
+---
 
 
 This article from [Ars-Technica](http://arstechnica.com/gadgets/guides/2011/02/near-field-communications-a-technology-primer.ars/) is a great high-level primer on Near Field Communications (NFC). NFC is a very exciting technology that has actually been around in one form or another for years. Many folks consider it an evolution of the contactless payment systems already out there from MasterCard and Visa. In Asia it's been around for a while with FeliCA. There are well known standards, like ISO/IEC 14443, supporting the wireless communication, especially around payments. The standards leverages two types of data communication, type a - Miller encoding and type b Manchester encoding.

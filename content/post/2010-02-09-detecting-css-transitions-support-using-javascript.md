@@ -1,4 +1,4 @@
-+++
+---
 author: dnichols
 categories:
 - Methodology
@@ -19,7 +19,7 @@ tags:
 title: Detecting CSS transitions support using JavaScript
 url: /2010/02/09/detecting-css-transitions-support-using-javascript
 wordpress_id: 355
-+++
+---
 
 
 Progressive enhancement is one of the cornerstones of good web design: You build a solid foundation that supports a broad range of different browsers, and then add features either as you detect support for them or in a way that doesn't interfere with less capable browsers.

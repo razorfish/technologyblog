@@ -1,4 +1,4 @@
-+++
+---
 author: aonesto
 categories:
 - General
@@ -13,7 +13,7 @@ tags:
 title: Yahoo’s first Mobile Developer Conference
 url: /2015/02/26/yahoos-first-mobile-developer-conference
 wordpress_id: 1076
-+++
+---
 
 
 **Impressions from Yahoo’s first Mobile Developer Conference**

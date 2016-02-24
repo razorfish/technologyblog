@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: 2010-is-definitely-the-year-of-the-app
 title: 2010 is definitely the year of the app
 url: /2010/01/05/2010-is-definitely-the-year-of-the-app
 wordpress_id: 340
-+++
+---
 
 
 I've always been a fan of applications. I remember using my early palm apps with pure joy. Even a simple app to calculate gas mileage or track rides, so happy that innovators like Palm paved the way. Handango was the first iTunes app store. With real money on the table we see folks flocking to Android, some are even fleeing iTunes for more open pastures of Android. The biggest name to flee being the developer of the [iPhone Facebook application](http://www.techcrunch.com/2009/11/11/joe-hewitt-developer-of-facebooks-massively-popular-iphone-app-quits-the-project/). But back to my point, it's more exciting to think of applications everywhere.

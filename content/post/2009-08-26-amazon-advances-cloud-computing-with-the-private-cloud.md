@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - Cloud computing
@@ -12,7 +12,7 @@ tags:
 title: Amazon Advances Cloud Computing with the Private Cloud
 url: /2009/08/26/amazon-advances-cloud-computing-with-the-private-cloud
 wordpress_id: 253
-+++
+---
 
 
 

@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - Technology
@@ -17,7 +17,7 @@ tags:
 title: live streaming crashes again
 url: /2009/01/21/live-streaming-crashes-again
 wordpress_id: 121
-+++
+---
 
 
 

@@ -1,4 +1,4 @@
-+++
+---
 author: admin
 categories:
 - Technology
@@ -15,7 +15,7 @@ tags:
 title: IE8 Beta 2 Launched
 url: /2008/08/28/ie8-beta-2-launched
 wordpress_id: 55
-+++
+---
 
 
 The IE team launched IE8 Beta 2 which can be downloaded at [http://www.microsoft.com/ie8](http://www.microsoft.com/ie8).

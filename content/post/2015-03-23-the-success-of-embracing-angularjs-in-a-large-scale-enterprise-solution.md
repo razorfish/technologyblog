@@ -1,4 +1,4 @@
-+++
+---
 author: aonesto
 categories:
 - General
@@ -8,7 +8,7 @@ slug: the-success-of-embracing-angularjs-in-a-large-scale-enterprise-solution
 title: The Success of Embracing AngularJS in a Large-Scale Enterprise Solution
 url: /2015/03/23/the-success-of-embracing-angularjs-in-a-large-scale-enterprise-solution
 wordpress_id: 1107
-+++
+---
 
 
 ##### by Jeff Chew ([@therealjeffchew](http://www.twitter.com/therealjeffchew)) - Technology [@Razorfish](http://www.twitter.com/razorfish)

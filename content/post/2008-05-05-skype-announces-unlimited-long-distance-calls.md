@@ -1,4 +1,4 @@
-+++
+---
 author: admin
 categories:
 - General
@@ -9,7 +9,7 @@ slug: skype-announces-unlimited-long-distance-calls
 title: Skype announces unlimited long-distance calls
 url: /2008/05/05/skype-announces-unlimited-long-distance-calls
 wordpress_id: 42
-+++
+---
 
 
 [Skype announced unlimited calling](http://about.skype.com/2008/04/skype_announces_unlimited_long.html) last month to over a third of the world’s population with the launch of its new calling subscriptions. The new subscriptions signal the first time Skype has offered a single, monthly flat rate for international calling to landline numbers in 34 countries.

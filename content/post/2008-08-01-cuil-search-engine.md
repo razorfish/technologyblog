@@ -1,4 +1,4 @@
-+++
+---
 author: admin
 categories:
 - General
@@ -13,7 +13,7 @@ tags:
 title: How cool is this new search engine - cuil.com ?
 url: /2008/08/01/cuil-search-engine
 wordpress_id: 51
-+++
+---
 
 
 By now almost everyone who keeps an eye on search market is aware of the launch of new search engine - cuil.com. And to my amazement most of us have already given a verdict on this new offering as to if this is a real Google killer or just another dying hope for those Google haters. Cuil has also got a lot of attention from Google lovers - this launch was a real attention grabbing hoax.

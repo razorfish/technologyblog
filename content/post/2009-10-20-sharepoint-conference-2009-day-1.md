@@ -1,4 +1,4 @@
-+++
+---
 author: MarieDeLuna
 categories:
 - General
@@ -17,7 +17,7 @@ tags:
 title: SharePoint Conference 2009 - Day 1
 url: /2009/10/20/sharepoint-conference-2009-day-1
 wordpress_id: 272
-+++
+---
 
 
 I'm at the SharePoint Conference in Vegas this week. Registration and Exhibit Hall started Sunday night, but sessions officially started Monday. I am tweeting all day during the conference, follow me ([@mmdeluna](http://twitter.com/mmdeluna)) if you are interested. You can track tweets using [#spc09](http://search.twitter.com/search?q=spc09). I will be posting daily summaries. Stay Tuned!

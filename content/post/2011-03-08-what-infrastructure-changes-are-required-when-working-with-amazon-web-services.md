@@ -1,4 +1,4 @@
-+++
+---
 author: jscaria
 categories:
 - General
@@ -8,7 +8,7 @@ slug: what-infrastructure-changes-are-required-when-working-with-amazon-web-serv
 title: What infrastructure changes are required when working with Amazon Web Services?
 url: /2011/03/08/what-infrastructure-changes-are-required-when-working-with-amazon-web-services
 wordpress_id: 599
-+++
+---
 
 
 Working with cloud services like Amazon Web Services requires significant changes to the way we look at core capabilities taken for granted in traditional infrastructures. Imagine a world where you only get 5 static IPs or where load balancers are software based. Or what happens if I am using traditional software that requires technologies like Microsoft Active Directory. The following section highlights the learnings we have had in those areas.

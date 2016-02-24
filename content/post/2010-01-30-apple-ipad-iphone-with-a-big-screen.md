@@ -1,4 +1,4 @@
-+++
+---
 author: admin
 categories:
 - opinion
@@ -15,7 +15,7 @@ tags:
 title: Apple iPad... iPhone with a big screen?
 url: /2010/01/30/apple-ipad-iphone-with-a-big-screen
 wordpress_id: 346
-+++
+---
 
 
 Apple’s [release](http://online.wsj.com/article/SB10001424052748704094304575029230041284668.html) of [iPad](http://www.apple.com/ipad/), a new multi-touch gadget with 10” display is making a lot of buzz in the marketplace. So far there is [skepticism](http://asia.cnet.com/reviews/notebooks/0,39050488,45194788p,00.htm#mainreview) on the demand, utility and future of this type of device. Historically, Apple has a reputation of developing products that are disruptive in nature and truly game changing. From iPod to iTunes to iPhone Mr. Jobs and his team have changed how people use digital gadgets and consume digital content. Apple has a responsibility to defend this reputation and iPad might have fallen short in the minds of some critics. Critics claim iPad is an [iPhone ](http://www.apple.com/iphone/)without a phone. Of course it looks like an iPhone with a bigger screen but there is more to it. As I learn more about this device, my opinions are shaped contrary to those critics.

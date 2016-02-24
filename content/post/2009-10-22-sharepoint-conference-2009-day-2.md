@@ -1,4 +1,4 @@
-+++
+---
 author: MarieDeLuna
 categories:
 - Cloud computing
@@ -19,7 +19,7 @@ tags:
 title: SharePoint Conference 2009 - Day 2
 url: /2009/10/22/sharepoint-conference-2009-day-2
 wordpress_id: 294
-+++
+---
 
 
 The challenge I always have with these conferences is the plethora of choices available to attendees.  I already know what topics I want to focus on:  WCM; Architecting, Developing and Building public facing internet sites, and Social features in 2010.  But even so, there are still time slots where I have narrowed down the choice to 3, and then I have to make the tough decision and hope that I made the right choice.  For the most part, I decided to always go to a 300 or 400 level session, and then just watch the video and the deck online for the 200 sessions I missed.

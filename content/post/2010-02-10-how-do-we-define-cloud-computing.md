@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - Cloud computing
@@ -13,7 +13,7 @@ tags:
 title: How do we define cloud computing?
 url: /2010/02/10/how-do-we-define-cloud-computing
 wordpress_id: 357
-+++
+---
 
 
 It's comes up again. Folks are asking us to define cloud computing and every time we do, we refine it a little more. At times it's seemed like Cloud Computing became the new web 2.0 as a blanket term for everything:). I actually think we define it similarly to the [Wikipedia](http://en.wikipedia.org/wiki/Cloud_computing) definition. For us it breaks down into two categories: cloud services and cloud infrastructure.

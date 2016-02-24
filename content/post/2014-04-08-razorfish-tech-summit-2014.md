@@ -1,4 +1,4 @@
-+++
+---
 author: aonesto
 categories:
 - General
@@ -11,7 +11,7 @@ tags:
 title: 'Razorfish Tech Summit 2014 '
 url: /2014/04/08/razorfish-tech-summit-2014
 wordpress_id: 898
-+++
+---
 
 
 As the internet of things becomes more ubiquitous, it drastically changes the way people consume and interact with brands. We are going well beyond just the mechanics of who owns the glass to using data to drive predictive delightful experiences. Long-gone are the days of interrupt based user interactions.  The future will be relevant next generation experiences powered by amazing enterprise content and commerce platforms. Fortunately we have amazing communities and growth in technology enablement from movements like the maker movement and the hackathon movement to help us meet consumers on their own terms.

@@ -1,4 +1,4 @@
-+++
+---
 author: admin
 categories:
 - General
@@ -12,7 +12,7 @@ tags:
 title: Microsoft Sends Letter to Yahoo! Board of Directors
 url: /2008/04/07/microsoft-sends-letter-to-yahoo-board-of-directors
 wordpress_id: 34
-+++
+---
 
 
 Microsoft Corp. (NASDAQ: MSFT) sent the [following letter](http://www.microsoft.com/presspass/press/2008/apr08/04-05LetterPR.mspx) to the Yahoo! Inc. (NASDAQ: YHOO) Board of Directors:

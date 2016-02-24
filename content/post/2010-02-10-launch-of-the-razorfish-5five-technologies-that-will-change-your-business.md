@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: launch-of-the-razorfish-5five-technologies-that-will-change-your-business
 title: 'Launch of the Razorfish 5:Five Technologies That Will Change Your Business '
 url: /2010/02/10/launch-of-the-razorfish-5five-technologies-that-will-change-your-business
 wordpress_id: 359
-+++
+---
 
 
 We launched the [Razorfish 5](http://razorfish5.razorfish.com ) report today. We put a lot into the report and are excited to share it more broadly. In this report, we discuss the 5 technologies that are transforming businesses, including multi-touch and cloud computing. The findings are based on Razorfish's experience designing and integrating complex technologies for clients around the world.The report explores the recent advances and upcoming developments of five significant technologies. Key findings include:

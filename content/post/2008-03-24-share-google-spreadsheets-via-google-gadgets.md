@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: share-google-spreadsheets-via-google-gadgets
 title: Share Google Spreadsheets via Google Gadgets
 url: /2008/03/24/share-google-spreadsheets-via-google-gadgets
 wordpress_id: 25
-+++
+---
 
 
 This is kind of neat, now you can share parts of your collaborative spreadsheets via a Google Gadgets. So, it can show up on your iGoogle page and other places. Neat way to pull folks into looking at your exciting number crunching;). Google also launched spreadsheet notifications. Tools lik eZoho Docs and Google Docs are very cool, no with the ability to syndicate more easily that should help adoption.

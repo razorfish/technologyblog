@@ -1,4 +1,4 @@
-+++
+---
 author: aonesto
 categories:
 - General
@@ -8,7 +8,7 @@ slug: our-top-5-insights-from-ces-chris-jason-jeremy-and-ray
 title: Our Top 5 Insights from CES. Chris, Jason, Jeremy, and Ray
 url: /2014/01/30/our-top-5-insights-from-ces-chris-jason-jeremy-and-ray
 wordpress_id: 791
-+++
+---
 
 
 From our perspective, iterative improvement and innovation was the theme of CES 2014. While many of the biggest platforms previously introduced at CES are now driving their own conferences (e.g., Apple or Mobile World), that doesn't mean that this year's CES was any smaller in terms of importance or scale --  in fact, auto now fills much of the void left by these two major vacancies. Overall, it was still exciting to see the numerous incremental improvements and, to some degree, validation of exciting technologies that were already on our radar. Notable examples this year included Mercedes, which delivered on integration with the now mature iteration of the Pebble watch, and CES winner Razor Nabu, a new better type of wearable. CES is certainly an indicator of market opportunity, and with the new number of wearables at CES 2014, it seems likely we can expect more wearables adoption by consumers.

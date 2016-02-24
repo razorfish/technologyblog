@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -13,7 +13,7 @@ tags:
 title: LiveMesh, the new 'synchronization' platform from Microsoft
 url: /2008/06/16/livemesh-the-new-synchronization-platform-from-microsoft
 wordpress_id: 47
-+++
+---
 
 
 Think about an online-offline silverlight-wpf application that synchronizes your files using [LiveMesh](https://www.mesh.com/Welcome/Welcome.aspx).

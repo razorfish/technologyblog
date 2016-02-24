@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - Cloud computing
@@ -16,7 +16,7 @@ tags:
 title: .gov is saving money and time with cloud computing
 url: /2009/09/15/gov-is-saving-money-and-time-with-cloud-computing
 wordpress_id: 257
-+++
+---
 
 
 [Cnet reports ](http://news.cnet.com/8301-13772_3-10353479-52.html)today on how [Vivek Kundra](http://en.wikipedia.org/wiki/Vivek_Kundra), the US Chief Information Officer (CIO), is pushing for more movement into the clould computing space to help save taxpayer dollars. There are definitely huge savings with clould computing and it's getting harder and harder for enterprises to ignore. Especially with the recent announcement around [Amazon's Private Cloud](http://aws.amazon.com/vpc/), it seems like the enterprise barriers to adoption are slowly eroding away.

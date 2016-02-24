@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -16,7 +16,7 @@ tags:
 title: agile and pair programming
 url: /2009/03/31/agile-and-pair-programming
 wordpress_id: 150
-+++
+---
 
 
 One of my favorite topics in agile and iterative development is [pair programming](http://en.wikipedia.org/wiki/Pair_programming).The question is can we make it happen more and do we want to try it more? I've typically seen it on the smaller and more isolated projects. It's a fascinating concept and the research, while minimal that I have found, tend to say two developers get more high-quality work done than one independently.

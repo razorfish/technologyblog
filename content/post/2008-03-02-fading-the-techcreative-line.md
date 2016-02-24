@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: fading-the-techcreative-line
 title: Fading the Tech/Creative Line
 url: /2008/03/02/fading-the-techcreative-line
 wordpress_id: 9
-+++
+---
 
 
 The common mentality with respect to creative and technology process integration involves a relatively solid line that separates the two disciplines and work streams.  Creatives do their concepting, draw up wireframes, create visual assets, and then toss them over the line.  Technologists pick these up, create the front-end HTML, create the back-end code, and wire them up to create the system.  That is an extremely over-simplified description of both sides of the line - but it represents the general perception of many clients and peers in our industry.

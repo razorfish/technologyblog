@@ -1,4 +1,4 @@
-+++
+---
 author: mjacobs
 categories:
 - Technology
@@ -11,7 +11,7 @@ tags:
 title: Developing with LINQ
 url: /2008/04/03/developing-with-linq
 wordpress_id: 33
-+++
+---
 
 
 Once in a while you encounter tools that change the way you work and write your code. Firebug is an obvious example of this. Having worked with .NET 3.5 the last couple of months, I started using a great tool that made C# development much faster. The tool is [LINQPad ](http://www.linqpad.net/), written by [Joseph Albahari](http://www.albahari.com/). It lets you query your SQL Server database using LINQ. It is very easy to map your database, and immediately start writing code.

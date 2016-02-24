@@ -1,4 +1,4 @@
-+++
+---
 author: mgidda
 categories:
 - General
@@ -8,7 +8,7 @@ slug: the-nosql-movement
 title: The NoSQL Movement
 url: /2011/02/23/the-nosql-movement
 wordpress_id: 560
-+++
+---
 
 
 The NOSQL movement that has recently taken on a momentum of its own, NoSQL is not an out pouring of frustration with databases, but is taken to stand for ‘Not Only’ SQL, and is seen as response to technical architectures where traditional database/data query technologies are not the ‘de facto’ approach to data storage and management.

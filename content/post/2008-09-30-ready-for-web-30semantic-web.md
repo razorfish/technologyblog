@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -16,7 +16,7 @@ tags:
 title: Ready for Web 3.0/Semantic Web?
 url: /2008/09/30/ready-for-web-30semantic-web
 wordpress_id: 58
-+++
+---
 
 
 When mainstream media starts talking about SemanticWeb, one can infer that it is not just another buzz within research labs.  Recently the magazine _The Economist_, and _BBC online_ covered this topic.  Early this month Thomson-Reuters announced a service that will help in Semantic Markup.  

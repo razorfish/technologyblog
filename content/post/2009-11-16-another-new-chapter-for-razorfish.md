@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: another-new-chapter-for-razorfish
 title: Another new chapter for Razorfish
 url: /2009/11/16/another-new-chapter-for-razorfish
 wordpress_id: 319
-+++
+---
 
 
 As we have moved into the Publicis umbrella there have been a lot of things to be excited about. Being part of Microsoft was amazing, we grew our skills and made lasting relationships. Our strong technology agnostic skills in Java, LAMP, have grown even stronger adding depth in .Net as well.  As always we search for the right technology to solve business challenges.

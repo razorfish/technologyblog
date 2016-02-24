@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - Cloud computing
@@ -18,7 +18,7 @@ tags:
 title: Keeping the cloud open
 url: /2009/10/28/keeping-the-cloud-open
 wordpress_id: 317
-+++
+---
 
 
 I really like [Matt Asay's article ](http://news.cnet.com/8301-13505_3-10385156-16.html?part=rss&subj=news&tag=2547-1_3-0-5)on why we need to focus on keeping the cloud open and less about keeping the operating system open. If you think of the cloud as an 'array' of applications and less of a hosting solution it starts to open up the aperture on it's true potential. Imaging the ability to stitch together applications across the cloud like you can stitch together data. Basically a [yahoo pipes](http://pipes.yahoo.com/pipes/) for applications not just data.

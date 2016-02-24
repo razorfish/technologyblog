@@ -1,4 +1,4 @@
-+++
+---
 author: Jochen Toppe
 categories:
 - Methodology
@@ -14,7 +14,7 @@ tags:
 title: Leveraging Model Driven Development
 url: /2008/10/27/leveraging-model-driven-development
 wordpress_id: 62
-+++
+---
 
 
 [caption id="attachment_306" align="alignright" width="212" caption="Project Triangle"][![Project Triangle](http://jtoee.com/wp-content/uploads/2008/10/triangle1.jpg)](http://jtoee.com/wp-content/uploads/2008/10/triangle1.jpg)[/caption]

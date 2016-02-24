@@ -1,4 +1,4 @@
-+++
+---
 author: wadoodr
 categories:
 - Mobile
@@ -9,7 +9,7 @@ slug: nfc-technologies
 title: NFC Technologies
 url: /2013/03/13/nfc-technologies
 wordpress_id: 764
-+++
+---
 
 
 With 150 million NFC equipped phones shipped in 2012, and an expected 1b+ million phone equipped with NFC to be shipped by 2016, NFC technology is going to be the next generation solutions for interactive consumer experiences . With companies, such as Google, Samsung and (eventually) Apple, backing NFC technology with chips within their handsets giving consumers a way to use the NFC chips built into their phones, it’s becoming seemingly obvious that this technology is growing rapidly.

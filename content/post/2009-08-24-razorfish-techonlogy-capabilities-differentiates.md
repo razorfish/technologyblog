@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -13,7 +13,7 @@ tags:
 title: Razorfish Technology Capabilities Differentiates
 url: /2009/08/24/razorfish-techonlogy-capabilities-differentiates
 wordpress_id: 250
-+++
+---
 
 
 It's great to get some market recognition for all our efforts. In this post Forrester recognizes that technology differentiates and our addition to Publicis will help strengthen their market position. This captured our attention

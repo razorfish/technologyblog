@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - Technology
@@ -8,7 +8,7 @@ slug: c-query-expressions-and-30-features-book-preview
 title: C# Query Expressions and 3.0 Features (Book Preview)
 url: /2008/04/02/c-query-expressions-and-30-features-book-preview
 wordpress_id: 30
-+++
+---
 
 
 [Bruce Eckel](http://www.bruceeckel.com/) and coauthor Jaime King have posted a sample of their upcoming book: [C# Query Expressions and 3.0 Features](http://www.mindviewinc.com/Books/CSharp/Index.php)

@@ -1,4 +1,4 @@
-+++
+---
 author: aonesto
 categories:
 - General
@@ -7,7 +7,7 @@ slug: the-journey-from-recruiter-to-coder
 title: The Journey From Recruiter To Coder
 url: /2015/05/20/the-journey-from-recruiter-to-coder
 wordpress_id: 1137
-+++
+---
 
 
 When Anthony asked me to write this blog post I didn’t know where to start... My name is Greg Pfaff and I work for Razorfish as a Senior Recruiter. For 8 years I have recruited the best software engineers I could find for my clients, the last 4 have been for Razorfish and it's been a wonderful experience. During my time here I have learned a lot and have accomplished personal and professional new heights. Through lots of learning, Razorfish awarded me the fortunate opportunity to make the switch from the recruiting field to be a full-time Front-End Developer. I didn’t know how to start this article so I googled it, what I found were mostly articles about software engineers turning recruiter and not the other way around. So I’ll do my best and give it shot to give you my perspective.

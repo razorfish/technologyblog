@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - Cloud computing
@@ -14,7 +14,7 @@ tags:
 title: Microsoft talking about a private cloud?
 url: /2009/09/22/microsoft-talking-about-a-private-cloud
 wordpress_id: 261
-+++
+---
 
 
 

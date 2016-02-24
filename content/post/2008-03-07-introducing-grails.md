@@ -1,4 +1,4 @@
-+++
+---
 author: Jochen Toppe
 categories:
 - General
@@ -8,7 +8,7 @@ slug: introducing-grails
 title: Introducing Grails
 url: /2008/03/07/introducing-grails
 wordpress_id: 18
-+++
+---
 
 
 It was Tim Bray, who in his [predictions for 2008](http://www.tbray.org/ongoing/When/200x/2008/01/03/Prediction-Rails) mentioned that “_Rails will continue to grow at a dizzying speed, and Ruby will in consequence inevitably become one of the top two or three strategic choices for software developers_”. Indeed, in my eyes the rails paradigm which blends well-known best-practice patterns such as MVC web applications with the notions of _Coding by Convention_ and _Don’t Repeat Yourself_ doesn’t only speed up and simplify development, but also keeps your code base clean. There are no more tedious configurations files which all repeat themselves yet have the touching fingerprint of every developer’s style. Developers can focus on the most important issue at hand: the functionality. That’s why I’ve always been a huge proponent of Ruby and Rails.

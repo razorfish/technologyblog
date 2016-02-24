@@ -1,4 +1,4 @@
-+++
+---
 author: admin
 categories:
 - General
@@ -14,7 +14,7 @@ tags:
 title: Taming IE6 and a "Drop IE6" rebuke
 url: /2009/07/24/taming-ie6-drop-ie6-rebuke
 wordpress_id: 227
-+++
+---
 
 
 During the development of any project that involves HTML, there's always a nagging question in the back of your mind:  "How broken will this site be in IE6?"  Here's an article that will reduce the amount of worrying you do when fixing your site to work in IE6.  It covers the majority of issues you'll encounter when working with IE6.

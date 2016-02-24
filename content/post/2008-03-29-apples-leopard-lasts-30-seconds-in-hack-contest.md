@@ -1,4 +1,4 @@
-+++
+---
 author: admin
 categories:
 - Technology
@@ -14,7 +14,7 @@ tags:
 title: Apple's Leopard lasts '30 seconds' in hack contest
 url: /2008/03/29/apples-leopard-lasts-30-seconds-in-hack-contest
 wordpress_id: 28
-+++
+---
 
 
 Apple's Leopard has been hacked within 30 seconds using a flaw in Safari, with rival operating systems Ubuntu and Windows Vista so far remaining impenetrable in the [CanSecWest PWN to Own](http://www.zdnet.com.au/news/security/soa/Want-cash-for-PWNing-Linux-Leopard-or-Vista-/0,130061744,339285737,00.htm) competition.

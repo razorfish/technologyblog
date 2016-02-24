@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: highlights-from-razorfish%e2%80%99s-annual-tech-summit
 title: Highlights from Razorfish’s annual tech summit!
 url: /2011/07/21/highlights-from-razorfishe28099s-annual-tech-summit
 wordpress_id: 647
-+++
+---
 
 
 Back in April, Atlanta hosted the fifth annual Razorfish technology summit. We explored how Gesture, Mobile, and the Cloud technologies are enabling a new digital reality for consumers as well as the enterprise. The concept of a cloud-enabled app store is a revolutionary new way to deliver software to the masses across devices and platforms. Enabled by high-speed mobile connections, powerful devices and increasingly low barriers to use, these technologies will change how we interact with brands, each other and the world around us.

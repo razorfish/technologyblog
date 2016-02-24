@@ -1,4 +1,4 @@
-+++
+---
 author: rvelez
 categories:
 - Agile
@@ -20,7 +20,7 @@ tags:
 title: 4th Annual State of Agile Survey
 url: /2009/08/03/4th-annual-state-of-agile-survey
 wordpress_id: 246
-+++
+---
 
 
 In true [Agile](http://en.wikipedia.org/wiki/Agile_management) style, the Agile community is doing their [4th annual survey](http://www.theserverside.com/news/thread.tss?thread_id=55332). Last year it sounds like they had 3000 respondents in 82 countries, pretty wild. Kind of reminds me of a sprint retrospective;).
