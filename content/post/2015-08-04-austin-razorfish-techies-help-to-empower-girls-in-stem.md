@@ -13,8 +13,6 @@ wordpress_id: 1180
 ---
 
 
-# [Austin Razorfish Techies Help To Empower Girls in STEM](http://technology.razorfish.com/?p=1180)
-
 
 [![girlstar](/uploads/2015/07/girlstar.jpeg)](/uploads/2015/07/girlstar.jpeg)
 
