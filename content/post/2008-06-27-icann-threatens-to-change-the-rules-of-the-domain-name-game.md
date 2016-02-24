@@ -1,4 +1,4 @@
----
++++
 author: admin
 categories:
 - General
@@ -12,7 +12,7 @@ tags:
 title: ICANN threatens to change the rules of the domain name game
 url: /2008/06/27/icann-threatens-to-change-the-rules-of-the-domain-name-game
 wordpress_id: 49
----
++++
 
 
 You may be used to typing in top-level domains (TLDs) like .com, .net or .edu when heading to websites, but the Internet Corporation for Assigned Names and Numbers (ICANN) hopes to change that with a decision to open new TLDs for registration, according to today’s [Wall Street Journal](http://online.wsj.com/article/SB121443369987904939.html?mod=googlenews_wsj).  

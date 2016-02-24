@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: new-book-from-the-chief-marketing-technologist-blog-author-scott-brinker
 title: New book from the Chief Marketing Technologist Blog author, Scott Brinker
 url: /2014/05/09/new-book-from-the-chief-marketing-technologist-blog-author-scott-brinker
 wordpress_id: 933
----
++++
 
 
 We have long been a fan of Scott Brinker's writing on his blog http://chiefmartec.com/ . His thinking has help drive a bridge between marketing and technology, which aligns real well with the transformation we are seeing in the market place. His new (mini)book

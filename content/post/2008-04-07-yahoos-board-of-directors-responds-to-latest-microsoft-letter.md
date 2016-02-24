@@ -1,4 +1,4 @@
----
++++
 author: admin
 categories:
 - General
@@ -12,7 +12,7 @@ tags:
 title: Yahoo!'s Board of Directors Responds to Latest Microsoft Letter
 url: /2008/04/07/yahoos-board-of-directors-responds-to-latest-microsoft-letter
 wordpress_id: 35
----
++++
 
 
 The Board of Directors of Yahoo! Inc. (Nasdaq:YHOO), a leading global Internet company, today sent the [following letter](http://yhoo.client.shareholder.com/press/releasedetail.cfm?ReleaseID=303369) to Steve Ballmer, Chief Executive Officer of Microsoft Corporation.

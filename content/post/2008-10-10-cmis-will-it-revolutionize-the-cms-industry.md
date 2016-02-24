@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - Technology
@@ -20,7 +20,7 @@ tags:
 title: CMIS - will it revolutionize the CMS industry?
 url: /2008/10/10/cmis-will-it-revolutionize-the-cms-industry
 wordpress_id: 61
----
++++
 
 
 Last year three major CMS/ECM vendors IBM/Microsoft/ECM came together to propose new standards that will change the CMS landscape the same way SQL 92 did for the database industry.  Content Management Interoperability Services ([CMIS](http://en.wikipedia.org/wiki/Content_Management_Interoperability_Services)) standards cover services that allow interoperability between content stores.

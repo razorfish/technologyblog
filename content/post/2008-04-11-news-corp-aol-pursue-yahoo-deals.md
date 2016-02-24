@@ -1,4 +1,4 @@
----
++++
 author: admin
 categories:
 - General
@@ -15,7 +15,7 @@ tags:
 title: News Corp., AOL Pursue Yahoo Deals
 url: /2008/04/11/news-corp-aol-pursue-yahoo-deals
 wordpress_id: 37
----
++++
 
 
 Yahoo Inc. and Time Warner Inc.'s AOL are closing in on a [deal to combine their Internet operations](http://online.wsj.com/article/SB120776803032602423.html). But Microsoft is recrafting its assault plan by talking with Rupert Murdoch's News Corp., publisher of The Wall Street Journal, about mounting a joint bid for Yahoo, people familiar with the matter said. Microsoft and News Corp. have yet to reach an agreement on joining forces but one person apprised of the plan described the discussions as serious. Such a deal would combine three of the biggest Internet properties: News Corp.'s MySpace, Microsoft's MSN and Yahoo.

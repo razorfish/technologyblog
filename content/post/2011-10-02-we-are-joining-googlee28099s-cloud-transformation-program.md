@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: we-are-joining-google%e2%80%99s-cloud-transformation-program
 title: We are joining Google’s Cloud Transformation Program
 url: /2011/10/02/we-are-joining-googlee28099s-cloud-transformation-program
 wordpress_id: 672
----
++++
 
 
 Razorfish is super excited to join [Google’s Cloud Transformation Program](http://googleenterprise.blogspot.com/2011/09/helping-larger-businesses-make-most-of.html).  Our clients will benefit from the computing power, scalability, and security of [Google’s cloud services](http://www.google.com/enterprise/cloud/), as well as Razorfish’s ability to deliver quickly and iteratively. As part of the Cloud Transformation Program, Razorfish will focus on helping our large enterprise customers build custom web applications and analytics tools using Google App Engine and Google Prediction API.

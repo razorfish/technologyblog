@@ -1,4 +1,4 @@
----
++++
 author: dnichols
 categories:
 - Methodology
@@ -27,7 +27,7 @@ tags:
 title: 'SXSW to Go: Creating Razorfish’s iPhone Guide to Austin (Part 1)'
 url: /2009/06/17/sxsw-to-go-creating-razorfishe28099s-iphone-guide-to-austin-part-1
 wordpress_id: 173
----
++++
 
 
 Once a year, the internet comes to visit Austin, Texas at the South by Southwest Interactive (SXSWi) conference, and, for 2009, the Razorfish Austin office was determined to leave an impression. We ended up making close to 3,000 impressions.

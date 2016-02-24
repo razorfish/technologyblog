@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - API
@@ -14,7 +14,7 @@ tags:
 title: Apigee and Mashery
 url: /2010/04/24/apigee-and-mashery
 wordpress_id: 504
----
++++
 
 
 There is some pretty cool stuff going on around APIs (application programming interfaces). It's getting more and more important that you are using APIs to access social graphs and social functionality through API calls to [Facebook Connect ](http://developers.facebook.com/docs/guides/web)(now called Facebook for websites) and [Twitter API](http://apiwiki.twitter.com/) for example. But on the other side of the equation it's getting more and more imporant for your company to open up your own APIs. [Best Buy's Remix](http://remix.bestbuy.com/) is one of my favorite examples of a company opening up their product catalog so people can build apps on top of the catalog. Think of things like shopping engines or widgets and gadgets for the latest on sale products, etc.

@@ -1,4 +1,4 @@
----
++++
 author: aonesto
 categories:
 - General
@@ -10,7 +10,7 @@ slug: the-cloud-is-the-new-normal-highlights-from-aws-reinvent-2015
 title: '"The cloud is the new normal" – Highlights from AWS re:Invent 2015'
 url: /2015/10/23/the-cloud-is-the-new-normal-highlights-from-aws-reinvent-2015
 wordpress_id: 6992
----
++++
 
 
 [![reinvent](/uploads/2015/10/reinvent.jpg)](/uploads/2015/10/reinvent.jpg)

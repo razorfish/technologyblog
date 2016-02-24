@@ -1,4 +1,4 @@
----
++++
 author: admin
 categories:
 - General
@@ -8,7 +8,7 @@ slug: beautiful-code-leading-programmers-explain-how-they-think
 title: '“Beautiful Code: Leading Programmers Explain How They Think”'
 url: /2008/03/19/beautiful-code-leading-programmers-explain-how-they-think
 wordpress_id: 24
----
++++
 
 
 "Beautiful Code: Leading Programmers Explain How They Think" is yet-another-excellent book put out by O'Reilly Books. It contains 33 essays written by respected members of the Software Development community and each essay is a variation on the theme of how we define "Beautiful Code". The range of topics is vast and includes subjects like "A Regular Expression Matcher", "Distributed Programming with MapReduce", "Python's Dictionary Implementation", and [one my favorites] "The Most Beautiful Code I Never Wrote". Each of the authors does a fantastic job of being as concise as possible without sacrificing an accurate presentation and solution of the covered problem. 

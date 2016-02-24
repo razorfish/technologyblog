@@ -1,4 +1,4 @@
----
++++
 author: pmodi
 categories:
 - News
@@ -12,7 +12,7 @@ tags:
 title: Oxite - Open Source blogging platform from Microsoft
 url: /2008/12/16/oxite-open-source-blogging-platform-from-microsoft
 wordpress_id: 79
----
++++
 
 
 [![Microsofts Open source Blogging Platform](http://www.praveenmodi.com/wp-content/uploads/2008/12/oxite.png)](http://www.praveenmodi.com/wp-content/uploads/2008/12/oxite.png)

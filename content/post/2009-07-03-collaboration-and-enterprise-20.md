@@ -1,4 +1,4 @@
----
++++
 author: pmodi
 categories:
 - Technology
@@ -8,7 +8,7 @@ slug: collaboration-and-enterprise-20
 title: Collaboration and Enterprise 2.0
 url: /2009/07/03/collaboration-and-enterprise-20
 wordpress_id: 201
----
++++
 
 
 AIIM ([www.aiim.org](http://www.aiim.org/)) non-profit organization for enterprise content management (ECM) has released a report on how “[Collaboration and Enterprise 2.0](http://www.aiim.org/Research/Collaboration-Enterprise20-Research.aspx)” is gaining importance among business.

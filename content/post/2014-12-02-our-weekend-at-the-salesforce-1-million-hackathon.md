@@ -1,4 +1,4 @@
----
++++
 author: aonesto
 categories:
 - General
@@ -8,7 +8,7 @@ slug: our-weekend-at-the-salesforce-1-million-hackathon
 title: Our Weekend At The Salesforce $1 Million Hackathon
 url: /2014/12/02/our-weekend-at-the-salesforce-1-million-hackathon
 wordpress_id: 1034
----
++++
 
 
 The [Salesforce $1 Million Hackathon](https://developer.salesforce.com/million-dollar-hackathon) is an annual event organized by Salesforce at Silicon Valley. This year, it was held from October 10 – 12, 2014 at City View in Metreon, San Francisco, California (USA).

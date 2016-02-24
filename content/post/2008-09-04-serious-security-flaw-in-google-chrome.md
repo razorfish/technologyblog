@@ -1,4 +1,4 @@
----
++++
 author: admin
 categories:
 - Technology
@@ -14,7 +14,7 @@ tags:
 title: Serious Security Flaw in Google Chrome
 url: /2008/09/04/serious-security-flaw-in-google-chrome
 wordpress_id: 57
----
++++
 
 
 Security expert Aviv Raff discovered a flaw in the newly released Google Chrome browser. He set up a [demo](http://raffon.net/research/google/chrome/carpet.html) of the exploit here. This will download a java file to your desktop if you are using Chrome.

@@ -1,4 +1,4 @@
----
++++
 author: mjacobs
 categories:
 - General
@@ -12,7 +12,7 @@ tags:
 title: Syndicated Client Starter Kit
 url: /2008/04/15/syndicated-client-starter-kit
 wordpress_id: 38
----
++++
 
 
 When doing WPF development, a good source of information is [http://windowsclient.net](http://windowsclient.net). One interesting download on that site is the [Syndicated Client Starter Kit ](http://windowsclient.net/wpf/starter-kits/sce.aspx). It is a Starter Kit designed to make it easy to create rich, syndicated multimedia and content client applications. It has built-in ad-serving capabilities, and includes the sync framework that takes care of syncing, local storage, subscription management and the safe caching of authentication credentials. The MSDN reader sample application, and the starter kit itself, are available for download including source code.

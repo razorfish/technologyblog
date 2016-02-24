@@ -1,4 +1,4 @@
----
++++
 author: mjacobs
 categories:
 - Cloud computing
@@ -14,7 +14,7 @@ tags:
 title: Technology Predictions for 2010
 url: /2009/12/17/technology-predictions-for-2010
 wordpress_id: 333
----
++++
 
 
 Razorfish's Matt Johnson outlined his predictions for content management over at our CMS blog, [www.cmsoutlook.com](http://www.cmsoutlook.com/). Many of his predictions will hold true for web technology at large as well. I see traction and opportunities for:

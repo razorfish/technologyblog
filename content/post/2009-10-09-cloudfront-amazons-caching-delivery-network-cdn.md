@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - Cloud computing
@@ -18,7 +18,7 @@ tags:
 title: Cloudfront, Amazon's Caching Delivery Network (CDN)
 url: /2009/10/09/cloudfront-amazons-caching-delivery-network-cdn
 wordpress_id: 269
----
++++
 
 
 

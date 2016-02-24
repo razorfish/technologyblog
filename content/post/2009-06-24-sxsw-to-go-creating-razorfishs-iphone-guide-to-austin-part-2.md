@@ -1,4 +1,4 @@
----
++++
 author: dnichols
 categories:
 - Methodology
@@ -30,7 +30,7 @@ tags:
 title: 'SXSW to Go: Creating Razorfish''s iPhone Guide to Austin (Part 2)'
 url: /2009/06/24/sxsw-to-go-creating-razorfishs-iphone-guide-to-austin-part-2
 wordpress_id: 175
----
++++
 
 
 ## Design and  Development

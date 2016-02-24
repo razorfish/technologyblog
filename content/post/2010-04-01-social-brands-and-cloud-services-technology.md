@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: social-brands-and-cloud-services-technology
 title: Social Brands and Cloud Services Technology
 url: /2010/04/01/social-brands-and-cloud-services-technology
 wordpress_id: 491
----
++++
 
 
 Here's a presentation I gave at a conference recently sharing our point of view on the linkage between social brands and cloud services technology. At the end of the day the power of cloud services helps to drive traffic in several powerful ways.

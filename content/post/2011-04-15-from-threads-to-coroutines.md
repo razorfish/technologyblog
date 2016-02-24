@@ -1,4 +1,4 @@
----
++++
 author: bmord
 categories:
 - General
@@ -11,7 +11,7 @@ tags:
 title: From Threads to Coroutines
 url: /2011/04/15/from-threads-to-coroutines
 wordpress_id: 619
----
++++
 
 
 Twitter's [recent move to Netty](http://engineering.twitter.com/2011/04/twitter-search-is-now-3x-faster_1656.html) brought with it significant performance improvements, highlighting the importance of network and concurrency architecture. Netty looks like a great framework, making the most of what Java provides today - but at heart, Netty must still be based on multithreading. [Mysterious problems](http://www.jboss.org/netty/community.html#nabble-td3434933) are therefore expected. What is really needed is for the world to move past multithreading (any day now, please) which is just a [terrible concurrency paradigm](http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf).

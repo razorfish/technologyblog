@@ -1,4 +1,4 @@
----
++++
 author: aonesto
 categories:
 - General
@@ -8,7 +8,7 @@ slug: amazon-web-services-bigger-and-bolder-but-will-it-be-the-new-normal
 title: Amazon Web Services – Bigger and bolder, but will it be the new normal?
 url: /2014/12/02/amazon-web-services-bigger-and-bolder-but-will-it-be-the-new-normal
 wordpress_id: 1057
----
++++
 
 
 A recap of this year's edition of the AWS Re:Invent Conference

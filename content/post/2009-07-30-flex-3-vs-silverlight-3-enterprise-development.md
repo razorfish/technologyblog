@@ -1,4 +1,4 @@
----
++++
 author: admin
 categories:
 - Technology
@@ -17,7 +17,7 @@ tags:
 title: 'Flex 3 vs Silverlight 3: Enterprise Development'
 url: /2009/07/30/flex-3-vs-silverlight-3-enterprise-development
 wordpress_id: 239
----
++++
 
 
 With the recent release of Silverlight 3 and Flash 10 / Flex 4, the Flash vs Silverlight debate has been stoked yet again.  The debate has been raging on twitter using the tags #flex #silverlight.  Links to articles are posted almost every day and retweeted endlessly.

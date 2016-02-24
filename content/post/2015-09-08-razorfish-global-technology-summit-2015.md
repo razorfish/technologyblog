@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - General
@@ -9,7 +9,7 @@ post_format:
 slug: razorfish-global-technology-summit-2015
 title: Razorfish Global Technology Summit 2015
 url: /2015/09/08/razorfish-global-technology-summit-2015
----
++++
 
 
 

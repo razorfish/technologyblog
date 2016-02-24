@@ -1,4 +1,4 @@
----
++++
 author: aonesto
 categories:
 - General
@@ -8,7 +8,7 @@ slug: 2014-fluent-conference
 title: 2014 Fluent Conference Recap
 url: /2014/04/22/2014-fluent-conference
 wordpress_id: 914
----
++++
 
 
 Razorfish presentation layer engineers from around the U.S. recently converged on San Francisco for the 2014 Fluent Conference (the third instance of O’Reilly’s annual web conference on HTML5, JavaScript, and other web technologies). This year’s event marked several themes woven into the working sessions, presentations, and general thought leadership. Two that stand out in my mind were:

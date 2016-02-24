@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: razorfish-technology-2012-summary
 title: Razorfish Technology 2012 Summary
 url: /2012/06/20/razorfish-technology-2012-summary
 wordpress_id: 715
----
++++
 
 
 The 2012 Razorfish Technology Summit was a huge success. With over 180 attendees from Razorfish, Clients, Vivaki brands, and industry thought leaders, it was our largest event to date.

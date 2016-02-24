@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: fully-automated-production-release-and-the-toss-test
 title: Fully automating releases to production and The Toss Test
 url: /2011/01/26/fully-automated-production-release-and-the-toss-test
 wordpress_id: 531
----
++++
 
 
 I just read this article on [web ops 2.0](http://dev2ops.org/storage/downloads/FullyAutomatedProvisioning_Whitepaper.pdf), basically the movement to automate pushing builds to production. There's been a lot on the web recently on the topic, this slideshare presentation from [flickr ](http://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr)is great. A proof point that we can release a lot more often to production, especially with agile/iterative teams that include QA practices as part of development as opposed to a separate effort. The analogy between spock as development and scotty as operations is pretty spot on. It highlights another important point, which is while the technology is there, we also need to bridge the different personalities.

@@ -1,4 +1,4 @@
----
++++
 author: admin
 categories:
 - Technology
@@ -13,7 +13,7 @@ tags:
 title: Microsoft adds new features to .NET
 url: /2008/08/15/microsoft-adds-new-features-to-net
 wordpress_id: 54
----
++++
 
 
 Microsoft has introduced new features in .NET with their Service Pack 1 (SP1) release of .NET Framework 3.5 and Visual Studio 2008.

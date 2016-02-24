@@ -1,4 +1,4 @@
----
++++
 author: MarieDeLuna
 categories:
 - General
@@ -21,7 +21,7 @@ tags:
 title: SharePoint Conference 2009 - Day 3
 url: /2009/10/27/sharepoint-conference-2009-day-3
 wordpress_id: 306
----
++++
 
 
 Day 3!  The whole reason I am at the SharePoint Conference this year is because I am helping our client present their SharePoint case study in one of today's sessions.

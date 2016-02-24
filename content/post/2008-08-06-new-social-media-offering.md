@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - General
@@ -20,7 +20,7 @@ tags:
 title: New social media offering
 url: /2008/08/06/new-social-media-offering
 wordpress_id: 52
----
++++
 
 
 [![Digitage Web 2.0](http://farm1.static.flickr.com/113/315385916_c235d39406_m.jpg)](http://www.flickr.com/photos/89488115@N00/315385916)Image by [ocean.flynn](http://www.flickr.com/photos/89488115@N00/315385916) via Flickr

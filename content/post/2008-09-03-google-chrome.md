@@ -1,4 +1,4 @@
----
++++
 author: admin
 categories:
 - General
@@ -15,7 +15,7 @@ tags:
 title: Google Chrome - Why it is different?
 url: /2008/09/03/google-chrome
 wordpress_id: 56
----
++++
 
 
 Yesterday, Google launched its first beta version of open source web browser called [Chrome](http://www.google.com/chrome/). Some people consider this launch as Google’s attack on [Microsoft’s IE](http://www.microsoft.com/windows/internet-explorer/beta/default.aspx) and some regarded this launch as yet another browser to choose from. Google indirectly claims that market needed a fresh web browser. A browser that is written from scratch with a next generation thinking even though Chrome is built on [WebKit](http://webkit.org/) an existing open source web browser engine. Google’s long term strategy behind this product is unknown but I believe it is the move Google should have made long time ago.

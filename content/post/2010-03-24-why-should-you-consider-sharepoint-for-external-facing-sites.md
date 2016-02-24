@@ -1,4 +1,4 @@
----
++++
 author: admin
 categories:
 - Sharepoint
@@ -13,7 +13,7 @@ tags:
 title: Why Should You Consider SharePoint for External-Facing Sites
 url: /2010/03/24/why-should-you-consider-sharepoint-for-external-facing-sites
 wordpress_id: 460
----
++++
 
 
 SharePoint is a great platform for external-facing sites, either B2C or B2B. SharePoint is primarily known as an Intranet environment that allows non-technical end-users to build new sites in a very short time, with rich collaborative functionality such as document sharing, out-of-the-box integration with search, and easy to use content management.

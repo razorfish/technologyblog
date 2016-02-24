@@ -1,4 +1,4 @@
----
++++
 author: aonesto
 categories:
 - Cloud computing
@@ -9,7 +9,7 @@ slug: building-an-ivr-system-in-the-cloud
 title: Building an IVR system in the cloud
 url: /2014/05/15/building-an-ivr-system-in-the-cloud
 wordpress_id: 940
----
++++
 
 
 [Interactive Voice Response (IVR) systems](http://en.wikipedia.org/wiki/Interactive_voice_response) offer a way for users to interact with existing software applications using voice and keypad input  from their phones.  Below is an exhaustive list of benefits that IVR systems offer.

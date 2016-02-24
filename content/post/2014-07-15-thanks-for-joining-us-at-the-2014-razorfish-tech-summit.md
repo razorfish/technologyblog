@@ -1,4 +1,4 @@
----
++++
 author: aonesto
 categories:
 - General
@@ -8,7 +8,7 @@ slug: thanks-for-joining-us-at-the-2014-razorfish-tech-summit
 title: Thanks for joining us at the 2014 Razorfish Tech Summit
 url: /2014/07/15/thanks-for-joining-us-at-the-2014-razorfish-tech-summit
 wordpress_id: 977
----
++++
 
 
 Over 200 attendees gathered at the Altman Building in NYC for two days of insightful presentations, hands-on workshops and networking.

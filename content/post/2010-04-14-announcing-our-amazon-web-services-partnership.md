@@ -1,4 +1,4 @@
----
++++
 author: rvelez
 categories:
 - General
@@ -8,7 +8,7 @@ slug: announcing-our-amazon-web-services-partnership
 title: Announcing our Amazon Web Services Partnership
 url: /2010/04/14/announcing-our-amazon-web-services-partnership
 wordpress_id: 498
----
++++
 
 
 Today we announced our [Amazon Web Services Partnership](http://www.prweb.com/releases/2010/04/prweb3869624.htm). Building on our Razorfish 5 report and the recent Razorfish Techology Summit, this is the latest affirmation of our commitment to supporting the marketing and business needs of our clients with the cloud. We are really excited about the opportunities to work together, especially with the rapidly evolving cloud infrastructure technologies in the marketplace. We've been growing our cloud computing practice quite aggresively over the last couple of years and see huge potential for our clients. Some of the immediate benefits we've seen for clients are the following:
