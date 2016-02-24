@@ -2,7 +2,6 @@
 author: aonesto
 categories:
 - General
-comments: true
 date: '2015-05-20'
 slug: the-journey-from-recruiter-to-coder
 title: The Journey From Recruiter To Coder
