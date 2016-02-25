@@ -1,23 +1,28 @@
-		</div><!-- #main -->
+</div>
+<!-- #main -->
 
-		<footer id="colophon"  class="contentinfo">
+<footer id="colophon" class="contentinfo">
 
-			<div class="site-info">
-				<div class ="footer-links">
-                    <div class="links"><a href="http://www.razorfish.com/privacyPolicy.htm" target="_blank">Privacy Policy</a> | </div>
-                    <div class="links"><a href="http://technology.razorfish.com/?feed=rss2">Entries (RSS)</a> | </div>
-                    <div class="links"><a href="http://technology.razorfish.com/?feed=comments-rss2">Comments (RSS)</a></div>
-                </div>
-                <div class="razorfish-copyright">
-                        &copy; Razorfish&trade; LLC All rights reserved.
-                </div>
+    <div class="site-info">
+        <div class="footer-links">
+            <div class="links"><a href="http://www.razorfish.com/privacyPolicy.htm" target="_blank">Privacy Policy</a> | </div>
+            {{ if .RSSlink }}
+            <div class="links"> <a href="{{ .URL }}" type="application/rss+xml" target="_blank">Entries (RSS)</a> </div>
+            {{ end }}
+            <div class="links"><a href="http://technology.razorfish.com/?feed=rss2">Entries (RSS)</a> | </div>
+        </div>
+        <div class="razorfish-copyright">
+            &copy; Razorfish&trade; LLC All rights reserved.
+        </div>
 
-			</div><!-- .site-info -->
-		</footer><!-- #colophon -->
-	</div><!-- #page -->
+    </div>
+    <!-- .site-info -->
+</footer>
+<!-- #colophon -->
+</div>
+<!-- #page -->
 
-    <script type='text/javascript' src='{{ .Site.BaseURL }}/js/main.js'></script>
-	<script type='text/javascript' src='{{ .Site.BaseURL }}/js/functions.js'></script>
-
-</body>
-</html>
+<script type='text/javascript' src='{{ .Site.BaseURL }}/js/main.js'></script>
+<script type='text/javascript' src='{{ .Site.BaseURL }}/js/functions.js'></script>
+<body>
+<html>

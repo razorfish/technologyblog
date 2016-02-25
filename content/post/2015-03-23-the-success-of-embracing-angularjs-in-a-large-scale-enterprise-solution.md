@@ -82,43 +82,10 @@ The Ford corporate and Quicklane sites launched successfully in Q4 2014, while t
 
 We also saw some considerable performance gains during our performance and load tests. Some highlights to note compared to the old Ford/Lincoln owner portals:
 
-
-
-
-
-
-	
-  * 
-
-
-Login & Authenticated Homepage: 50% faster @ 9x load
-
-
-
-
-	
-  * 
-
-
-Registration: 130% faster @ 3x load
-
-
-
-
-	
-  * 
-
-
-Upload Software Installation Log: 328% faster @ 100x load
-
-
-
-
-	
-  * 
-
-
-Check Sync Software Status: 536% faster @ 6x load
+  * Login & Authenticated Homepage: 50% faster @ 9x load
+  * Registration: 130% faster @ 3x load
+  * Upload Software Installation Log: 328% faster @ 100x load
+  * Check Sync Software Status: 536% faster @ 6x load
 
 
 
@@ -154,28 +121,9 @@ The presentation was recorded, and will be available on Google’s AngularJS You
 
 
 	
-  * 
-
-
-Presentation Slides: [http://goo.gl/gtv79v](http://goo.gl/gtv79v)
-
-
-
-
-	
-  * 
-
-
-Sample Code: [https://github.com/jeffchew/angularjs-requirejs-presentation-examples](https://github.com/jeffchew/angularjs-requirejs-presentation-examples)
-
-
-
-
-	
-  * 
-
-
-AngularJS/RequireJS Boilerplate: [https://github.com/Razorfish-East/angularjs-requirejs-boilerplate/](https://github.com/Razorfish-East/angularjs-requirejs-boilerplate/)
+  * Presentation Slides: [http://goo.gl/gtv79v](http://goo.gl/gtv79v)
+  * Sample Code: [https://github.com/jeffchew/angularjs-requirejs-presentation-examples](https://github.com/jeffchew/angularjs-requirejs-presentation-examples)
+  * AngularJS/RequireJS Boilerplate: [https://github.com/Razorfish-East/angularjs-requirejs-boilerplate/](https://github.com/Razorfish-East/angularjs-requirejs-boilerplate/)
 
 
 

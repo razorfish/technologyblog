@@ -57,7 +57,7 @@ The Razorfish team
 **
 Sponsored by:**
 
-[caption id="attachment_981" align="aligncenter" width="300"][![Tech Summit 2014, Sponsored by](/uploads/2014/07/TechSummit2014_sponsors-300x168.png)](/uploads/2014/07/TechSummit2014_sponsors.png) Tech Summit 2014, Sponsored by[/caption]
+[![Tech Summit 2014, Sponsored by](/uploads/2014/07/TechSummit2014_sponsors-300x168.png)](/uploads/2014/07/TechSummit2014_sponsors.png) Tech Summit 2014
 
 **A message from one of our partners:**
 
