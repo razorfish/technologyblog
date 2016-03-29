@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<div id="main" class="wrapper">
+
+    <div id="primary" class="site-content">
+        <div id="content" role="main">
+
+            {{ range where .Data.Pages "Section" "post" }} {{ partial "content.html" . }} {{ end }}
+        </div>
+        <!-- #content -->
+    </div>
+    <!-- #primary -->
+    {{ partial "sidebar.html" . }}
+</div>
+<!-- #main-content -->
+
+{{ partial "footer.html" . }}

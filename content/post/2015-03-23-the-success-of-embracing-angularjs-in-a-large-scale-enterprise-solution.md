@@ -8,6 +8,8 @@ slug: the-success-of-embracing-angularjs-in-a-large-scale-enterprise-solution
 title: The Success of Embracing AngularJS in a Large-Scale Enterprise Solution
 url: /2015/03/23/the-success-of-embracing-angularjs-in-a-large-scale-enterprise-solution
 wordpress_id: 1107
+2015:
+- "03"
 ---
 
 

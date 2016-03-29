@@ -8,6 +8,8 @@ slug: components-approach-to-building-web-apps
 title: ' Components Approach to Building Web Apps'
 url: /2015/04/27/components-approach-to-building-web-apps
 wordpress_id: 1128
+2015:
+- "04"
 ---
 
 

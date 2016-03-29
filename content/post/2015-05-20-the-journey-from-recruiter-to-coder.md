@@ -7,6 +7,8 @@ slug: the-journey-from-recruiter-to-coder
 title: The Journey From Recruiter To Coder
 url: /2015/05/20/the-journey-from-recruiter-to-coder
 wordpress_id: 1137
+2015:
+- "05"
 ---
 
 
