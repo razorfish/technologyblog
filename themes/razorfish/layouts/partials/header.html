@@ -19,13 +19,13 @@
 
     <link rel='stylesheet' id='twentytwelve-style-css' href='{{ .Site.BaseURL }}/css/style.css' type='text/css' media='all' />
     <!--[if lt IE 9]>
-	<link rel='stylesheet' id='twentytwelve-ie-css'  href='/css/ie.css' type='text/css' media='all' />
-	<![endif]-->
+  <link rel='stylesheet' id='twentytwelve-ie-css'  href='/css/ie.css' type='text/css' media='all' />
+  <![endif]-->
 
     <script type='text/javascript' src='{{ .Site.BaseURL }}/js/jquery/jquery.js'></script>
     <script type='text/javascript' src='{{ .Site.BaseURL }}/js/jquery/jquery-migrate.min.js'></script>
     <link rel="stylesheet" href='{{ .Site.BaseURL }}/css/contact.css' type="text/css" media="screen" />
-    <!--	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style> -->
+    <!--  <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style> -->
 
     <script>
         (function (i, s, o, g, r, a, m) {
@@ -57,7 +57,7 @@
                     <div class="search-plugin">
                         <form method="get" id="searchform" role="search" action="http://technology.razorfish.com/">
                             <label class="screen-reader-text" for="s"></label>
-                            <input type="text" value="" name="s" id="search" class="search-textfield" placeholder="Search">
+                            <input type="text" value="" name="s" id="search" class="search-textfield" placeholder="Search" autocomplete="off">
                             <!-- search results box -->
                             <ul id="results">
                             </ul>
@@ -71,18 +71,18 @@
                         <label for="toggle-menu" class="menu-button-label icon-reorder" style="color: rgb(60, 69, 2);"></label>
                     </div>
                     <input type="checkbox" id="toggle-menu" class="menu-button" />
-                    <nav id="site-navigation" class="main-navigation" role="navigation" style="display: block;">
-                        <a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
-                        <div class="menu-razorfish-menu-container">
-                            <ul id="menu-razorfish-menu" class="nav-menu">
-                                <li id="menu-item-800" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-800"><a href="{{ .Site.BaseURL }}">home</a></li>
-                                <li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="{{ .Site.BaseURL }}/about/">about</a></li>
-                                <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="{{ .Site.BaseURL }}/contact/">contact</a></li>
-                            </ul>
-                        </div>
-                    </nav>
-                    <!-- #site-navigation -->
                 </div>
+                <nav id="site-navigation" class="main-navigation" role="navigation" style="display: block;">
+                    <a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+                    <div class="menu-razorfish-menu-container">
+                        <ul id="menu-razorfish-menu" class="nav-menu">
+                            <li id="menu-item-800" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-800"><a href="{{ .Site.BaseURL }}">home</a></li>
+                            <li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="{{ .Site.BaseURL }}/about/">about</a></li>
+                            <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="{{ .Site.BaseURL }}/contact/">contact</a></li>
+                        </ul>
+                    </div>
+                </nav>
+                <!-- #site-navigation -->
             </header>
             <!-- #masthead -->
             <div class="twitter-plugin">
@@ -140,7 +140,6 @@
 
                
 
-
             $results = $("#results");
             $("#search").keyup(function () {
                 $results.empty();
@@ -148,6 +147,7 @@
                 // Only trigger a search when 2 chars. at least have been provided
                 var query = $(this).val();
                 if (query.length < 2) {
+                    $('#results').hide();
                     return;
                 }
 
@@ -185,6 +185,7 @@
             function renderResults(results) {
                 if (!results.length) {
                     console.log('no results');
+                    $('#results').hide();
                     return;
                 }
                 //console.log(results);
@@ -193,6 +194,15 @@
                     console.log(result);
                     var elstring = '<li><a href="' + result.uri + '" style="text-decoration: none; color: #000000;">' +  result.title + '</a></li>';
                     $("#results").append (elstring);
+                    $('#results').show();
+                    $('html').one('click',function(event) {
+                        if(!$(event.currentTarget).is('#results')) {
+                        $('#results').hide();
+                        //hide results if you click on the page
+                        }
+                    });
+
+                          
                     /**
                     var $result = $("<li>");
                     $result.append($("<a>", {

@@ -72,6 +72,9 @@ a:hover {
 }
 
 /** Page structure **/
+#main-content {
+    overflow: hidden;
+}
 
 .site-content { 
     background-color: #FFFFFF;
@@ -80,6 +83,8 @@ a:hover {
     padding-bottom: 15px;
     padding-top: 30px;
     width: 76%;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
 }
 
 .widget-area { 
@@ -91,7 +96,7 @@ a:hover {
     margin-bottom: 1em;
 }
 
-.widget-area .widget h3 { 
+.widget-area .widget h3, h1.widget-title { 
     border-bottom: 1px solid #CCCCCC;
     margin: 0px;
     padding-bottom: 3px;
@@ -167,6 +172,7 @@ a:hover {
 .header-twitter-container {
     height: 165px;
     width: 100%;
+    position: relative;
 }
 
 .header-container {
@@ -222,6 +228,36 @@ a:hover {
     padding-top: 14px;
     text-align:right;
     width: 40%;
+    right: 15px;
+    position: relative;
+}
+
+ #results {
+    display: none;
+    text-align: left;
+    margin-top: 2px;
+    padding: 10px;
+    background: #242424;
+    width: 300px;
+    margin-left: -30px;
+    border-collapse: separate;/* for ie9 boxshadow */
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+}
+
+#results li {
+    padding: 4px 0;
+}
+
+#results li a {
+    color: #838383 !important;
+    font-weight: normal;
+    line-height: 16px;
+}
+
+#results li a:hover {
+    color: #9CAD03 !important;
 }
 
 .menu-icon {
@@ -334,13 +370,14 @@ input[type="checkbox"].menu-button {
 /** Navigation **/
 
 .main-navigation {
-    float: left;
     margin: 0px;
-    #padding-left: 6px;
-    #padding-top: 8px;
-    width: 100%;
+    padding-left: 34px;
+    /* #padding-top: 8px; */
+    width: auto;
     display: none;
-    #visibility: hidden;
+    /* #visibility: hidden; */
+    position: absolute;
+    bottom: 18px;
 }
 
 .main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul { 
@@ -390,6 +427,7 @@ input[type="checkbox"].menu-button {
 .header-logo-search {
     padding-left:34px;
     padding-top: 27px;
+    overflow: hidden;
 }
 
 /** Posts **/
@@ -636,7 +674,7 @@ input[type="checkbox"].menu-button {
     }
 
     .main-navigation {
-        padding-left: 0;
+        padding-left: 18px;
     }
 /*
     .main-navigation li {
@@ -840,6 +878,7 @@ input[type="checkbox"].menu-button {
     .search-plugin {
         padding-top: 7px;
         width: 40%;
+        z-index: 999;
     }
 
     .search-textfield {
@@ -865,12 +904,18 @@ input[type="checkbox"].menu-button {
         font-size: 2.2em;
         padding: 0 0 0 2px;
     }
-
+    #results {
+        width: 325px;
+        margin: 2px -156px;
+    }
     .menu-icon {
         float: right;
         margin-right: 17px;
         padding-top: 5px;
         width: auto;
+        position: absolute;
+        top: 14px;
+        right: 0;
     }
 
     .menu-button-label {
@@ -903,6 +948,7 @@ input[type="checkbox"].menu-button {
         float: right;
         padding-top: 0;
         width: 47%;
+        position: relative;
     }
 
     .main-navigation ul.nav-menu,
@@ -1000,7 +1046,10 @@ input[type="checkbox"].menu-button {
         margin-top: 2px;
         width: 50px;
     }
-
+    #results {
+        width: 280px;
+        margin: 2px -144px;
+    }
     ::-webkit-input-placeholder {
         font-size: 0.9em;
     }
