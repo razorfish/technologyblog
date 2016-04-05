@@ -227,7 +227,7 @@ a:hover {
     float:left;
     padding-top: 14px;
     text-align:right;
-    width: 40%;
+    width: 50%;
     right: 15px;
     position: relative;
 }
@@ -264,6 +264,7 @@ a:hover {
     float:left;
     padding-top: 10px;
     width: 6%;
+    display: none;
 }
 
 .search-textfield {
@@ -604,9 +605,7 @@ input[type="checkbox"].menu-button {
         padding-left: 35px;
     }
 
-    .search-plugin {
-        width: 39%;
-    }
+
 
     .search-textfield {
         width: 130px;
@@ -659,10 +658,6 @@ input[type="checkbox"].menu-button {
 
     .header-logo-search {
         padding-left: 15px;
-    }
-
-    .search-plugin {
-        width: 38%;
     }
 
     .search-textfield {
@@ -792,6 +787,7 @@ input[type="checkbox"].menu-button {
 
     .menu-icon {
         padding-top: 3px;
+        display: block;
     }
 
     .main-navigation {
@@ -877,7 +873,7 @@ input[type="checkbox"].menu-button {
     
     .search-plugin {
         padding-top: 7px;
-        width: 40%;
+        width: 50%;
         z-index: 999;
     }
 
