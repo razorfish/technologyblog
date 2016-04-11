@@ -51,7 +51,7 @@
             <header id="masthead" class="site-header" role="banner">
                 <div class="header-logo-search">
                     <div class="razorfish-logo">
-                        <a href="{{ .Site.BaseURL }}"><img alt="Razorfish Logo" src='{{ .Site.BaseURL }}/images/logo.png' width="246" height="50" /></a>
+                        <a href="{{ .Site.BaseURL }}/"><img alt="Razorfish Logo" src='{{ .Site.BaseURL }}/images/logo.png' width="246" height="50" /></a>
                     </div>
                     <!--<div class="search-plugin">-->
                     <div class="search-plugin">
@@ -76,7 +76,7 @@
                     <a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
                     <div class="menu-razorfish-menu-container">
                         <ul id="menu-razorfish-menu" class="nav-menu">
-                            <li id="menu-item-800" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-800"><a href="{{ .Site.BaseURL }}">home</a></li>
+                            <li id="menu-item-800" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-800"><a href="{{ .Site.BaseURL }}/">home</a></li>
                             <li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a href="{{ .Site.BaseURL }}/about/">about</a></li>
                             <li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a href="{{ .Site.BaseURL }}/contact/">contact</a></li>
                         </ul>
@@ -95,7 +95,7 @@
             </div>
         </div>
         <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
-        <script type="text/javascript" src="//js/lunr.min.js"></script>
+        <script type="text/javascript" src="{{ .Site.BaseURL }}/js/lunr.min.js"></script>
         <script type="text/javascript">
             var lunrIndex,
                 $results,
