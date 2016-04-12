@@ -19,7 +19,7 @@ wordpress_id: 5946
 
 
 
-![ray-and-andy-web](/uploads/2015/09/ray-and-andy-web.jpg)](/uploads/2015/09/ray-and-andy-web.jpg)
+![ray-and-andy-web](/uploads/2015/09/ray-and-andy-web.jpg)
 
 
 Today marked the seventh iteration of the Razorfish Tech Summit, which brought together more than 200 technology industry executives in New York City to discuss software innovation. The two-day, invitation-only event was collaboratively sponsored and created with Adobe, Amazon Web Services, Appirio, Dynatrace, hybris, IBM, Rackspace, and Yahoo.
