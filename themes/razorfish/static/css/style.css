@@ -238,7 +238,7 @@ a:hover {
     margin-top: 2px;
     padding: 10px;
     background: #242424;
-    width: 300px;
+    width: 395px;
     margin-left: -30px;
     border-collapse: separate;/* for ie9 boxshadow */
     -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
@@ -614,6 +614,10 @@ input[type="checkbox"].menu-button {
     .search-button {
         padding: 0px 15px 0px 5px;
     }
+
+    #results {
+        margin-left: -45px;
+    }
 /*
     .main-navigation {
         padding-left: 6px;
@@ -727,6 +731,10 @@ input[type="checkbox"].menu-button {
 */
     .main-navigation li {
         margin: 10px 10px 0px 0px;
+    }
+    #results {
+        width: 295px;
+        margin-left: -30px;
     }
 
 /*
@@ -873,7 +881,7 @@ input[type="checkbox"].menu-button {
     
     .search-plugin {
         padding-top: 7px;
-        width: 50%;
+        width: 43%;
         z-index: 999;
     }
 
@@ -1033,14 +1041,14 @@ input[type="checkbox"].menu-button {
     
     .search-plugin {
         padding-top: 3px;
-        width: 36%;
+        width: 40%;
     }
 
     .search-textfield {
         font-size: 0.8em;
         height: 8px;
         margin-top: 2px;
-        width: 50px;
+        width: 90px;
     }
     #results {
         width: 280px;
