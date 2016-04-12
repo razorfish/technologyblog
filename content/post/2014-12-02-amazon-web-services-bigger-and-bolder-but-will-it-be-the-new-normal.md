@@ -8,6 +8,8 @@ slug: amazon-web-services-bigger-and-bolder-but-will-it-be-the-new-normal
 title: Amazon Web Services – Bigger and bolder, but will it be the new normal?
 url: /2014/12/02/amazon-web-services-bigger-and-bolder-but-will-it-be-the-new-normal
 wordpress_id: 1057
+2014:
+- "12"
 ---
 
 

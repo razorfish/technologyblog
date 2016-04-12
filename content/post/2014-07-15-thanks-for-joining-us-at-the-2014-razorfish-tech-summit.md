@@ -8,6 +8,8 @@ slug: thanks-for-joining-us-at-the-2014-razorfish-tech-summit
 title: Thanks for joining us at the 2014 Razorfish Tech Summit
 url: /2014/07/15/thanks-for-joining-us-at-the-2014-razorfish-tech-summit
 wordpress_id: 977
+2014:
+- "07"
 ---
 
 

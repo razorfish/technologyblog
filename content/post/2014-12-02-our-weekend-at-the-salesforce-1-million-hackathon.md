@@ -8,6 +8,8 @@ slug: our-weekend-at-the-salesforce-1-million-hackathon
 title: Our Weekend At The Salesforce $1 Million Hackathon
 url: /2014/12/02/our-weekend-at-the-salesforce-1-million-hackathon
 wordpress_id: 1034
+2014:
+- "12"
 ---
 
 

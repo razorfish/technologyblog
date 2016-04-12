@@ -8,6 +8,8 @@ slug: new-book-from-the-chief-marketing-technologist-blog-author-scott-brinker
 title: New book from the Chief Marketing Technologist Blog author, Scott Brinker
 url: /2014/05/09/new-book-from-the-chief-marketing-technologist-blog-author-scott-brinker
 wordpress_id: 933
+2014:
+- "05"
 ---
 
 

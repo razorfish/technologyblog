@@ -8,6 +8,8 @@ slug: the-razorfish-digital-platform-maturity-model
 title: The Razorfish Digital Platform Maturity Model
 url: /2014/10/14/the-razorfish-digital-platform-maturity-model
 wordpress_id: 1003
+2014:
+- "10"
 ---
 
 

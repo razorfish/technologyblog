@@ -8,6 +8,8 @@ slug: java-8-released
 title: Java 8 released - the end of object oriented programming?
 url: /2014/03/19/java-8-released
 wordpress_id: 850
+2014:
+- "03"
 ---
 
 

@@ -8,6 +8,8 @@ slug: razorfishs-6th-tech-summit
 title: Razorfish’s 6th Tech Summit!
 url: /2014/05/19/razorfishs-6th-tech-summit
 wordpress_id: 952
+2014:
+- "05"
 ---
 
 
