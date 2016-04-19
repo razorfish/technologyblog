@@ -14,6 +14,8 @@ tags:
 title: Technology Predictions for 2010
 url: /2009/12/17/technology-predictions-for-2010
 wordpress_id: 333
+2009:
+- "12"
 ---
 
 

@@ -9,6 +9,8 @@ slug: skype-announces-unlimited-long-distance-calls
 title: Skype announces unlimited long-distance calls
 url: /2008/05/05/skype-announces-unlimited-long-distance-calls
 wordpress_id: 42
+2008:
+- "05"
 ---
 
 

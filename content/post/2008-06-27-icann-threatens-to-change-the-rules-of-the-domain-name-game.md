@@ -12,6 +12,8 @@ tags:
 title: ICANN threatens to change the rules of the domain name game
 url: /2008/06/27/icann-threatens-to-change-the-rules-of-the-domain-name-game
 wordpress_id: 49
+2008:
+- "06"
 ---
 
 

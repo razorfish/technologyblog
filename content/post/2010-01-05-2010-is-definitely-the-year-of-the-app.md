@@ -8,6 +8,8 @@ slug: 2010-is-definitely-the-year-of-the-app
 title: 2010 is definitely the year of the app
 url: /2010/01/05/2010-is-definitely-the-year-of-the-app
 wordpress_id: 340
+2010:
+- "01"
 ---
 
 

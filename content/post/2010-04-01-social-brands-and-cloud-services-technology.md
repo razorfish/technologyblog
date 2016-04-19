@@ -8,6 +8,8 @@ slug: social-brands-and-cloud-services-technology
 title: Social Brands and Cloud Services Technology
 url: /2010/04/01/social-brands-and-cloud-services-technology
 wordpress_id: 491
+2010:
+- "04"
 ---
 
 

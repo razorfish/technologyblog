@@ -8,6 +8,8 @@ slug: razorfish-named-2011-adobe-global-partner-of-the-year
 title: Razorfish Named 2011 Adobe Global Partner of the Year
 url: /2012/03/28/razorfish-named-2011-adobe-global-partner-of-the-year
 wordpress_id: 680
+2012:
+- "03"
 ---
 
 

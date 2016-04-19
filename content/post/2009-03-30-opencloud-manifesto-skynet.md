@@ -17,6 +17,8 @@ tags:
 title: OpenCloud Manifesto = Skynet
 url: /2009/03/30/opencloud-manifesto-skynet
 wordpress_id: 145
+2009:
+- "03"
 ---
 
 

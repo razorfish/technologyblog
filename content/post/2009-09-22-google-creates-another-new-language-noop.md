@@ -12,6 +12,8 @@ tags:
 title: Google creates another new language - Noop
 url: /2009/09/22/google-creates-another-new-language-noop
 wordpress_id: 259
+2009:
+- "09"
 ---
 
 

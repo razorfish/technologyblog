@@ -8,6 +8,8 @@ slug: collaboration-and-enterprise-20
 title: Collaboration and Enterprise 2.0
 url: /2009/07/03/collaboration-and-enterprise-20
 wordpress_id: 201
+2009:
+- "07"
 ---
 
 

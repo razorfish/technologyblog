@@ -16,6 +16,8 @@ tags:
 title: agile and pair programming
 url: /2009/03/31/agile-and-pair-programming
 wordpress_id: 150
+2009:
+- "03"
 ---
 
 

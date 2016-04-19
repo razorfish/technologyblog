@@ -13,6 +13,8 @@ tags:
 title: windows 8 Learning & App development considerations.
 url: /2012/11/01/windows-8-learning-app-development-considerations
 wordpress_id: 721
+2012:
+- "11"
 ---
 
 

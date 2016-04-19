@@ -15,6 +15,8 @@ tags:
 title: Native thread support in Ruby's latest version
 url: /2009/02/02/native-thread-support-in-rubys-latest-version
 wordpress_id: 134
+2009:
+- "02"
 ---
 
 

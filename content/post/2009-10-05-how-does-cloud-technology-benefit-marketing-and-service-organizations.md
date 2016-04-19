@@ -11,6 +11,8 @@ tags:
 title: How does cloud technology benefit marketing and service organizations?
 url: /2009/10/05/how-does-cloud-technology-benefit-marketing-and-service-organizations
 wordpress_id: 265
+2009:
+- "10"
 ---
 
 

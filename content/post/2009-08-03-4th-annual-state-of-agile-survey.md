@@ -20,6 +20,8 @@ tags:
 title: 4th Annual State of Agile Survey
 url: /2009/08/03/4th-annual-state-of-agile-survey
 wordpress_id: 246
+2009:
+- "08"
 ---
 
 

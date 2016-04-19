@@ -14,6 +14,8 @@ tags:
 title: Leveraging Model Driven Development
 url: /2008/10/27/leveraging-model-driven-development
 wordpress_id: 62
+2008:
+- "10"
 ---
 
 

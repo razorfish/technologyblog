@@ -15,6 +15,8 @@ tags:
 title: micro-blogging = micro-coding
 url: /2009/01/30/micro-blogging-micro-coding
 wordpress_id: 131
+2009:
+- "01"
 ---
 
 

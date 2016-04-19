@@ -8,6 +8,8 @@ slug: another-new-chapter-for-razorfish
 title: Another new chapter for Razorfish
 url: /2009/11/16/another-new-chapter-for-razorfish
 wordpress_id: 319
+2009:
+- "11"
 ---
 
 

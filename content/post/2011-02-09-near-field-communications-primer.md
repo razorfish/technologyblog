@@ -8,6 +8,8 @@ slug: near-field-communications-primer
 title: Near Field Communications - Primer
 url: /2011/02/09/near-field-communications-primer
 wordpress_id: 541
+2011:
+- "02"
 ---
 
 

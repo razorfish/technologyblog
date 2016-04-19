@@ -15,6 +15,8 @@ tags:
 title: The Back of a Napkin...
 url: /2008/03/13/the-back-of-a-napkin
 wordpress_id: 22
+2008:
+- "03"
 ---
 
 

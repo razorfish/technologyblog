@@ -13,6 +13,8 @@ tags:
 title: How do we define cloud computing?
 url: /2010/02/10/how-do-we-define-cloud-computing
 wordpress_id: 357
+2010:
+- "02"
 ---
 
 

@@ -13,6 +13,8 @@ tags:
 title: Microsoft adds new features to .NET
 url: /2008/08/15/microsoft-adds-new-features-to-net
 wordpress_id: 54
+2008:
+- "08"
 ---
 
 

@@ -20,6 +20,8 @@ tags:
 title: CMIS - will it revolutionize the CMS industry?
 url: /2008/10/10/cmis-will-it-revolutionize-the-cms-industry
 wordpress_id: 61
+2008:
+- "10"
 ---
 
 

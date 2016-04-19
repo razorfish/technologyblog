@@ -12,6 +12,8 @@ tags:
 title: Surface Launch
 url: /2008/04/11/surface-launch
 wordpress_id: 36
+2008:
+- "04"
 ---
 
 

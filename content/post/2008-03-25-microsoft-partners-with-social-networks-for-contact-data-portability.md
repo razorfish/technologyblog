@@ -16,6 +16,8 @@ tags:
 title: Microsoft partners with social networks for contact data portability
 url: /2008/03/25/microsoft-partners-with-social-networks-for-contact-data-portability
 wordpress_id: 26
+2008:
+- "03"
 ---
 
 

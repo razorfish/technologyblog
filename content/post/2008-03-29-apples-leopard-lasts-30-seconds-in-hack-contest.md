@@ -14,6 +14,8 @@ tags:
 title: Apple's Leopard lasts '30 seconds' in hack contest
 url: /2008/03/29/apples-leopard-lasts-30-seconds-in-hack-contest
 wordpress_id: 28
+2008:
+- "03"
 ---
 
 

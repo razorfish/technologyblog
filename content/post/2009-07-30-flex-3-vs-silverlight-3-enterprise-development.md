@@ -17,6 +17,8 @@ tags:
 title: 'Flex 3 vs Silverlight 3: Enterprise Development'
 url: /2009/07/30/flex-3-vs-silverlight-3-enterprise-development
 wordpress_id: 239
+2009:
+- "07"
 ---
 
 

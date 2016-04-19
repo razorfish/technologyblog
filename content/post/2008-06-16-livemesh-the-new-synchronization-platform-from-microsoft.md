@@ -13,6 +13,8 @@ tags:
 title: LiveMesh, the new 'synchronization' platform from Microsoft
 url: /2008/06/16/livemesh-the-new-synchronization-platform-from-microsoft
 wordpress_id: 47
+2008:
+- "06"
 ---
 
 

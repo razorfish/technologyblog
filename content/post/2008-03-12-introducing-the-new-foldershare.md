@@ -8,6 +8,8 @@ slug: introducing-the-new-foldershare
 title: Introducing the new FolderShare!
 url: /2008/03/12/introducing-the-new-foldershare
 wordpress_id: 19
+2008:
+- "03"
 ---
 
 

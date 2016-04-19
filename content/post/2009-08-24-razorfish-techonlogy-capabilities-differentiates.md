@@ -13,6 +13,8 @@ tags:
 title: Razorfish Technology Capabilities Differentiates
 url: /2009/08/24/razorfish-techonlogy-capabilities-differentiates
 wordpress_id: 250
+2009:
+- "08"
 ---
 
 

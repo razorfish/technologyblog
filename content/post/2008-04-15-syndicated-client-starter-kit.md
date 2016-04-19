@@ -12,6 +12,8 @@ tags:
 title: Syndicated Client Starter Kit
 url: /2008/04/15/syndicated-client-starter-kit
 wordpress_id: 38
+2008:
+- "04"
 ---
 
 

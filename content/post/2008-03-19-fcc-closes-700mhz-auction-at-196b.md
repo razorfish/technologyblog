@@ -14,6 +14,8 @@ tags:
 title: FCC Closes 700MHz Auction at $19.6B
 url: /2008/03/19/fcc-closes-700mhz-auction-at-196b
 wordpress_id: 23
+2008:
+- "03"
 ---
 
 

@@ -21,6 +21,8 @@ tags:
 title: SharePoint Conference 2009 - Day 3
 url: /2009/10/27/sharepoint-conference-2009-day-3
 wordpress_id: 306
+2009:
+- "10"
 ---
 
 

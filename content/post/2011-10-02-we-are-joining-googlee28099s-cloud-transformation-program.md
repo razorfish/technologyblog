@@ -8,6 +8,8 @@ slug: we-are-joining-google%e2%80%99s-cloud-transformation-program
 title: We are joining Google’s Cloud Transformation Program
 url: /2011/10/02/we-are-joining-googlee28099s-cloud-transformation-program
 wordpress_id: 672
+2011:
+- "10"
 ---
 
 

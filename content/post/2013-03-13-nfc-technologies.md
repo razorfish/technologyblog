@@ -9,6 +9,8 @@ slug: nfc-technologies
 title: NFC Technologies
 url: /2013/03/13/nfc-technologies
 wordpress_id: 764
+2013:
+- "03"
 ---
 
 

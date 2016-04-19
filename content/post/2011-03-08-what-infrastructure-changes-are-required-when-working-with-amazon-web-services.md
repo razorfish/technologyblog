@@ -8,6 +8,8 @@ slug: what-infrastructure-changes-are-required-when-working-with-amazon-web-serv
 title: What infrastructure changes are required when working with Amazon Web Services?
 url: /2011/03/08/what-infrastructure-changes-are-required-when-working-with-amazon-web-services
 wordpress_id: 599
+2011:
+- "03"
 ---
 
 

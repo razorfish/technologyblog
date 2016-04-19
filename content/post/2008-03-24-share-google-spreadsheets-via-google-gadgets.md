@@ -8,6 +8,8 @@ slug: share-google-spreadsheets-via-google-gadgets
 title: Share Google Spreadsheets via Google Gadgets
 url: /2008/03/24/share-google-spreadsheets-via-google-gadgets
 wordpress_id: 25
+2008:
+- "03"
 ---
 
 

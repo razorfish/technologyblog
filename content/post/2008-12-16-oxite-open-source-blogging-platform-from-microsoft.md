@@ -12,6 +12,8 @@ tags:
 title: Oxite - Open Source blogging platform from Microsoft
 url: /2008/12/16/oxite-open-source-blogging-platform-from-microsoft
 wordpress_id: 79
+2008:
+- "12"
 ---
 
 

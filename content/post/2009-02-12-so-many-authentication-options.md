@@ -13,6 +13,8 @@ tags:
 title: So many authentication options
 url: /2009/02/12/so-many-authentication-options
 wordpress_id: 139
+2009:
+- "02"
 ---
 
 

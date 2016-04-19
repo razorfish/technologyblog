@@ -15,6 +15,8 @@ tags:
 title: IE8 Beta 2 Launched
 url: /2008/08/28/ie8-beta-2-launched
 wordpress_id: 55
+2008:
+- "08"
 ---
 
 

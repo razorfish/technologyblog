@@ -29,6 +29,8 @@ tags:
 title: 'SXSW to Go: Creating Razorfish’s iPhone Guide to Austin (Part 3)'
 url: /2009/07/01/sxsw-to-go-creating-razorfishe28099s-iphone-guide-to-austin-part-3
 wordpress_id: 178
+2009:
+- "07"
 ---
 
 

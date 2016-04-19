@@ -8,6 +8,8 @@ slug: highlights-from-razorfish%e2%80%99s-annual-tech-summit
 title: Highlights from Razorfish’s annual tech summit!
 url: /2011/07/21/highlights-from-razorfishe28099s-annual-tech-summit
 wordpress_id: 647
+2011:
+- "07"
 ---
 
 

@@ -16,6 +16,8 @@ tags:
 title: .gov is saving money and time with cloud computing
 url: /2009/09/15/gov-is-saving-money-and-time-with-cloud-computing
 wordpress_id: 257
+2009:
+- "09"
 ---
 
 

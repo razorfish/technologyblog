@@ -8,6 +8,8 @@ slug: fading-the-techcreative-line
 title: Fading the Tech/Creative Line
 url: /2008/03/02/fading-the-techcreative-line
 wordpress_id: 9
+2008:
+- "03"
 ---
 
 

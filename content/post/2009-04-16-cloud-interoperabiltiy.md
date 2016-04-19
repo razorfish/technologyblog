@@ -17,7 +17,10 @@ tags:
 title: Cloud interoperabiltiy
 url: /2009/04/16/cloud-interoperabiltiy
 wordpress_id: 163
+2009:
+- "04"
 ---
+
 
 
 

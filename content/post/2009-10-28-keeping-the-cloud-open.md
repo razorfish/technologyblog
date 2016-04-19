@@ -18,6 +18,8 @@ tags:
 title: Keeping the cloud open
 url: /2009/10/28/keeping-the-cloud-open
 wordpress_id: 317
+2009:
+- "10"
 ---
 
 

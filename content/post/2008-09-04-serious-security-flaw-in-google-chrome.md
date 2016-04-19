@@ -14,6 +14,8 @@ tags:
 title: Serious Security Flaw in Google Chrome
 url: /2008/09/04/serious-security-flaw-in-google-chrome
 wordpress_id: 57
+2008:
+- "09"
 ---
 
 

@@ -16,6 +16,8 @@ tags:
 title: Ready for Web 3.0/Semantic Web?
 url: /2008/09/30/ready-for-web-30semantic-web
 wordpress_id: 58
+2008:
+- "09"
 ---
 
 

@@ -14,6 +14,8 @@ tags:
 title: Avenue A | Razorfish wiki mention in Infoworld
 url: /2008/06/23/avenue-a-razorfish-wiki-mention-in-infoworld
 wordpress_id: 48
+2008:
+- "06"
 ---
 
 

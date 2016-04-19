@@ -10,6 +10,8 @@ tags:
 title: Android, platform without a vendor?
 url: /2010/03/17/android-platform-without-a-vendor
 wordpress_id: 372
+2010:
+- "03"
 ---
 
 

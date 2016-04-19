@@ -8,6 +8,8 @@ slug: razorfish-agile-offering
 title: Razorfish Agile Offering
 url: /2011/01/30/razorfish-agile-offering
 wordpress_id: 537
+2011:
+- "01"
 ---
 
 

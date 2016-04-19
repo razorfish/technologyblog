@@ -12,6 +12,8 @@ tags:
 title: Yahoo!'s Board of Directors Responds to Latest Microsoft Letter
 url: /2008/04/07/yahoos-board-of-directors-responds-to-latest-microsoft-letter
 wordpress_id: 35
+2008:
+- "04"
 ---
 
 

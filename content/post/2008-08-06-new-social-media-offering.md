@@ -20,6 +20,8 @@ tags:
 title: New social media offering
 url: /2008/08/06/new-social-media-offering
 wordpress_id: 52
+2008:
+- "08"
 ---
 
 
