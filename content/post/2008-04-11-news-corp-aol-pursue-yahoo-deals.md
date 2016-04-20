@@ -13,7 +13,7 @@ tags:
 - Wall Street Journal
 - Yahoo
 title: News Corp., AOL Pursue Yahoo Deals
-url: /2008/04/11/news-corp-aol-pursue-yahoo-deals
+url: /2008/04/11/news-corp-aol-pursue-yahoo-deals/index.html
 wordpress_id: 37
 2008:
 - "04"

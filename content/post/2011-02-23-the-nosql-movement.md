@@ -6,7 +6,7 @@ comments: true
 date: '2011-02-23'
 slug: the-nosql-movement
 title: The NoSQL Movement
-url: /2011/02/23/the-nosql-movement
+url: /2011/02/23/the-nosql-movement/index.html
 wordpress_id: 560
 2011:
 - "02"

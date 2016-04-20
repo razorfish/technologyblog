@@ -11,7 +11,7 @@ tags:
 - OpenID
 - Twitter
 title: So many authentication options
-url: /2009/02/12/so-many-authentication-options
+url: /2009/02/12/so-many-authentication-options/index.html
 wordpress_id: 139
 2009:
 - "02"

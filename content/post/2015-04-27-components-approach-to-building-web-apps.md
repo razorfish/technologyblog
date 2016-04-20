@@ -6,7 +6,7 @@ comments: true
 date: '2015-04-27'
 slug: components-approach-to-building-web-apps
 title: ' Components Approach to Building Web Apps'
-url: /2015/04/27/components-approach-to-building-web-apps
+url: /2015/04/27/components-approach-to-building-web-apps/index.html
 wordpress_id: 1128
 2015:
 - "04"

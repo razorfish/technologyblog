@@ -6,7 +6,7 @@ comments: true
 date: '2010-02-10'
 slug: launch-of-the-razorfish-5five-technologies-that-will-change-your-business
 title: 'Launch of the Razorfish 5:Five Technologies That Will Change Your Business '
-url: /2010/02/10/launch-of-the-razorfish-5five-technologies-that-will-change-your-business
+url: /2010/02/10/launch-of-the-razorfish-5five-technologies-that-will-change-your-business/index.html
 wordpress_id: 359
 2010:
 - "02"

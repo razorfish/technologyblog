@@ -6,7 +6,7 @@ comments: true
 date: '2008-03-12'
 slug: introducing-the-new-foldershare
 title: Introducing the new FolderShare!
-url: /2008/03/12/introducing-the-new-foldershare
+url: /2008/03/12/introducing-the-new-foldershare/index.html
 wordpress_id: 19
 2008:
 - "03"

@@ -8,7 +8,7 @@ post_format:
 - Image
 slug: austin-razorfish-techies-help-to-empower-girls-in-stem
 title: Austin Razorfish Techies Help To Empower Girls in STEM
-url: /2015/08/04/austin-razorfish-techies-help-to-empower-girls-in-stem
+url: /2015/08/04/austin-razorfish-techies-help-to-empower-girls-in-stem/index.html
 wordpress_id: 1180
 2015:
 - "08"

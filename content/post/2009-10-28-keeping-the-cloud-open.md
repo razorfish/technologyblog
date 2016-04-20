@@ -16,7 +16,7 @@ tags:
 - Programming
 - Red Hat
 title: Keeping the cloud open
-url: /2009/10/28/keeping-the-cloud-open
+url: /2009/10/28/keeping-the-cloud-open/index.html
 wordpress_id: 317
 2009:
 - "10"

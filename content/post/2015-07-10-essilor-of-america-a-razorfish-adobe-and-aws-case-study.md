@@ -8,7 +8,7 @@ post_format:
 - Image
 slug: essilor-of-america-a-razorfish-adobe-and-aws-case-study
 title: Essilor of America – a Razorfish, Adobe and AWS Case Study
-url: /2015/07/10/essilor-of-america-a-razorfish-adobe-and-aws-case-study
+url: /2015/07/10/essilor-of-america-a-razorfish-adobe-and-aws-case-study/index.html
 wordpress_id: 1165
 2015:
 - "07"

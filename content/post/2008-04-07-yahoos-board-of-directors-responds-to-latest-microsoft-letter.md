@@ -10,7 +10,7 @@ tags:
 - Microsoft
 - Yahoo
 title: Yahoo!'s Board of Directors Responds to Latest Microsoft Letter
-url: /2008/04/07/yahoos-board-of-directors-responds-to-latest-microsoft-letter
+url: /2008/04/07/yahoos-board-of-directors-responds-to-latest-microsoft-letter/index.html
 wordpress_id: 35
 2008:
 - "04"

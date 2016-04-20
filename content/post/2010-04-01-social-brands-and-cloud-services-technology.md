@@ -6,7 +6,7 @@ comments: true
 date: '2010-04-01'
 slug: social-brands-and-cloud-services-technology
 title: Social Brands and Cloud Services Technology
-url: /2010/04/01/social-brands-and-cloud-services-technology
+url: /2010/04/01/social-brands-and-cloud-services-technology/index.html
 wordpress_id: 491
 2010:
 - "04"

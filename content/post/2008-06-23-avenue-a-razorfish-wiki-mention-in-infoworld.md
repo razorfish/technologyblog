@@ -12,7 +12,7 @@ tags:
 - Shiv Singh
 - wikipedia
 title: Avenue A | Razorfish wiki mention in Infoworld
-url: /2008/06/23/avenue-a-razorfish-wiki-mention-in-infoworld
+url: /2008/06/23/avenue-a-razorfish-wiki-mention-in-infoworld/index.html
 wordpress_id: 48
 2008:
 - "06"

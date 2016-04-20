@@ -15,7 +15,7 @@ tags:
 - Skynet
 - Terminator
 title: OpenCloud Manifesto = Skynet
-url: /2009/03/30/opencloud-manifesto-skynet
+url: /2009/03/30/opencloud-manifesto-skynet/index.html
 wordpress_id: 145
 2009:
 - "03"

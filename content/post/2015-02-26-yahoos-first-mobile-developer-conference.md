@@ -11,7 +11,7 @@ tags:
 - Mobile
 - Yahoo
 title: Yahoo’s first Mobile Developer Conference
-url: /2015/02/26/yahoos-first-mobile-developer-conference
+url: /2015/02/26/yahoos-first-mobile-developer-conference/index.html
 wordpress_id: 1076
 2015: 
 - "02"

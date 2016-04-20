@@ -18,7 +18,7 @@ tags:
 - OASIS
 - Sharepoint
 title: CMIS - will it revolutionize the CMS industry?
-url: /2008/10/10/cmis-will-it-revolutionize-the-cms-industry
+url: /2008/10/10/cmis-will-it-revolutionize-the-cms-industry/index.html
 wordpress_id: 61
 2008:
 - "10"

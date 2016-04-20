@@ -6,7 +6,7 @@ comments: true
 date: '2011-01-30'
 slug: razorfish-agile-offering
 title: Razorfish Agile Offering
-url: /2011/01/30/razorfish-agile-offering
+url: /2011/01/30/razorfish-agile-offering/index.html
 wordpress_id: 537
 2011:
 - "01"

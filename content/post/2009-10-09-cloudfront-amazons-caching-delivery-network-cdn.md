@@ -16,7 +16,7 @@ tags:
 - Peer-to-peer
 - Technology
 title: Cloudfront, Amazon's Caching Delivery Network (CDN)
-url: /2009/10/09/cloudfront-amazons-caching-delivery-network-cdn
+url: /2009/10/09/cloudfront-amazons-caching-delivery-network-cdn/index.html
 wordpress_id: 269
 2009:
 - "10"

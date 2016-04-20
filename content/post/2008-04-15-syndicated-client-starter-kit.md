@@ -10,7 +10,7 @@ tags:
 - SQL Server CE
 - WPF
 title: Syndicated Client Starter Kit
-url: /2008/04/15/syndicated-client-starter-kit
+url: /2008/04/15/syndicated-client-starter-kit/index.html
 wordpress_id: 38
 2008:
 - "04"

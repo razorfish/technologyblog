@@ -6,7 +6,7 @@ comments: true
 date: '2011-01-26'
 slug: fully-automated-production-release-and-the-toss-test
 title: Fully automating releases to production and The Toss Test
-url: /2011/01/26/fully-automated-production-release-and-the-toss-test
+url: /2011/01/26/fully-automated-production-release-and-the-toss-test/index.html
 wordpress_id: 531
 2011:
 - "01"

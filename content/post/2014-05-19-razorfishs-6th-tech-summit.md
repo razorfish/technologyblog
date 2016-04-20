@@ -6,7 +6,7 @@ comments: true
 date: '2014-05-19'
 slug: razorfishs-6th-tech-summit
 title: Razorfish’s 6th Tech Summit!
-url: /2014/05/19/razorfishs-6th-tech-summit
+url: /2014/05/19/razorfishs-6th-tech-summit/index.html
 wordpress_id: 952
 2014:
 - "05"

@@ -14,7 +14,7 @@ tags:
 - research
 - University of North Carolina
 title: agile and pair programming
-url: /2009/03/31/agile-and-pair-programming
+url: /2009/03/31/agile-and-pair-programming/index.html
 wordpress_id: 150
 2009:
 - "03"

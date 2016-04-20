@@ -13,7 +13,7 @@ tags:
 - WordPress
 - Zemanta
 title: zemanta wordpress plug-in
-url: /2009/01/15/zemanta-wordpress-plug-in
+url: /2009/01/15/zemanta-wordpress-plug-in/index.html
 wordpress_id: 53
 2009:
 - "01"

@@ -12,7 +12,7 @@ tags:
 - pld
 - presentation layer
 title: Taming IE6 and a "Drop IE6" rebuke
-url: /2009/07/24/taming-ie6-drop-ie6-rebuke
+url: /2009/07/24/taming-ie6-drop-ie6-rebuke/index.html
 wordpress_id: 227
 2009:
 - "07"

@@ -15,7 +15,7 @@ tags:
 - Microsoft
 - Python
 title: Cloud interoperabiltiy
-url: /2009/04/16/cloud-interoperabiltiy
+url: /2009/04/16/cloud-interoperabiltiy/index.html
 wordpress_id: 163
 2009:
 - "04"

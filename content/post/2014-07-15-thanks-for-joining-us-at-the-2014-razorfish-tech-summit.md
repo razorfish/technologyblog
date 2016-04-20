@@ -6,7 +6,7 @@ comments: true
 date: '2014-07-15'
 slug: thanks-for-joining-us-at-the-2014-razorfish-tech-summit
 title: Thanks for joining us at the 2014 Razorfish Tech Summit
-url: /2014/07/15/thanks-for-joining-us-at-the-2014-razorfish-tech-summit
+url: /2014/07/15/thanks-for-joining-us-at-the-2014-razorfish-tech-summit/index.html
 wordpress_id: 977
 2014:
 - "07"

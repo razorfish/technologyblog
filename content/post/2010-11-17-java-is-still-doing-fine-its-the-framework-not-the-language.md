@@ -6,7 +6,7 @@ comments: true
 date: '2010-11-17'
 slug: java-is-still-doing-fine-its-the-framework-not-the-language
 title: Java is still doing fine, it's the framework not the language
-url: /2010/11/17/java-is-still-doing-fine-its-the-framework-not-the-language
+url: /2010/11/17/java-is-still-doing-fine-its-the-framework-not-the-language/index.html
 wordpress_id: 515
 2010:
 - "11"

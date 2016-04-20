@@ -11,7 +11,7 @@ tags:
 - privacy
 - Search Engines
 title: How cool is this new search engine - cuil.com ?
-url: /2008/08/01/cuil-search-engine
+url: /2008/08/01/cuil-search-engine/index.html
 wordpress_id: 51
 2008:
 - "08"

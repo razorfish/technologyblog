@@ -6,7 +6,7 @@ comments: true
 date: '2008-04-02'
 slug: now-thats-a-cool-table
 title: Now that's a cool table
-url: /2008/04/02/now-thats-a-cool-table
+url: /2008/04/02/now-thats-a-cool-table/index.html
 wordpress_id: 32
 2008:
 - "04"

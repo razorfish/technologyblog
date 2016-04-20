@@ -6,7 +6,7 @@ comments: true
 date: '2014-06-02'
 slug: razorfish-technology-summit-2014-livestream
 title: Razorfish Technology Summit 2014 Livestream
-url: /2014/06/02/razorfish-technology-summit-2014-livestream
+url: /2014/06/02/razorfish-technology-summit-2014-livestream/index.html
 wordpress_id: 960
 2014:
 - "06"

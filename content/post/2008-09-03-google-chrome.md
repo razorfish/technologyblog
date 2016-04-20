@@ -13,7 +13,7 @@ tags:
 - Microsoft
 - WebKit
 title: Google Chrome - Why it is different?
-url: /2008/09/03/google-chrome
+url: /2008/09/03/google-chrome/index.html
 wordpress_id: 56
 2008:
 - "09"

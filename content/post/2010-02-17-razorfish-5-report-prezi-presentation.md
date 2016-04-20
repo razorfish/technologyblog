@@ -6,7 +6,7 @@ comments: true
 date: '2010-02-17'
 slug: razorfish-5-report-prezi-presentation
 title: Razorfish 5 Report Prezi Presentation
-url: /2010/02/17/razorfish-5-report-prezi-presentation
+url: /2010/02/17/razorfish-5-report-prezi-presentation/index.html
 wordpress_id: 361
 2010:
 - "02"

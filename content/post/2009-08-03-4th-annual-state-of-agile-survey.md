@@ -18,7 +18,7 @@ tags:
 - Social Sciences
 - Software development
 title: 4th Annual State of Agile Survey
-url: /2009/08/03/4th-annual-state-of-agile-survey
+url: /2009/08/03/4th-annual-state-of-agile-survey/index.html
 wordpress_id: 246
 2009:
 - "08"

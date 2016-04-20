@@ -10,7 +10,7 @@ tags:
 - Cloud computing
 - Web application
 title: Amazon Advances Cloud Computing with the Private Cloud
-url: /2009/08/26/amazon-advances-cloud-computing-with-the-private-cloud
+url: /2009/08/26/amazon-advances-cloud-computing-with-the-private-cloud/index.html
 wordpress_id: 253
 2009:
 - "08"
