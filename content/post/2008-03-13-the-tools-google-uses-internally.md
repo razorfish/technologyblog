@@ -6,7 +6,7 @@ comments: true
 date: '2008-03-13'
 slug: the-tools-google-uses-internally
 title: The Tools Google Uses Internally
-url: /2008/03/13/the-tools-google-uses-internally/index.html
+url: /2008/03/13/the-tools-google-uses-internally
 wordpress_id: 21
 2008:
 - "03"

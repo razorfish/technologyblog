@@ -6,7 +6,7 @@ comments: true
 date: '2014-01-30'
 slug: our-top-5-insights-from-ces-chris-jason-jeremy-and-ray
 title: Our Top 5 Insights from CES. Chris, Jason, Jeremy, and Ray
-url: /2014/01/30/our-top-5-insights-from-ces-chris-jason-jeremy-and-ray/index.html
+url: /2014/01/30/our-top-5-insights-from-ces-chris-jason-jeremy-and-ray
 wordpress_id: 791
 2014:
 - "01"

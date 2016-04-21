@@ -9,7 +9,7 @@ tags:
 - Microsoft
 - MOSS
 title: Brand experiences and MOSS
-url: /2009/04/16/brand-experiences-and-moss/index.html
+url: /2009/04/16/brand-experiences-and-moss
 wordpress_id: 159
 2009:
 - "04"

@@ -17,7 +17,7 @@ tags:
 - training
 - virtualization
 title: SharePoint Conference 2009 - Day 2
-url: /2009/10/22/sharepoint-conference-2009-day-2/index.html
+url: /2009/10/22/sharepoint-conference-2009-day-2
 wordpress_id: 294
 2009:
 - "10"

@@ -11,7 +11,7 @@ tags:
 - seo
 - social
 title: Social networks overtake Google in the UK
-url: /2010/06/08/social-networks-overtake-google-in-the-uk/index.html
+url: /2010/06/08/social-networks-overtake-google-in-the-uk
 wordpress_id: 510
 2010:
 - "06"

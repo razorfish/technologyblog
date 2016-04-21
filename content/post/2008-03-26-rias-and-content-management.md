@@ -13,7 +13,7 @@ tags:
 - Search Optimized Flash Architecture
 - SOFA
 title: RIAs and Content Management
-url: /2008/03/26/rias-and-content-management/index.html
+url: /2008/03/26/rias-and-content-management
 wordpress_id: 27
 2008:
 - "03"

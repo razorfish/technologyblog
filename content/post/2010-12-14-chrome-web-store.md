@@ -6,7 +6,7 @@ comments: true
 date: '2010-12-14'
 slug: chrome-web-store
 title: Chrome web store
-url: /2010/12/14/chrome-web-store/index.html
+url: /2010/12/14/chrome-web-store
 wordpress_id: 527
 2010:
 - "12"

@@ -6,7 +6,7 @@ comments: true
 date: '2014-01-30'
 slug: ctrl-alt-delete
 title: Ctrl-Alt-Delete
-url: /2014/01/30/ctrl-alt-delete/index.html
+url: /2014/01/30/ctrl-alt-delete
 wordpress_id: 788
 2014:
 - "01"

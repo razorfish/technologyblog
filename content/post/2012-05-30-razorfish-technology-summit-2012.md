@@ -7,7 +7,7 @@ comments: true
 date: '2012-05-30'
 slug: razorfish-technology-summit-2012
 title: Razorfish Technology Summit 2012!
-url: /2012/05/30/razorfish-technology-summit-2012/index.html
+url: /2012/05/30/razorfish-technology-summit-2012
 wordpress_id: 689
 2012:
 - "05"

@@ -8,7 +8,7 @@ post_format:
 - Image
 slug: leonard-nimoy-spock-of-star-trek-dies-at-83-2
 title: Leonard Nimoy, Spock of ‘Star Trek,’ Dies at 83
-url: /2015/02/27/leonard-nimoy-spock-of-star-trek-dies-at-83-2/index.html
+url: /2015/02/27/leonard-nimoy-spock-of-star-trek-dies-at-83-2
 wordpress_id: 1099
 2015:
 - "02"

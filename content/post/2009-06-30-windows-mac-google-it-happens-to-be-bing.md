@@ -13,7 +13,7 @@ tags:
 - Microsoft
 - Search Engines
 title: 'Windows : Mac :: Google : (?) - It happens to be "bing"'
-url: /2009/06/30/windows-mac-google-it-happens-to-be-bing/index.html
+url: /2009/06/30/windows-mac-google-it-happens-to-be-bing
 wordpress_id: 195
 2009:
 - "06"

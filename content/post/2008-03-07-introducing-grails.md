@@ -6,7 +6,7 @@ comments: true
 date: '2008-03-07'
 slug: introducing-grails
 title: Introducing Grails
-url: /2008/03/07/introducing-grails/index.html
+url: /2008/03/07/introducing-grails
 wordpress_id: 18
 2008:
 - "03"

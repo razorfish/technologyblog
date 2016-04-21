@@ -6,7 +6,7 @@ comments: true
 date: '2008-03-19'
 slug: beautiful-code-leading-programmers-explain-how-they-think
 title: '“Beautiful Code: Leading Programmers Explain How They Think”'
-url: /2008/03/19/beautiful-code-leading-programmers-explain-how-they-think/index.html
+url: /2008/03/19/beautiful-code-leading-programmers-explain-how-they-think
 wordpress_id: 24
 2008:
 - "03"

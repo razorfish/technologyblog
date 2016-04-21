@@ -15,7 +15,7 @@ tags:
 - office business platform
 - Sharepoint
 title: SharePoint Conference 2009 - Day 1
-url: /2009/10/20/sharepoint-conference-2009-day-1/index.html
+url: /2009/10/20/sharepoint-conference-2009-day-1
 wordpress_id: 272
 2009:
 - "10"

@@ -6,7 +6,7 @@ comments: true
 date: '2008-02-28'
 slug: welcome-to-the-avenue-a-razorfish-technology-blog
 title: Welcome to the Avenue A | Razorfish Technology Blog
-url: /2008/02/28/welcome-to-the-avenue-a-razorfish-technology-blog/index.html
+url: /2008/02/28/welcome-to-the-avenue-a-razorfish-technology-blog
 wordpress_id: 8
 2008:
 - "02"

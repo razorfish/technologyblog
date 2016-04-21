@@ -6,7 +6,7 @@ comments: true
 date: '2008-03-19'
 slug: highscalabilitycom
 title: highscalability.com looking under the covers..
-url: /2008/03/19/highscalabilitycom/index.html
+url: /2008/03/19/highscalabilitycom
 wordpress_id: 15
 ---
 

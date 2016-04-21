@@ -17,7 +17,7 @@ tags:
 - progressive enhancement
 - WebKit
 title: Detecting CSS transitions support using JavaScript
-url: /2010/02/09/detecting-css-transitions-support-using-javascript/index.html
+url: /2010/02/09/detecting-css-transitions-support-using-javascript
 wordpress_id: 355
 2010:
 - "02"

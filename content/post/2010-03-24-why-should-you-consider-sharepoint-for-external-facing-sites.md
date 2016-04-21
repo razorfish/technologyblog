@@ -11,7 +11,7 @@ tags:
 - Razorfish
 - Sharepoint
 title: Why Should You Consider SharePoint for External-Facing Sites
-url: /2010/03/24/why-should-you-consider-sharepoint-for-external-facing-sites/index.html
+url: /2010/03/24/why-should-you-consider-sharepoint-for-external-facing-sites
 wordpress_id: 460
 2010:
 - "03"

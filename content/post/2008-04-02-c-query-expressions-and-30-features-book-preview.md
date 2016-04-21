@@ -6,7 +6,7 @@ comments: true
 date: '2008-04-02'
 slug: c-query-expressions-and-30-features-book-preview
 title: C# Query Expressions and 3.0 Features (Book Preview)
-url: /2008/04/02/c-query-expressions-and-30-features-book-preview/index.html
+url: /2008/04/02/c-query-expressions-and-30-features-book-preview
 wordpress_id: 30
 2008:
 - "04"

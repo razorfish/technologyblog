@@ -12,7 +12,7 @@ tags:
 - Data center
 - Microsoft
 title: Microsoft talking about a private cloud?
-url: /2009/09/22/microsoft-talking-about-a-private-cloud/index.html
+url: /2009/09/22/microsoft-talking-about-a-private-cloud
 wordpress_id: 261
 2009:
 - "09"

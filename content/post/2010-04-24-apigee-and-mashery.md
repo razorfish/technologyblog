@@ -12,7 +12,7 @@ tags:
 - apigee
 - mashery
 title: Apigee and Mashery
-url: /2010/04/24/apigee-and-mashery/index.html
+url: /2010/04/24/apigee-and-mashery
 wordpress_id: 504
 2010:
 - "04"

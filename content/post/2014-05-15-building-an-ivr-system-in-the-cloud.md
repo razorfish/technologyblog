@@ -7,7 +7,7 @@ comments: true
 date: '2014-05-15'
 slug: building-an-ivr-system-in-the-cloud
 title: Building an IVR system in the cloud
-url: /2014/05/15/building-an-ivr-system-in-the-cloud/index.html
+url: /2014/05/15/building-an-ivr-system-in-the-cloud
 wordpress_id: 940
 2014:
 - "05"

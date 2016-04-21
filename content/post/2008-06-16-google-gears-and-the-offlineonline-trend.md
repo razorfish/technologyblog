@@ -13,7 +13,7 @@ tags:
 - Microsoft
 - WPF
 title: Google Gears and the offline/online trend
-url: /2008/06/16/google-gears-and-the-offlineonline-trend/index.html
+url: /2008/06/16/google-gears-and-the-offlineonline-trend
 wordpress_id: 46
 2008:
 - "06"

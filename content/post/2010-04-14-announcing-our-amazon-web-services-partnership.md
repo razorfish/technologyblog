@@ -6,7 +6,7 @@ comments: true
 date: '2010-04-14'
 slug: announcing-our-amazon-web-services-partnership
 title: Announcing our Amazon Web Services Partnership
-url: /2010/04/14/announcing-our-amazon-web-services-partnership/index.html
+url: /2010/04/14/announcing-our-amazon-web-services-partnership
 wordpress_id: 498
 2010:
 - "04"

@@ -9,7 +9,7 @@ tags:
 - Development
 - LINQ
 title: Developing with LINQ
-url: /2008/04/03/developing-with-linq/index.html
+url: /2008/04/03/developing-with-linq
 wordpress_id: 33
 2008:
 - "04"

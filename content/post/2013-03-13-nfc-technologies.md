@@ -7,7 +7,7 @@ comments: true
 date: '2013-03-13'
 slug: nfc-technologies
 title: NFC Technologies
-url: /2013/03/13/nfc-technologies/index.html
+url: /2013/03/13/nfc-technologies
 wordpress_id: 764
 2013:
 - "03"

@@ -10,7 +10,7 @@ tags:
 - Microsoft
 - Yahoo
 title: Microsoft Sends Letter to Yahoo! Board of Directors
-url: /2008/04/07/microsoft-sends-letter-to-yahoo-board-of-directors/index.html
+url: /2008/04/07/microsoft-sends-letter-to-yahoo-board-of-directors
 wordpress_id: 34
 2008:
 - "04"

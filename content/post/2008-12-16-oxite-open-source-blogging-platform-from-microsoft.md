@@ -10,7 +10,7 @@ tags:
 - Microsoft Blogging Platform
 - Microsoft Oxide
 title: Oxite - Open Source blogging platform from Microsoft
-url: /2008/12/16/oxite-open-source-blogging-platform-from-microsoft/index.html
+url: /2008/12/16/oxite-open-source-blogging-platform-from-microsoft
 wordpress_id: 79
 2008:
 - "12"

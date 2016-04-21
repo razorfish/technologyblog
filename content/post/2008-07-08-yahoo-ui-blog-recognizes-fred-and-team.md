@@ -13,7 +13,7 @@ tags:
 - Yahoo UI
 - YUI
 title: Yahoo! UI Blog recognizes Fred and team
-url: /2008/07/08/yahoo-ui-blog-recognizes-fred-and-team/index.html
+url: /2008/07/08/yahoo-ui-blog-recognizes-fred-and-team
 wordpress_id: 50
 2008:
 - "07"

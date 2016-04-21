@@ -6,7 +6,7 @@ comments: true
 date: '2011-06-10'
 slug: using-microsoft-kinect-to-create-new-natural-experiences
 title: Using Microsoft Kinect to create new natural experiences
-url: /2011/06/10/using-microsoft-kinect-to-create-new-natural-experiences/index.html
+url: /2011/06/10/using-microsoft-kinect-to-create-new-natural-experiences
 wordpress_id: 631
 2011:
 - "06"

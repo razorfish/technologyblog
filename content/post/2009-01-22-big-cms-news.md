@@ -12,7 +12,7 @@ tags:
 - Site Management
 - Technology
 title: Big CMS news
-url: /2009/01/22/big-cms-news/index.html
+url: /2009/01/22/big-cms-news
 wordpress_id: 123
 2009:
 - "01"

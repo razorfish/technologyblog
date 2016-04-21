@@ -6,7 +6,7 @@ comments: true
 date: '2014-04-22'
 slug: 2014-fluent-conference
 title: 2014 Fluent Conference Recap
-url: /2014/04/22/2014-fluent-conference/index.html
+url: /2014/04/22/2014-fluent-conference
 wordpress_id: 914
 2014:
 - "04"
