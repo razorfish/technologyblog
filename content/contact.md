@@ -4,7 +4,7 @@ comments: false
 date: '2008-02-25'
 slug: contact
 title: Contact
-url: /contact
+url: /contact/index.html
 ---
 
 

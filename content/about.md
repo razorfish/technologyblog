@@ -4,7 +4,7 @@ comments: false
 date: '2008-02-25'
 slug: about
 title: About
-url: /about
+url: /about/index.html
 wordpress_id: 6
 ---
 
