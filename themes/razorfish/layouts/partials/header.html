@@ -192,7 +192,7 @@
                 // Only show the ten first results
                 results.slice(0, 10).forEach(function (result) {
                     console.log(result);
-                    var elstring = '<li><a href="' + result.uri + '" style="text-decoration: none; color: #000000;">' +  result.title + '</a></li>';
+                    var elstring = '<li><a href="' + result.uri + '/index.html" style="text-decoration: none; color: #000000;">' +  result.title + '</a></li>';
                     $("#results").append (elstring);
                     $('#results').show();
                     $('html').one('click',function(event) {
