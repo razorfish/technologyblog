@@ -1240,3 +1240,16 @@ input[type="checkbox"].menu-button {
     height: 32px;
     margin-top: 40px;
 }
+
+/* print styles */
+@media only print {
+    .header-twitter-container {
+        height: auto;
+    }
+    .search-plugin, .twitter-plugin, .site-header, #secondary  {
+        display: none;
+    }
+    .site-content {
+        width: 100%;
+    }
+}
