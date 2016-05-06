@@ -74,6 +74,7 @@ a:hover {
 /** Page structure **/
 #main-content {
     overflow: hidden;
+    width: 100%;
 }
 
 .site-content { 
@@ -1162,25 +1163,25 @@ input[type="checkbox"].menu-button {
 
 }
 
-@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) { 
+// @media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) { 
     
-    .site-content { 
-        width: 100%;
-    }
+//     .site-content { 
+//         width: 100%;
+//     }
 
-    .widget-area {
-        display: none;
-    }
+//     .widget-area {
+//         display: none;
+//     }
 
-    .entry-header .entry-title {
-        padding-bottom: 1em;
-        padding-top: 1em;
-    }
+//     .entry-header .entry-title {
+//         padding-bottom: 1em;
+//         padding-top: 1em;
+//     }
 
-    .entry-content, .entry-summary, .mu_register {
-        padding-bottom: 1em;
-    }
-}
+//     .entry-content, .entry-summary, .mu_register {
+//         padding-bottom: 1em;
+//     }
+// }
 
 
 
