@@ -9,7 +9,7 @@ tags:
 - CMS
 - AWS
 - Lambda
-title: 'A reactive, serverless cms for the technology blog'
+title: 'A reactive serverless cms for the technology blog'
 url: /2016/05/06/a-reactive-serverless-cms-for-the-technology-blog
 2016:
 - "05"
