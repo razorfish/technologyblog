@@ -121,7 +121,7 @@ The reactive architecture approach makes it really easy to enhance and extend th
 
 For example, as an alternative to the described content editing solutions above, other options can be identified: 
 
--   A headless CMS like Contentful could be added for a richer authoring UI experience. 
+-   A headless CMS like [Contentful](http://www.contentful.com/) could be added for a richer authoring UI experience. 
 
 -   [By using SES and Lambda to receive and process the email](https://aws.amazon.com/blogs/aws/new-receive-and-process-incoming-email-with-amazon-ses/), an email content creation flow could be setup.
 
