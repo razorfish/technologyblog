@@ -2,6 +2,8 @@
 author: aonesto
 categories:
 - General
+- Java
+- Platform
 comments: true
 date: '2014-10-14'
 slug: the-razorfish-digital-platform-maturity-model
