@@ -4,6 +4,7 @@ date: '2016-05-06'
 categories:
 - Technology
 - Reactive
+- Architecture
 tags:
 - Serverless
 - CMS
