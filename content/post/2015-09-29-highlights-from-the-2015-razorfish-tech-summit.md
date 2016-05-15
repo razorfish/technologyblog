@@ -9,7 +9,6 @@ post_format:
 slug: highlights-from-the-2015-razorfish-tech-summit
 title: Highlights from the 2015 Razorfish Tech Summit
 url: /2015/09/29/highlights-from-the-2015-razorfish-tech-summit
-wordpress_id: 5946
 2015:
 - "09"
 ---
