@@ -50,10 +50,11 @@ As mentioned in the previous blog post, Fluent is Publicis Groupe’s turnkey Sa
 From our vision, the marketing platform is the single integrated technology solution that provides the foundation to deliver a broad set of digital experiences, ranging from websites to kiosk experiences, from microsites to global multi language sites. And with this integrated platform, we are able to deliver these experiences in a connected manner, providing a consistent message to a visitor across all touch points.
 
 The foundational building blocks of a platform are a:
-• A set of integrated services providing core data and functional services,
-• An infrastructure and software foundation
-• A set of organization specific application, template or component frameworks to deliver experiences
-• And a group of process defined to support the creating, management and evolution of the platform and platform components
+
+- A set of integrated services providing core data and functional services,
+- An infrastructure and software foundation
+- A set of organization specific application, template or component frameworks to deliver experiences
+- And a group of process defined to support the creating, management and evolution of the platform and platform components
 
 [![MJRV03](/uploads/2014/10/MJRV03-300x131.jpg)](/uploads/2014/10/MJRV03.jpg)
 
