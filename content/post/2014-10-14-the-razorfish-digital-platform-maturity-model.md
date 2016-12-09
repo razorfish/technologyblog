@@ -15,7 +15,7 @@ wordpress_id: 1003
 ---
 
 
-w_ritten by: Martin Jacobs (GVP, Technology)_
+_written by: Martin Jacobs (GVP, Technology)_
 
 Within our work, we often are building out the platforms for our clients to deliver on the premise of data driven marketing & commerce. In the current landscape, it is critical to deliver across all channels the right message, at the right time to the right person. To do so, it requires a multi-tiered data driven architecture, incorporating all data sources, integrated with the different technology tools and using them across all channels,
 
