@@ -12,7 +12,7 @@ url: /2016/12/09/highlights-from-aws-reinvent-2016
 2016:
 - "12"
 ---
-Another AWS re:Invent is behind us and it was packed with exciting announcements including the launch of new products, extension of existing services and much more. It was the biggest re:Invent ever with whopping 32,000 attendees and numerous exhibitors.
+Another AWS re:Invent is behind us and it was packed with exciting announcements including the launch of new products, extension of existing services and much more. It was the biggest re:Invent ever with approximately a whopping 32,000 attendees and numerous exhibitors.
 
 ![](/media/reinvent2016/ReInventHero.jpg)
 
