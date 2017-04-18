@@ -9,7 +9,7 @@ tags:
 - AEM
 - CMS
 - AWS
-title: 'Serverless continuous delivery for AEM on AWS'
+title: 'Serverless Continuous Delivery for AEM on AWS'
 url: /2017/03/14/serverless-continuous-delivery-for-aem-on-aws
 2017:
 - "03"

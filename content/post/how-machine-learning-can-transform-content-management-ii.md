@@ -9,7 +9,7 @@ tags:
 - Big Data
 title: 'How Machine Learning Can Transform Content Management- Part II'
 url: /2017/02/01/how-machine-learning-can-transform-content-management-ii
-2016:
+2017:
 - "02"
 ---
 

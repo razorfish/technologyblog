@@ -21,7 +21,7 @@ url: /2016/05/06/a-reactive-serverless-cms-for-the-technology-blog
 Background
 ----------
 
-At Razorfish, we are [big proponents of reactive architectures](http://www.razorfish.com/ideas/reactive-architectures.htm).  Additionally, we believe architectures using cloud functions such as AWS Lambda are part of the future of application development. Our relaunch of the blog was a good occasion to test this out.
+At Razorfish, we are [big proponents of reactive architectures](/media/reactive-architectures-overview.pdf).  Additionally, we believe architectures using cloud functions such as AWS Lambda are part of the future of application development. Our relaunch of the blog was a good occasion to test this out.
 
 Historically, the blog had been hosted on WordPress. Although WordPress is a good solution, we had run into some performance issues. Although there are many good ways to address performance challenges in WordPress, it was a good time to explore a new architecture for the blog, as we weren’t utilizing any WordPress specific features.  
 

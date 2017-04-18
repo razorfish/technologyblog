@@ -19,7 +19,7 @@ url: /2016/06/12/a-reactive-serverless-cms-for-the-technology-blog-2
 
 Background
 ----------
-As mentioned in previous posts, we are [big proponents of reactive architectures](http://www.razorfish.com/ideas/reactive-architectures.htm) at Razorfish.
+As mentioned in previous posts, we are [big proponents of reactive architectures](/media/reactive-architectures-overview.pdf) at Razorfish.
 
 We also believe architectures using cloud functions — such as [AWS Lambda](https://aws.amazon.com/lambda) — are part of the future of application development. In this post, we will call them “serverless” architectures because although there are obviously still servers involved, we’re not responsible for managing them anymore.
 
