@@ -3,7 +3,6 @@ author: Dennis Hall
 date: '2017-04-18'
 categories:
 - Technology
-- code
 tags:
 - YouTube
 - Mobile
