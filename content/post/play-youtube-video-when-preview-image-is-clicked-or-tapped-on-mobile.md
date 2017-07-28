@@ -1,6 +1,6 @@
 ---
 author: Dennis Hall
-date: '2017-04-18'
+date: '2017-02-18'
 categories:
 - Technology
 tags:
@@ -8,9 +8,9 @@ tags:
 - Mobile
 - Video
 title: 'Play a YouTube Video When a Preview Image Is Clicked On Mobile'
-url: /2017/04/18-play-youtube-video-when-preview-image-is-clicked-or-tapped-on-mobile
+url: /2017/02/18-play-youtube-video-when-preview-image-is-clicked-or-tapped-on-mobile
 2017:
-- "04"
+- "02"
 ---
 
 ![Intro](/media/YouTubeVideoPlayerPreview.jpeg "Intro Image")
