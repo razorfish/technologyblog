@@ -49,14 +49,14 @@ There are 3 components to SageMaker:
 
 One of the challenges we have seen in our work with machine learning in larger organizations is sharing models across all different groups that are interacting with it.  SageMaker allows you to develop, document and share the models you create with other data scientists, and the authoring tool can also help you make the model understandable to non-experts.
 
-With the model hosting component, it makes it easy to make the model accessible to other applications. The [SageMaker introduction article](https://aws.amazon.com/blogs/aws/sagemaker/) provides a pretty cool example of how this endpoint can now easily be invoked from Lambda and other channels, and showcases it with a [twitter account](https://twitter.com/WhereMl/) that will guess to the location of an image.
+The model hosting component facilitates accessibility to other applications. The [SageMaker introduction article](https://aws.amazon.com/blogs/aws/sagemaker/) provides a pretty cool example of how this endpoint can now easily be invoked from Lambda and other channels, and showcases it with a [twitter account](https://twitter.com/WhereMl/) that will guess to the location of an image.
 
 
 #2 AWS Lambda Improvements and Cloud 9
 --------
 A number of Lambda improvements were announced. At SapientRazorfish, we see big opportunities with AWS Lambda. This [blog](/2016/05/06/a-reactive-serverless-cms-for-the-technology-blog/index.html) is managed through Lambda functions, and AWS Lambda is a Swiss Army knife in our DevOps practice.  The major announcement around development was the collaborative development tool, Cloud 9.
 
-Lambda development can still fairly complicated. Especially in a team environment, ensuring all team members have the same configuration and test environment requires some work. With Cloud 9, all of this is now simplified, including an integrated debugger. Coding becomes the collaborative process it should be. 
+Lambda development can still be fairly complicated. Especially in a team environment, ensuring all team members have the same configuration and test environment requires some work. With Cloud 9, all of this is now simplified, including an integrated debugger. Coding becomes the collaborative process it should be. 
 
 ![](/media/reinvent2017/cloud9.png)
 
@@ -75,9 +75,9 @@ We are very excited about all of these, it will simplify deployment and manageme
 
 #1 Serverless Aurora
 --------
-For me, the highlight of the conference was the announcement around serverless Aurora. With a serverless database, many applications can finally become fully serverless, with the associated benefits of straightforward scaling and really pay-as-you-go. 
+For me, the highlight of the conference was the announcement around serverless Aurora. With a serverless database, many applications can finally become fully serverless, with the associated benefits of straightforward scaling and true pay-as-you-go. 
 
-Although solutions like DynamoDB provided somewhat of an alternative, a serverless relational database opens up the opportunities for a far wider range of applications. With support for up to 64TB of storage, it can have broad implications. Within a cloud environment, databasize planning and sizing was still something that needed to be clearly planned upfront, and this has the potential to reduce that requirement significantly.
+Although solutions like DynamoDB provided somewhat of an alternative, a serverless relational database opens up the opportunities for a far wider range of applications. With support for up to 64TB of storage, it can have broad implications. Within a cloud environment, database planning and sizing was still something that needed to be clearly planned upfront, and this has the potential to reduce that requirement significantly.
 
 In a next post, I'll talk about leveraging serverless Aurora.
 
