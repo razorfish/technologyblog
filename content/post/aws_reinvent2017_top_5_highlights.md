@@ -47,7 +47,7 @@ There are 3 components to SageMaker:
 
 ![](/media/reinvent2017/sagemaker.png)
 
-One of the challenges we have seen in our work with machine learning in larger organizations is sharing models across all different groups that are interacting with it.  SageMaker allows you to develop, document and share the models you create with other data scientists, and the authoring tool can also help you make the model understable to non-experts.
+One of the challenges we have seen in our work with machine learning in larger organizations is sharing models across all different groups that are interacting with it.  SageMaker allows you to develop, document and share the models you create with other data scientists, and the authoring tool can also help you make the model understandable to non-experts.
 
 With the model hosting component, it makes it easy to make the model accessible to other applications. The [SageMaker introduction article](https://aws.amazon.com/blogs/aws/sagemaker/) provides a pretty cool example of how this endpoint can now easily be invoked from Lambda and other channels, and showcases it with a [twitter account](https://twitter.com/WhereMl/) that will guess to the location of an image.
 
