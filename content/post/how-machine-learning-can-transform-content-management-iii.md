@@ -1,6 +1,6 @@
 ---
 author: mjacobs
-date: '2018-02-01'
+date: '2018-01-02'
 categories:
 - Technology
 - Machine learning
@@ -13,11 +13,11 @@ url: /2018/01/02/how-machine-learning-can-transform-content-management-iii
 - "01"
 ---
 
-In a previous post, I [highlighted how machine learning can be applied to content management](http://www.linkedin.com/pulse/how-machine-learning-can-transform-content-management-martin-jacobs). In that article, I described how content analysis could identify social, emotional and linguistic tone of an article. This informs a content author further on his writing style, and helps the author understand which style resonates most with his readers.
+In a previous post, I [highlighted how machine learning can be applied to content management](/2016/05/03/how-machine-learning-can-transform-content-management/index.html). In that article, I described how content analysis could identify social, emotional and linguistic tone of an article. This informs a content author further on his writing style, and helps the author understand which style resonates most with his readers.
 
-A [follow up article](https://www.linkedin.com/pulse/how-machine-learning-can-transform-content-management-martin-jacobs-1/) outlined the use of Amazon's Artificial Intelligence Services to perform text to speech translations.  
+A [follow up article](/2017/02/01/how-machine-learning-can-transform-content-management-ii/index.html) outlined the use of Amazon's Artificial Intelligence Services to perform text to speech translations.  
 
-At the most recent [AWS re:Invent conference](http://technology.razorfish.com/), Amazon announced Comprehend, a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. This seemed like a good occasion to revisit the initial article, and explore how Comprehend can provide content intelligence.
+At the most recent [AWS re:Invent conference](/2017/12/07/aws-reinvent-2017-top-5-highlights/index.html), Amazon announced Comprehend, a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. This seemed like a good occasion to revisit the initial article, and explore how Comprehend can provide content intelligence.
 
 Amazon Comprehend
 ----------
