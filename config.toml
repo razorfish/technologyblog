@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "SapientRazorfish Technology Blog"
-theme = "sr"
+theme = "razorfish"
 
 [taxonomies]
 tag = "tags"
