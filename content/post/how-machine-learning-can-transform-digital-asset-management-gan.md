@@ -1,6 +1,6 @@
 ---
 author: mjacobs
-date: '2018-02-28'
+date: '2018-03-06'
 categories:
 - Technology
 - Machine learning
@@ -9,9 +9,9 @@ tags:
 - CMS
 - GAN
 title: 'How Machine Learning Can Transform Digital Asset Management - GAN'
-url: /2018/01/18/how-machine-learning-can-transform-digital-asset-management-gan
+url: /2018/03/06/how-machine-learning-can-transform-digital-asset-management-gan
 2018:
-- "02"
+- "03"
 ---
 
 In previous articles I discussed [the opportunities for machine learning in digital asset management](https://www.linkedin.com/pulse/how-machine-learning-can-transform-digital-asset-martin-jacobs) (DAM). Most of these articles focused on leveraging machine intelligence to gain insights into asset content, and use that insight into the digital asset management, publishing and analytics processes. Examples that were highlighted were the [automatic extraction of metadata from an image](/2017/01/11/how-machine-learning-can-transform-digital-asset-management-iii) and detecting the [location of a face to perform better cropping](/2017/01/19/how-machine-learning-can-transform-digital-asset-management-smartcrop).
