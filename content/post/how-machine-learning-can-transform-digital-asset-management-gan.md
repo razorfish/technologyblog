@@ -20,7 +20,7 @@ A different area is the concept of using machine learning to generate or extend 
 
 For example, it is relatively easy to verify whether the discovered metadata of an image is correct, and you could easily create a training set with labeled responses for the network. For a generated image, it is harder to determine whether this image is as good as a real image. Often times, there is not just one good answer. In many cases, there are many or even infinite options that are good.
 
-To address, the concept of generative adversarial networks (GAN) was developed. A GAN consist of two machine learning algorithms (neural networks), one to generate an image, and another assessing whether the image is real or generated. The 2 algorithms compete with each other. So instead of getting a training set to improve and learn, one network is tested against another network, allowing for unsupervised learning.
+To address this, the concept of generative adversarial networks (GAN) was developed. A GAN consist of two machine learning algorithms (neural networks), one to generate an image, and another assessing whether the image is real or generated. The 2 algorithms compete with each other. So instead of getting a training set to improve and learn, one network is tested against another network, allowing for unsupervised learning.
 
 
 Generative Adversarial Network (GANs)
