@@ -1,0 +1,26 @@
+      {{ partial "header.html" . }}
+
+      <div id="main" class="wrapper">
+
+      	<div id="primary" class="site-content">
+      		<div id="content" role="main">
+
+      			{{ range (.Paginate .Site.Pages).Pages  }}
+                      {{ partial "content.html" . }}  
+      			{{ end }}
+
+              
+                  
+                  {{ if .Paginator.HasPrev }}
+                  <div class="nav-previous-posts"><a href="{{.Paginator.Prev.URL}}"><img alt="Older posts" src="{{ .Site.BaseURL }}/images/left.png" width="31" height="31"/></a></div>
+                  {{ end }}
+                  {{ if .Paginator.HasNext }}
+                  <div class="nav-next-posts"><a href="{{.Paginator.Next.URL}}"><img alt="Newer posts" src="{{ .Site.BaseURL }}/images/right.png" width="31" height="31"/></a></div>
+                  {{ end }}
+                              
+      		</div><!-- #content -->
+      	</div><!-- #primary -->
+      	{{ partial "sidebar.html" . }}
+      </div><!-- #main-content -->
+
+      {{ partial "footer.html" . }}

@@ -1,0 +1,1256 @@
+/*
+Theme Name: Razorfish Theme (Child Theme Twenty Twelve)
+Author: Razorfish
+Author URI: http://www.razorfish.com/
+Description: Child Theme for Twenty Twelve theme
+Version: 2.0
+Template: twentytwelve
+*/
+
+/**
+* TABLE OF CONTENTS
+* 
+* 1. GENERAL RESET
+* 2. FONTS
+* 3. PAGE STRUCTURE
+*/
+
+@import url("./twentytwelve/style.css");
+
+@font-face {
+    font-family: 'Rockwell';
+    src: url('./fonts/rockwell-webfont.eot');
+    src: url('./fonts/rockwell-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/rockwell-webfont.woff') format('woff'),
+         url('./fonts/rockwell-webfont.ttf') format('truetype'),
+         url('./fonts/rockwell-webfont.svg#rockwellregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rockwell Bold';
+    src: url('./fonts/rockwell_bold-webfont.eot');
+    src: url('./fonts/rockwell_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/rockwell_bold-webfont.woff') format('woff'),
+         url('./fonts/rockwell_bold-webfont.ttf') format('truetype'),
+         url('./fonts/rockwell_bold-webfont.svg#rockwellbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+    overflow: hidden;
+}
+
+/** Responsive Images **/
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/** General Site **/
+
+body .site { 
+    padding: 0px;
+    font-family: Arial, sans-serif;
+    margin-top:0;
+}
+.site { 
+    background-color: #ECECEC;
+    max-width: 1060px;
+}
+
+a { 
+    color: #9CAD03;
+    font-weight: bold;
+}
+
+a:hover {
+     color: #3C4502;
+}
+
+/** Page structure **/
+#main-content {
+    overflow: hidden;
+    width: 100%;
+}
+
+.site-content { 
+    background-color: #FFFFFF;
+    float: left;
+    margin: 0px;
+    padding-bottom: 15px;
+    padding-top: 30px;
+    width: 76%;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+.widget-area { 
+    margin: 1.51em 1.5em 0px 0px;
+    width: 17%;
+}
+
+.widget-area .widget { 
+    margin-bottom: 1em;
+}
+
+.widget-area .widget h3, h1.widget-title { 
+    border-bottom: 1px solid #CCCCCC;
+    margin: 0px;
+    padding-bottom: 3px;
+}
+
+.widget-title {
+    color: #464646;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.widget-area .widget ul {
+    height: 19em;
+    overflow: auto;
+    padding-top: 10px;
+}
+
+.widget-area .widget p, .widget-area .widget li, .widget-area .widget .textwidget { 
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+ #hirenurtureContainer {
+        margin-top: 4px;
+        text-align: center;
+    }
+
+@media screen and (max-width: 600px) {
+    #hirenurtureContainer {
+        background: white;
+        padding-bottom: 30px;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 1034px) {
+    #hirenurtureContainer {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1034px) {
+    #hirenurtureContainer {
+        display: block;
+    }
+}
+
+.tagcloud {
+    height: 25em;
+    overflow: auto;
+    padding-top: 8px;
+}
+
+.tagcloud a {
+    line-height: 1.5;
+    text-transform: capitalize;
+}
+
+/*
+.widget-area .widget li { 
+    font-size: 18px;
+}*/
+
+.widget-area .widget a { 
+    color: #838383;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.widget-area .widget a:hover { 
+    color: #9CAD03;
+}
+
+.header-twitter-container {
+    height: 165px;
+    width: 100%;
+    position: relative;
+}
+
+.header-container {
+    margin-top: 1.71em;
+}
+
+.site-header {
+    background: #9CAD03;
+    float: left;
+    height: inherit;
+    padding: 0px;
+    width: 76%;
+}
+
+.twitter-plugin {
+    background-color: #242424;
+    color: #FFFFFF;
+    float: left;
+    font-family: 'Rockwell', sans-serif;
+    height: inherit;
+    width: 24%;
+}
+
+.twitter-plugin-container {
+    padding: 1.6em 1.2em 1em;
+}
+
+.twitter-plugin-header {
+    color: #838383;
+    font-size: 1.6em;
+}
+
+.kebo-tweets .ktweet .kmeta {
+    display: none;
+}
+
+.kebo-tweets .ktweet .kfooter {
+    display: none;
+}
+
+.kebo-tweets .ktweet .ktext a {
+    color: #9CAD03;
+    font-weight: normal;
+}
+
+.razorfish-logo {
+    float:left;
+    width: 50%;
+}
+
+.search-plugin {
+    float:left;
+    padding-top: 14px;
+    text-align:right;
+    width: 50%;
+    right: 15px;
+    position: relative;
+}
+
+ #results {
+    display: none;
+    text-align: left;
+    margin-top: 2px;
+    padding: 10px;
+    background: #242424;
+    width: 395px;
+    margin-left: -30px;
+    border-collapse: separate;/* for ie9 boxshadow */
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+}
+
+#results li {
+    padding: 4px 0;
+}
+
+#results li a {
+    color: #838383 !important;
+    font-weight: normal;
+    line-height: 16px;
+}
+
+#results li a:hover {
+    color: #9CAD03 !important;
+}
+
+.menu-icon {
+    float:left;
+    padding-top: 10px;
+    width: 6%;
+    display: none;
+}
+
+.search-textfield {
+    background: #9BAA12;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    #display: none;
+    font-family: 'Rockwell', sans-serif;
+    font-size: 1em;
+    height: 23px;
+    #margin-top: 5px;
+    margin-top: 2px;
+    vertical-align: top;
+    visibility: visible;
+    width: 160px;
+}
+
+/** Hacks for Opera 12 **/
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .search-textfield {margin-top: 6px;} 
+    _:-o-prefocus, .search-plugin {padding-top: 10px;}
+    _:-o-prefocus, .menu-icon {padding-top: 5px;}
+}
+/***********************/
+
+::-webkit-input-placeholder {
+    color: white;
+    font-family: 'Rockwell', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+::-moz-placeholder { 
+    color: white;
+    font-weight: normal;
+    font-family: 'Rockwell', sans-serif;
+    font-size: 16px;
+ } /* firefox 18- */
+
+:-moz-placeholder { 
+    color: white;
+    font-weight: normal;
+    font-family: 'Rockwell', sans-serif;
+    font-size: 16px;
+ } /* firefox 19+ */
+
+:-ms-input-placeholder { 
+    color: white;
+    font-size: 14px;
+    font-family: 'Rockwell', sans-serif;
+    font-size: 16px;
+} /* ie */
+
+
+.search-button {
+    background: transparent;
+    border: 0;
+    #color: #758312;
+    color: #3C4502;
+    cursor: pointer;
+    font-size: 2.8em;
+    #padding: 2px 15px 0px;
+    padding: 0px 15px 0px;
+ }
+/*
+.search-button:hover{
+    color: #3C4502;
+}
+*/
+
+/** Hack for Mozilla **/
+@-moz-document url-prefix() 
+{
+    .search-button {
+        margin-top: -2px;    
+    }
+}
+/***********************/
+
+input[type="checkbox"].menu-button { 
+    display: none;
+}
+
+.menu-button-label {
+    color: #758312;
+    cursor: pointer;
+    #display: inline-block;
+    #height: 42px;
+    #margin-left: 5px;
+    #padding-top: 10px;
+    font-size: 3.5em;
+    #width: 42px;
+}
+
+.site-content article { 
+    border-bottom: 1px solid #CCCCCC;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    width: 91%;
+}
+
+/** Navigation **/
+
+.main-navigation {
+    margin: 0px;
+    padding-left: 34px;
+    /* #padding-top: 8px; */
+    width: auto;
+    display: none;
+    /* #visibility: hidden; */
+    position: absolute;
+    bottom: 18px;
+}
+
+.main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul { 
+    border: 0px;
+}
+
+.main-navigation li {
+    font-size: 22px;
+    letter-spacing: 1px;
+    margin: 8px 35px 0px 3px;
+}
+
+/** Hack for Mozilla **/
+/*@-moz-document url-prefix() 
+{
+    .main-navigation li {
+        margin: 10px 1.6em 0px 3px;    
+    }
+}*/
+/*********************/
+
+.main-navigation li a {
+    color: #FFFFFF;
+    font-family: 'Rockwell', sans-serif;
+    font-weight: normal;
+    line-height: 1.6;
+    text-decoration: none;
+    text-transform: none;
+}
+
+.main-navigation li a:hover { 
+    color: #3B4101;
+    #font-weight: bold;
+}
+
+/** Hacks for Opera 12 **/
+/*@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .main-navigation li { margin: 10px 1.6em 0px 3px; } 
+}*/
+/*********************/
+
+.main-navigation .current-menu-item a, .main-navigation .current-menu-ancestor a, .main-navigation .current_page_item a, .main-navigation .current_page_ancestor a {
+    color: #3B4101;
+    font-weight: bold;
+}
+
+.header-logo-search {
+    padding-left:34px;
+    padding-top: 27px;
+    overflow: hidden;
+}
+
+/** Posts **/
+.entry-header .entry-title { 
+    font-weight: bold;
+}
+
+.entry-header h2 {
+    color: #838383;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.2em;
+    padding-top: 1.2em;
+}
+
+.entry-header .entry-title a { 
+    color: #464646;
+    font-weight: bold;
+}
+
+.entry-content, .entry-summary, .mu_register { 
+    color: #838383;
+    /*text-align: justify;*/
+}
+
+.entry-content img, .comment-content img, .widget img, img.header-image, .author-avatar img, img.wp-post-image { 
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.more-link {
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.more-link .read-more {
+    border-radius: 0;
+    box-shadow: none;
+}
+
+/** After Posts **/
+
+.synved-social-button, .synved-social-button-share, .synved-social-provider-mail { 
+   float:right;
+   padding-left: 15px;
+}
+
+.comments-tags-titles {
+    color: #9CAD03;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-bottom: 1em;
+}
+
+.comments-tags {
+    color: #7D7D7D;
+    font-weight: normal;
+}
+
+.comments-tags a {
+    color: #7D7D7D;
+    text-decoration: none;
+}
+
+.comments-tags a:before {
+    content: "#";
+}
+
+.comments-tags a:hover {
+    color: #9CAD03;
+}
+
+.comments-link a, .entry-meta a { 
+    font-size: 0.86em;
+}
+
+.nav-previous, .previous-image {
+    padding-left: 0;
+    width: 5%;
+}
+
+.nav-next, .next-image { 
+    padding-right: 0;
+    width: 5%;
+}
+
+.nav-previous-posts {
+    float: left;
+    margin-left: 0;
+    padding-left: 2.5em;
+    width: 10%;
+}
+
+.nav-next-posts {
+    float: right;
+    margin-right: 0;
+    padding-right: 2.5em;
+    text-align: right;
+    width: 10%;
+}
+
+.site-content nav {
+    margin-left: auto;
+    margin-right: auto;
+    width: 91%;
+}
+
+.nav-single + .comments-area, #comment-nav-above {
+    margin: 2em auto;
+    width: 91%;
+}
+
+.comments-area {
+        margin: auto 2em;
+    }
+
+#respond { 
+    margin-top: 0;
+}
+
+.form-allowed-tags {
+    display: none;
+}
+
+.contentinfo { 
+    font-size: 0.86em;
+    padding-bottom: 4em;
+    padding-top: 2.5em;
+    width: 76%;
+}
+
+.site-info { 
+    font-weight: bold;
+    padding: 0px 3em;
+}
+
+.footer-links {
+    float: left;
+ }
+
+.footer-links .links {
+    display: inline-block;
+}
+
+.footer-links a { 
+    color: #9CAD03;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.razorfish-copyright {
+    float: right;
+}
+
+/*** Search ***/
+.archive-header, .page-header { 
+    margin-left: 2.5em;
+}
+
+/***********/
+
+
+/** Media Queries **/
+
+@media only screen and (max-width: 1024px) {
+
+    .header-twitter-container {
+        height: 165px;
+    }
+
+    .header-logo-search {
+        padding-left: 35px;
+    }
+
+
+
+    .search-textfield {
+        width: 130px;
+    }
+
+    .search-button {
+        padding: 0px 15px 0px 5px;
+    }
+
+    #results {
+        margin-left: -45px;
+    }
+/*
+    .main-navigation {
+        padding-left: 6px;
+    }
+*/
+    .main-navigation li {
+        #font-size: 1.9em;
+        #line-height: 2;
+        margin: 8px 35px 0px 0px;
+    }
+
+    .widget-area {
+        margin: 1.51em 1.3em 0px 0px;
+    }
+
+    .tagcloud {
+        height: 23em;
+    }
+/*
+    .nav-previous-posts {
+       padding-left: 1.8em;
+    }
+
+    .nav-next-posts {
+        padding-right: 1.8em;
+    }
+
+    .comments-area {
+        margin: auto 2em;
+    }
+*/
+    .site-info {
+        padding: 0px 2em;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+
+    .header-twitter-container {
+        height: 165px;
+    }
+
+    .header-logo-search {
+        padding-left: 15px;
+    }
+
+    .search-textfield {
+        width: 130px;
+    }
+
+    .search-button {
+        padding: 0px 15px 0px 5px;
+    }
+
+    .main-navigation {
+        padding-left: 18px;
+    }
+/*
+    .main-navigation li {
+        font-size: 1.7em;
+        line-height: 2.5;
+        margin: 0px 12px 0px 0px;
+    }*/
+
+    .widget-area {
+        margin: 1.51em 1.3em 0px 0px;
+    }
+
+    .nav-previous-posts {
+       padding-left: 1.8em;
+    }
+
+    .nav-next-posts {
+        padding-right: 1.8em;
+    }
+
+    .tagcloud {
+        height: 21em;
+    }
+
+    .site-info {
+        padding: 0px 2em;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+/*
+    .header-twitter-container {
+        height: 165px;
+    }
+
+    .header-logo-search {
+        padding-left: 15px;
+    }
+
+    .search-plugin {
+        width: 38%;
+    }
+
+    .search-textfield {
+        width: 130px;
+    }
+
+    .search-button {
+        padding: 0px 15px 0px 5px;
+    }
+
+    .main-navigation {
+        padding-left: 0;
+    }
+*/
+    .main-navigation li {
+        margin: 10px 10px 0px 0px;
+    }
+    #results {
+        width: 295px;
+        margin-left: -30px;
+    }
+
+/*
+    .widget-area {
+        margin: 1.51em 1.3em 0px 0px;
+    }
+    */
+}
+
+@media only screen and (max-width: 600px) {
+    .site-header {
+        min-height: 120px;
+        padding-bottom: 25px;
+        width: 100%;
+    }
+
+    .widget-area {
+        display: none;
+    }
+
+    .header-twitter-container { 
+        height: auto;
+        width: 100%;
+    }
+
+    .header-logo-search {
+        padding-left: 20px;
+    }
+
+    .twitter-plugin { 
+        height: 65px;
+        width: 100%;
+    }
+
+    .razorfish-logo {
+        width: 46%;
+    }
+
+    .search-plugin {
+        width: 42%;
+    }
+
+    .search-textfield {
+        height: 23px;
+        margin-top: 2px;
+        width: 130px;
+    }
+
+    .search-button {
+        font-size: 2.8em;
+        #padding: 2px 10px 0px;
+        padding:  1px 15px 0px 10px;
+    }
+
+    .menu-button-label {
+        font-size: 3.4em;
+    }
+
+    .menu-icon {
+        padding-top: 3px;
+        display: block;
+    }
+
+    .main-navigation {
+        float: right;
+        width: 50%;
+    }
+
+    .main-navigation ul {
+        margin-top: 15px;
+    }
+
+    .main-navigation li {
+        border-bottom: 1px solid #FFFFFF;
+        display: block !important;
+        line-height: 1.4;
+        margin: 0px 28px 0px 0px;
+        text-align: right;
+    }
+
+    .main-navigation li:first-child {
+        border-top: 1px solid #FFFFFF;
+    }
+
+    .main-navigation li a {
+        line-height: 1.2;
+    }
+
+    .twitter-plugin { 
+        height: 70px;
+        width: 100%;
+    }
+
+    .twitter-plugin-container { 
+        padding: 0.8em 1.2em;
+    }
+
+    .twitter-plugin-header { 
+        float: left;
+        padding-top: 10px;
+        padding-right: 10px;
+    }
+
+    .site-content { 
+        width: 100%;
+    }
+
+    .contentinfo {
+        font-size: 0.82em;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    .site-content { 
+        width: 100%;
+    }
+
+    .widget-area {
+        display: none;
+    }
+
+    .header-twitter-container { 
+        height: auto;
+        width: 100%;
+    }
+
+    .site-header {
+        min-height: 50px;
+        #padding: 20px 0px 20px;
+        padding: 15px 0px 20px;
+        width: 100%;
+    }
+
+    .header-logo-search {
+        padding-left: 15px;
+        padding-top: 0;
+    }
+
+    .razorfish-logo {
+        width: 47%;
+    }
+    
+    .search-plugin {
+        padding-top: 7px;
+        width: 43%;
+        z-index: 999;
+    }
+
+    .search-textfield {
+        font-size: 1em;
+        height: 14px;
+        margin-top: 3px;
+        width: 103px;
+    }
+
+    ::-webkit-input-placeholder {
+        font-size: 0.9em;
+    }
+
+    ::-moz-placeholder { 
+        font-size: 0.9em;
+     } /* firefox 18- */
+
+    :-moz-placeholder { 
+        font-size: 0.9em;
+     } /* firefox 19+ */
+
+    .search-button {
+        font-size: 2.2em;
+        padding: 0 0 0 2px;
+    }
+    #results {
+        width: 325px;
+        margin: 2px -156px;
+    }
+    .menu-icon {
+        float: right;
+        margin-right: 17px;
+        padding-top: 5px;
+        width: auto;
+        position: absolute;
+        top: 14px;
+        right: 0;
+    }
+
+    .menu-button-label {
+        font-size: 2.8em;
+        height: auto;
+        width: auto;
+    }
+
+    .twitter-plugin { 
+        height: 65px;
+        width: 100%;
+    }
+
+    .twitter-plugin-container { 
+        font-size: 0.8em;
+        padding: 0.8em 1.2em;
+    }
+
+    .twitter-plugin-header { 
+        float: left;
+        padding-top: 6px;
+        padding-right: 10px;
+    }
+
+    .kebo-tweets .ktweet .ktext { 
+        padding: 0px 0px 0px 10px;
+    }
+    
+    .main-navigation {
+        float: right;
+        padding-top: 0;
+        width: 47%;
+        position: relative;
+    }
+
+    .main-navigation ul.nav-menu,
+    .main-navigation div.nav-menu > ul {
+        display: block !important;
+        text-align: right;
+    }
+
+    .main-navigation li {
+        border-bottom: 1px solid #FFFFFF;
+        font-size: 18px;
+        line-height: 1.2;
+        margin: 0px 18px 0px 0px;
+        text-align: right;
+    }
+
+    .main-navigation li:first-child {
+        border-top: 1px solid #FFFFFF;
+    }
+
+    .main-navigation li a {
+        line-height: 1.2;
+    }
+
+    .nav-previous-posts {
+        padding-left: 1.5em;
+    }
+
+    .nav-next-posts {
+        padding-right: 1.5em;
+    }
+
+    .site-info { 
+        padding-left: 2em;
+        padding-right: 1.5em;
+    }
+
+    .contentinfo {
+        font-size: 0.7em;
+        padding-top: 1.5em;
+        width: 100%;
+    }
+
+    .footer-links .links { 
+        display: block;
+    }
+
+    .razorfish-copyright {
+        /*float: right;*/
+        width: 22%;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+/**@media screen and (max-width: 600px) {**/
+
+   /* .site-content { 
+        width: 100%;
+    }
+
+    .widget-area {
+        display: none;
+    }
+
+    .header-twitter-container { 
+        height: auto;
+        width: 100%;
+    }*/
+
+    .site-header {
+        /*min-height: 50px;*/
+        padding: 15px 0;
+        /*width: 100%;*/
+    }
+
+   /* .header-logo-search {
+        padding-left: 15px;
+        padding-top: 0;
+    }*/
+
+    
+    .razorfish-logo {
+        width: 50%;
+    }
+    
+    .search-plugin {
+        padding-top: 3px;
+        width: 40%;
+    }
+
+    .search-textfield {
+        font-size: 0.8em;
+        height: 8px;
+        margin-top: 2px;
+        width: 90px;
+    }
+    #results {
+        width: 280px;
+        margin: 2px -144px;
+    }
+    ::-webkit-input-placeholder {
+        font-size: 0.9em;
+    }
+
+    ::-moz-placeholder { 
+        font-size: 0.8em;
+     } /* firefox 18- */
+
+    :-moz-placeholder { 
+        font-size: 0.7em;
+     } /* firefox 19+ */
+
+    .search-button {
+        font-size: 1.7em;
+        padding: 0 1px;
+    }
+
+    .menu-icon {
+        float: right;
+        margin-right: 15px;
+        padding-top: 2px;
+        width: auto;
+    }
+
+    .menu-button-label {
+        font-size: 2.1em;
+        height: auto;
+        width: auto;
+    }
+/*
+    .twitter-plugin { 
+        height: 65px;
+        width: 100%;
+    }
+
+    .twitter-plugin-container { 
+        font-size: 0.8em;
+        padding: 0.8em 1.2em;
+    }
+
+    .twitter-plugin-header { 
+        float: left;
+        padding-top: 6px;
+        padding-right: 10px;
+    }
+
+    .kebo-tweets .ktweet .ktext { 
+        padding: 0px 0px 0px 10px;
+    }*/
+    
+    .main-navigation {
+        /*float: right;
+        padding-top: 0;*/
+        width: 46%;
+    }
+/*
+    .main-navigation ul.nav-menu,
+    .main-navigation div.nav-menu > ul {
+        display: block !important;
+        text-align: right;
+    }
+*/
+    .main-navigation li {
+        /*border-bottom: 1px solid #FFFFFF;
+        font-size: 1.2em;
+        line-height: 1.2;*/
+        margin: 0px 0.8em 0px 0px;
+        /*text-align: right;*/
+    }
+/*
+    .main-navigation li:first-child {
+        border-top: 1px solid #FFFFFF;
+    }
+
+    .main-navigation li a {
+        line-height: 1.2;
+    }
+
+    .nav-previous-posts {
+        padding-left: 1.5em;
+    }
+
+    .nav-next-posts {
+        padding-right: 1.5em;
+    }
+
+    .site-info { 
+        padding-left: 2em;
+        padding-right: 1.5em;
+    }
+
+    .contentinfo {
+        font-size: 0.7em;
+        padding-top: 1.5em;
+        width: 100%;
+    }
+
+    .footer-links .links { 
+        display: block;
+    }
+*/
+    .razorfish-copyright {
+        /*float: right;*/
+        width: 34%;
+    }
+
+}
+
+// @media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) { 
+    
+//     .site-content { 
+//         width: 100%;
+//     }
+
+//     .widget-area {
+//         display: none;
+//     }
+
+//     .entry-header .entry-title {
+//         padding-bottom: 1em;
+//         padding-top: 1em;
+//     }
+
+//     .entry-content, .entry-summary, .mu_register {
+//         padding-bottom: 1em;
+//     }
+// }
+
+
+
+
+
+
+/* SPECIFIC PAGES */
+/******************/
+
+.ios-button, .android-button {
+    display: inline-block;
+    text-indent: -9999px;
+}
+
+.ios-button {
+    background: url(images/quizup/appStore_badge.jpg) left center no-repeat;
+    margin-right: 15px;
+    width: 112px;
+    height: 33px;
+}
+
+.android-button {
+    background: url(images/quizup/android_badge.jpg) left center no-repeat;
+    width: 95px;
+    height: 33px;
+}
+
+.quizup-iframe {
+    background: #333 url(images/quizup/refreshing.png) center no-repeat;
+}
+
+.iframe-footer {
+    background: #ececec;
+    margin-top: -2px;
+    height: auto;
+    padding: 20px;
+}
+
+.iframe-footer.placeholder {
+    background: #333;
+}
+
+.iframe-footer .quizup-logo, .iframe-footer .razorfish-logo {
+    display: inline-block;
+}
+
+.iframe-footer .quizup-logo {
+    background: url(images/quizup/quizup_logo.png) left center no-repeat;
+    width: 98px;
+    height: 77px;
+}
+
+.iframe-footer .razorfish-logo {
+    background: url(images/quizup/razorfish_logo.png) left center no-repeat;
+    float: right;
+    width: 149px;
+    height: 32px;
+    margin-top: 40px;
+}
+
+/* print styles */
+@media only print {
+    .header-twitter-container {
+        height: auto;
+    }
+    .search-plugin, .twitter-plugin, .site-header, #secondary  {
+        display: none;
+    }
+    .site-content {
+        width: 100%;
+    }
+}
