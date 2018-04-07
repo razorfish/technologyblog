@@ -17,31 +17,34 @@ Template: twentytwelve
 
 @import url("./twentytwelve/style.css");
 
-@font-face {
-    font-family: 'Rockwell';
-    src: url('./fonts/rockwell-webfont.eot');
-    src: url('./fonts/rockwell-webfont.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/rockwell-webfont.woff') format('woff'),
-         url('./fonts/rockwell-webfont.ttf') format('truetype'),
-         url('./fonts/rockwell-webfont.svg#rockwellregular') format('svg');
+@font-face{
+    font-family: 'gotham_book';
+    src: url('./fonts/Gotham-Book.otf'),
+         url('./fonts/Gotham-Book.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
-
-@font-face {
-    font-family: 'Rockwell Bold';
-    src: url('./fonts/rockwell_bold-webfont.eot');
-    src: url('./fonts/rockwell_bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/rockwell_bold-webfont.woff') format('woff'),
-         url('./fonts/rockwell_bold-webfont.ttf') format('truetype'),
-         url('./fonts/rockwell_bold-webfont.svg#rockwellbold') format('svg');
+@font-face{
+    font-family: 'gotham_med';
+    src: url('./fonts/Gotham-Medium.otf'),
+         url('./fonts/Gotham-Medium.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
-
+@font-face{
+    font-family: 'miller';
+    src: url('./fonts/Miller-Display-Roman.otf'),
+         url('./fonts/MillerDisplayRoman.ttf') format('truetype'),
+         url('./fonts/Miller-Display-Roman.woff') format('woff'),
+         url('./fonts/Miller-Display-Roman.woff2') format('woff2'),
+         url('./fonts/Miller-Display-Roman.eot') format('eot');
+    font-weight: normal;
+    font-style: normal;
+}
 
 body{
     overflow: hidden;
+
 }
 
 /** Responsive Images **/
@@ -54,16 +57,15 @@ img {
 
 body .site { 
     padding: 0px;
-    font-family: Arial, sans-serif;
+    font-family: 'gotham_book', Arial, sans-serif;
     margin-top:0;
 }
 .site { 
-    background-color: #ECECEC;
     max-width: 1060px;
 }
 
 a { 
-    color: #9CAD03;
+    color: #0030ff;
     font-weight: bold;
 }
 
@@ -73,7 +75,7 @@ a:hover {
 
 /** Page structure **/
 #main-content {
-    overflow: hidden;
+    overflow: hidden;ƒ
     width: 100%;
 }
 
@@ -94,7 +96,7 @@ a:hover {
 }
 
 .widget-area .widget { 
-    margin-bottom: 1em;
+    margin-bottom: 50px;
 }
 
 .widget-area .widget h3, h1.widget-title { 
@@ -104,20 +106,24 @@ a:hover {
 }
 
 .widget-title {
-    color: #464646;
+    color: #19191e;
+    font-family: 'miller';
     font-size: 18px;
     text-transform: capitalize;
+    margin: 0;
+    border-bottom: 1px solid #CCC;
 }
 
 .widget-area .widget ul {
     height: 19em;
     overflow: auto;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 .widget-area .widget p, .widget-area .widget li, .widget-area .widget .textwidget { 
-    font-size: 18px;
+    font-size: 14px;
     line-height: 1.5;
+    color: #838383;
 }
 
  #hirenurtureContainer {
@@ -167,7 +173,7 @@ a:hover {
 }
 
 .widget-area .widget a:hover { 
-    color: #9CAD03;
+    color: #0030ff;
 }
 
 .header-twitter-container {
@@ -181,42 +187,10 @@ a:hover {
 }
 
 .site-header {
-    background: #9CAD03;
     float: left;
     height: inherit;
     padding: 0px;
-    width: 76%;
-}
-
-.twitter-plugin {
-    background-color: #242424;
-    color: #FFFFFF;
-    float: left;
-    font-family: 'Rockwell', sans-serif;
-    height: inherit;
-    width: 24%;
-}
-
-.twitter-plugin-container {
-    padding: 1.6em 1.2em 1em;
-}
-
-.twitter-plugin-header {
-    color: #838383;
-    font-size: 1.6em;
-}
-
-.kebo-tweets .ktweet .kmeta {
-    display: none;
-}
-
-.kebo-tweets .ktweet .kfooter {
-    display: none;
-}
-
-.kebo-tweets .ktweet .ktext a {
-    color: #9CAD03;
-    font-weight: normal;
+    width: 100%;
 }
 
 .razorfish-logo {
@@ -225,11 +199,10 @@ a:hover {
 }
 
 .search-plugin {
-    float:left;
-    padding-top: 14px;
+    padding-top: 15px;
     text-align:right;
-    width: 50%;
-    right: 15px;
+    width: auto;
+    right: 22%;
     position: relative;
 }
 
@@ -258,7 +231,7 @@ a:hover {
 }
 
 #results li a:hover {
-    color: #9CAD03 !important;
+    color: #0030ff !important;
 }
 
 .menu-icon {
@@ -269,12 +242,11 @@ a:hover {
 }
 
 .search-textfield {
-    background: #9BAA12;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
+    border-color: #999;
+    color: #999;
     #display: none;
-    font-family: 'Rockwell', sans-serif;
-    font-size: 1em;
+    font-size: 13px;
+    font-size: 0.9286rem;
     height: 23px;
     #margin-top: 5px;
     margin-top: 2px;
@@ -292,31 +264,27 @@ a:hover {
 /***********************/
 
 ::-webkit-input-placeholder {
-    color: white;
-    font-family: 'Rockwell', sans-serif;
-    font-size: 14px;
+    color: #999;
+    font-size: 13px;
     font-weight: normal;
 }
 
 ::-moz-placeholder { 
-    color: white;
+    color: #999;
     font-weight: normal;
-    font-family: 'Rockwell', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
  } /* firefox 18- */
 
 :-moz-placeholder { 
-    color: white;
+    color: #999;
     font-weight: normal;
-    font-family: 'Rockwell', sans-serif;
-    font-size: 16px;
+    font-size: 15px;
  } /* firefox 19+ */
 
 :-ms-input-placeholder { 
-    color: white;
-    font-size: 14px;
-    font-family: 'Rockwell', sans-serif;
-    font-size: 16px;
+    color: #999;
+    font-size: 13px;
+    font-size: 15px;
 } /* ie */
 
 
@@ -402,16 +370,15 @@ input[type="checkbox"].menu-button {
 /*********************/
 
 .main-navigation li a {
-    color: #FFFFFF;
-    font-family: 'Rockwell', sans-serif;
+    color: #19191e;
     font-weight: normal;
     line-height: 1.6;
     text-decoration: none;
-    text-transform: none;
+    text-transform: uppercase;
 }
 
 .main-navigation li a:hover { 
-    color: #3B4101;
+    color: #0030ff;
     #font-weight: bold;
 }
 
@@ -422,19 +389,21 @@ input[type="checkbox"].menu-button {
 /*********************/
 
 .main-navigation .current-menu-item a, .main-navigation .current-menu-ancestor a, .main-navigation .current_page_item a, .main-navigation .current_page_ancestor a {
-    color: #3B4101;
+    color: #0030ff;
     font-weight: bold;
 }
 
 .header-logo-search {
-    padding-left:34px;
-    padding-top: 27px;
+    padding-left:35px;
+    padding-top: 28px;
     overflow: hidden;
 }
 
 /** Posts **/
-.entry-header .entry-title { 
-    font-weight: bold;
+.entry-header .entry-title {
+    font-size: 36px;
+    font-family: 'miller';
+    font-size: 2.571rem;
 }
 
 .entry-header h2 {
@@ -446,13 +415,21 @@ input[type="checkbox"].menu-button {
 }
 
 .entry-header .entry-title a { 
-    color: #464646;
+    color: #0030ff;
     font-weight: bold;
 }
 
 .entry-content, .entry-summary, .mu_register { 
-    color: #838383;
-    /*text-align: justify;*/
+    color: #19191e;
+	font-size: 16px;
+	font-size: 1.143rem;
+}
+
+.entry-content h2, .entry-summary h2, .mu_register h2 { 
+    color: #0030ff;
+    font-family: 'gotham_med';
+	font-size: 16px;
+	font-size: 1.143rem;
 }
 
 .entry-content img, .comment-content img, .widget img, img.header-image, .author-avatar img, img.wp-post-image { 
@@ -479,7 +456,7 @@ input[type="checkbox"].menu-button {
 }
 
 .comments-tags-titles {
-    color: #9CAD03;
+    color: #0030ff;
     font-size: 12px;
     font-weight: bold;
     line-height: 1.5;
@@ -501,7 +478,7 @@ input[type="checkbox"].menu-button {
 }
 
 .comments-tags a:hover {
-    color: #9CAD03;
+    color: #0030ff;
 }
 
 .comments-link a, .entry-meta a { 
@@ -577,7 +554,7 @@ input[type="checkbox"].menu-button {
 }
 
 .footer-links a { 
-    color: #9CAD03;
+    color: #0030ff;
     font-weight: bold;
     text-decoration: none;
 }
