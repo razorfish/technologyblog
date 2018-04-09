@@ -83,5 +83,6 @@ The Developer’s Takeaway
 
 Overall, I believe the architectural style of reactive and serverless has a lot of promise — and may even be transformational with respect to developing applications in the future. The benefits are tremendous, and will allow us to really take cloud architectures to the next level. For this reason alone, developers should consider how this approach could be incorporated into every new project.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

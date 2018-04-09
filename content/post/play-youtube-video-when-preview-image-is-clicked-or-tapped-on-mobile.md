@@ -26,5 +26,6 @@ See it in action:
 
 {{% pen id="YNmdWp" %}}
 
-_written by: [Dennis Hall (Presentation Layer Architect, Technology)](https://www.linkedin.com/in/dennis-hall-1aa386a)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/dennis-hall-1aa386a" class="author-name">Dennis Hall</a>  
+Presentation Layer Architect, Technology

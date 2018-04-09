@@ -68,5 +68,6 @@ Conclusion
 
 These days, infrastructure and application are intertwined, and an application solution that doesn’t address the infrastructure element is incomplete. Focusing on one without the other cannot address the critical requirements around security, performance, scalability, availability and others. It is important to invest in the tools, processes and people to deliver on this.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

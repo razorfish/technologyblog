@@ -53,5 +53,6 @@ The source code and setup instructions for the integration with AWS, as well as 
 
 One thing all the different vendors have in common is that the services are very developer focused, and integrating these services with an application is very straightforward. This makes adoption easy. Hopefully, the objects being recognized will become more detailed and advanced over time, which will improve their applicability even more.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

@@ -46,5 +46,6 @@ Conclusion
 
 As this post highlights, old problems can be addressed now in new ways. In this case, it turns a task that often was performed manually in something that can be automated. The availability of many turnkey machine-learning services can provide a start to solve existing problems in a new and very simple manner. It will be interesting to see the developments in the coming year on this front.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

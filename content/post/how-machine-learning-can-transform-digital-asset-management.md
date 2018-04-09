@@ -56,5 +56,6 @@ Lastly, incorporating machine learning capabilities in DAM solutions will also h
 
 Bottom line? Consider incorporating machine learning into your DAM strategy now, and look at how it can be applied to your digital asset management process.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

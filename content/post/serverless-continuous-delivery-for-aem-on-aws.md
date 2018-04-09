@@ -53,5 +53,6 @@ Obviously, the example above is simplified. Additional steps for testing, conten
 
 In addition, by leveraging the CodePipeline and CodeBuild architecture, the deployment process itself can be moved to a CloudFormation template, making it possible to instantiate a system with multiple environments with automated deployments with little more than a click of button, getting us closer to 100% automation.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

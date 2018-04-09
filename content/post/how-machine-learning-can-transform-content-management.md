@@ -62,5 +62,6 @@ Personally, I can’t wait to analyze my own posts from the last few months usin
 
 Isn’t that what every content creator wants?
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

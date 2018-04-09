@@ -135,5 +135,6 @@ Conclusion
 
 Although more and more tools are coming available, AWS Lambda development and code management can still be a challenge, especially in our scenario with OS specific executables. However, from an architecture perspective, the solution is working very well. It has become very predictive and stable, and allows for a fully hands-off approach on management.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

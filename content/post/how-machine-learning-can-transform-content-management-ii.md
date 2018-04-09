@@ -56,5 +56,6 @@ This post highlighted how an old problem can now be addressed in a new way. The 
 
 With these turnkey machine-learning services in place, creative and innovative thinking is critical to successfully solve challenges in new ways.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

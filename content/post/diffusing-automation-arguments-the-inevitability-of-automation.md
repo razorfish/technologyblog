@@ -66,5 +66,6 @@ As you embark on applying automation, here are some tips for being successful:
 - Start simple. [Amazon Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) or [Heroku](https://www.heroku.com/) are great ways to begin to incorporate automation into your application development workflow and understand how it can further drive productivity and quality.
 - Avoid the framework syndrome and focus primarily on building the automation that is needed for your application. Don’t try to build a framework for automation in the enterprise. The landscape is constantly evolving and frameworks quickly become outdated and superseded.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

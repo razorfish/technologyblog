@@ -62,5 +62,6 @@ Challenges in Automation
 
 Automation, like anything else, has its challenges. For a Cloud-optimized environment, it is critical to reach for the 100%. If you cannot achieve that, automate the necessary manual processes 100%.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

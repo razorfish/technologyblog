@@ -67,5 +67,6 @@ For topic classification, the approach taken here with entities can be valuable.
 
 Key phrase detection can help with quickly reviewing what an article is about, identify repetition and can especially be helpful in content management scenarios with high volume content production.
 
-_written by: [Martin Jacobs (VP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

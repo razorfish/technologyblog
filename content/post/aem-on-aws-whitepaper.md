@@ -79,5 +79,6 @@ Using Adobe’s Experience Manager in tandem with AWS provides a powerful platfo
 
 To learn more about running AEM on AWS, you can download and read the full whitepaper [here](https://d0.awsstatic.com/whitepapers/Adobe%20AEM%20on%20AWS.pdf).
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

@@ -77,5 +77,7 @@ With the ability to generate unique natural looking variations of images, they c
 In the end, the concept of stock photos might evolve over time as well. With these new capabilities, high quality stock photos can potentially be generated, allowing us to move away from these [overused](http://overexposedmodel.tumblr.com/) standard [photos](http://www.adweek.com/creativity/vince-vaughns-hilarious-stock-photos-were-made-these-equally-ludicrous-originals-163285/).
 
 
-_written by: [Martin Jacobs (VP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+(VP, Technology)  
 

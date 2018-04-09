@@ -85,5 +85,6 @@ Summary
 --------
 With these announcements, Amazon is continuing to improve its platform, and it is exciting to see the opportunities it provides on changing our work. 
 
-_written by: [Martin Jacobs (VP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+VP, Technology

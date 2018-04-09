@@ -75,5 +75,6 @@ With companies like Adobe, IBM, Google, and Microsoft pouring a ton of resources
 
 As it relates to Digital Asset Management, it remains to be seen precisely what the exact improvements will be. But one thing is certain: Machine learning technology promises a lot of exciting possibilities.
 
-_written by: [Martin Jacobs (GVP, Technology)](https://www.linkedin.com/in/martinjacobs1)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/martinjacobs1" class="author-name">Martin Jacobs</a>  
+GVP, Technology

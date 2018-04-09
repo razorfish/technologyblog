@@ -95,6 +95,6 @@ Dr. Vogels also launched **Amazon Pinpoint**, a mobile analytics service. Amazon
 AWS refers to re:Invent as an educational event, and they were very successful in achieving this in 2016. You can find the recording of keynote and tech talks on [YouTube](https://www.youtube.com/playlist?list=PLhr1KZpdzukdGa7Gqu4bdql4KH7sL3mhf). 
 
 
-
-_written by: [Praveen Modi (Sr Technical Architect)](https://www.linkedin.com/in/modipraveen)_
-
+<span class="author">AUTHOR</span>  
+<a href="https://www.linkedin.com/in/modipraveen" class="author-name">Praveen Modi</a>  
+Sr Technical Architect
