@@ -12,10 +12,10 @@
               
                   
                   {{ if .Paginator.HasPrev }}
-                  <div class="nav-previous-posts"><a href="{{.Paginator.Prev.URL}}"><img alt="Older posts" src="{{ .Site.BaseURL }}/images/left.png" width="31" height="31"/></a></div>
+                  <div class="nav-previous-posts"><a href="{{.Paginator.Prev.URL}}"><img alt="Older posts" src="{{ .Site.BaseURL }}/images/previous_arrow.png" width="20" height="12"/></a></div>
                   {{ end }}
                   {{ if .Paginator.HasNext }}
-                  <div class="nav-next-posts"><a href="{{.Paginator.Next.URL}}"><img alt="Newer posts" src="{{ .Site.BaseURL }}/images/right.png" width="31" height="31"/></a></div>
+                  <div class="nav-next-posts"><a href="{{.Paginator.Next.URL}}"><img alt="Newer posts" src="{{ .Site.BaseURL }}/images/next_arrow.png" width="20" height="12"/></a></div>
                   {{ end }}
                               
       		</div><!-- #content -->
