@@ -177,7 +177,7 @@ a:hover {
 }
 
 .header-twitter-container {
-    height: 165px;
+    min-height: 165px;
     width: 100%;
     position: relative;
 }
@@ -575,6 +575,22 @@ input[type="checkbox"].menu-button {
     text-decoration: none;
 }
 
+
+/*** btn contact us ***/
+.blue-btn{
+    border:solid 1px #0030ff;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 18px;
+    font-family: 'gotham_med';
+    margin-right: 10px;
+}
+.blue-btn:hover{
+    color: #0030ff;
+}
+/**************/
+
 /*** Search ***/
 .archive-header, .page-header { 
     margin-left: 2.5em;
@@ -585,115 +601,70 @@ input[type="checkbox"].menu-button {
 
 /** Media Queries **/
 
-@media only screen and (max-width: 1024px) {
 
-    .header-twitter-container {
-        height: 165px;
+@media only screen and (max-width: 767px) {
+    #main-content{
+        overflow: visible;
     }
-
-    .header-logo-search {
-        padding-left: 35px;
+    .header-twitter-container{
+        height: auto;
+        margin-bottom: 45px;
     }
-
-
-
-    .search-textfield {
-        width: 130px;
-    }
-
-    .search-button {
-        padding: 0px 15px 0px 5px;
-    }
-
-    #results {
-        margin-left: -45px;
-    }
-/*
-    .main-navigation {
-        padding-left: 6px;
-    }
-*/
-    .main-navigation li {
-        #font-size: 1.9em;
-        #line-height: 2;
-        margin: 8px 35px 0px 0px;
+    .site-content { 
+        width: 100%;
     }
 
     .widget-area {
-        margin: 1.51em 1.3em 0px 0px;
+        display: none;
+    }
+    .search-plugin{
+        position: absolute;
+        top: 5px;
+        right: 75px;
+    }
+    .menu-icon {
+        float: right;
+        margin-right: 17px;
+        padding-top: 5px;
+        width: auto;
+        position: absolute;
+        top: 14px;
+        right: 0;
+        display: block;
     }
 
-    .tagcloud {
-        height: 23em;
-    }
-/*
-    .nav-previous-posts {
-       padding-left: 1.8em;
+    .menu-button-label {
+        font-size: 2.8em;
+        height: auto;
+        width: auto;
     }
 
-    .nav-next-posts {
-        padding-right: 1.8em;
+    .menu-button-label.open:before {
+        content: "\2716";
+        font-size: 30px;
+        top: -7px;
+        position: relative;
+    }
+    .main-navigation{
+        display: none;
+        width: 91%;
+        position: relative;
+        margin: 0px auto;
+        padding: 0;
     }
 
-    .comments-area {
-        margin: auto 2em;
-    }
-*/
-    .site-info {
-        padding: 0px 2em;
-    }
-}
-
-@media only screen and (max-width: 800px) {
-
-    .header-twitter-container {
-        height: 165px;
+    .main-navigation ul.nav-menu, 
+    .main-navigation div.nav-menu > ul { 
+        display: block;
     }
 
-    .header-logo-search {
-        padding-left: 15px;
+    .main-navigation li{
+        display: block;
+        width: 100%;
+        text-align: right;
+        padding: 5px 0;
     }
 
-    .search-textfield {
-        width: 130px;
-    }
-
-    .search-button {
-        padding: 0px 15px 0px 5px;
-    }
-
-    .main-navigation {
-        padding-left: 18px;
-    }
-/*
-    .main-navigation li {
-        font-size: 1.7em;
-        line-height: 2.5;
-        margin: 0px 12px 0px 0px;
-    }*/
-
-    .widget-area {
-        margin: 1.51em 1.3em 0px 0px;
-    }
-
-    .nav-previous-posts {
-       padding-left: 1.8em;
-    }
-
-    .nav-next-posts {
-        padding-right: 1.8em;
-    }
-
-    .tagcloud {
-        height: 21em;
-    }
-
-    .site-info {
-        padding: 0px 2em;
-    }
-}
-
-@media only screen and (max-width: 768px) {
 /*
     .header-twitter-container {
         height: 165px;
@@ -719,13 +690,13 @@ input[type="checkbox"].menu-button {
         padding-left: 0;
     }
 */
-    .main-navigation li {
+   /* .main-navigation li {
         margin: 10px 10px 0px 0px;
     }
     #results {
         width: 295px;
         margin-left: -30px;
-    }
+    }*/
 
 /*
     .widget-area {
@@ -733,7 +704,7 @@ input[type="checkbox"].menu-button {
     }
     */
 }
-
+/**//*
 @media only screen and (max-width: 600px) {
     .site-header {
         min-height: 120px;
@@ -837,16 +808,8 @@ input[type="checkbox"].menu-button {
         width: 100%;
     }
 }
-
+*//*
 @media screen and (max-width: 480px) {
-
-    .site-content { 
-        width: 100%;
-    }
-
-    .widget-area {
-        display: none;
-    }
 
     .header-twitter-container { 
         height: auto;
@@ -888,11 +851,11 @@ input[type="checkbox"].menu-button {
 
     ::-moz-placeholder { 
         font-size: 0.9em;
-     } /* firefox 18- */
+     } /* firefox 18- *
 
     :-moz-placeholder { 
         font-size: 0.9em;
-     } /* firefox 19+ */
+     } /* firefox 19+ *
 
     .search-button {
         font-size: 2.2em;
@@ -991,13 +954,19 @@ input[type="checkbox"].menu-button {
     }
 
     .razorfish-copyright {
-        /*float: right;*/
+        /*float: right;*
         width: 22%;
     }
 
-}
+}*/
 
 @media screen and (max-width: 320px) {
+    .header-logo-search {
+        padding-left: 15px;
+        padding-top: 5px;
+    }
+}
+
 /**@media screen and (max-width: 600px) {**/
 
    /* .site-content { 
@@ -1092,28 +1061,28 @@ input[type="checkbox"].menu-button {
 
     .kebo-tweets .ktweet .ktext { 
         padding: 0px 0px 0px 10px;
-    }*/
+    }*
     
     .main-navigation {
         /*float: right;
-        padding-top: 0;*/
+        padding-top: 0;*
         width: 46%;
     }
-/*
+/
     .main-navigation ul.nav-menu,
     .main-navigation div.nav-menu > ul {
         display: block !important;
         text-align: right;
     }
-*/
+*
     .main-navigation li {
         /*border-bottom: 1px solid #FFFFFF;
         font-size: 1.2em;
-        line-height: 1.2;*/
+        line-height: 1.2;*
         margin: 0px 0.8em 0px 0px;
-        /*text-align: right;*/
+        /*text-align: right;*
     }
-/*
+/
     .main-navigation li:first-child {
         border-top: 1px solid #FFFFFF;
     }
@@ -1144,13 +1113,13 @@ input[type="checkbox"].menu-button {
     .footer-links .links { 
         display: block;
     }
-*/
+*
     .razorfish-copyright {
-        /*float: right;*/
+        /*float: right;*
         width: 34%;
     }
 
-}
+}*/
 
 // @media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) { 
     
