@@ -161,11 +161,6 @@ a:hover {
     text-transform: capitalize;
 }
 
-/*
-.widget-area .widget li { 
-    font-size: 18px;
-}*/
-
 .widget-area .widget a { 
     color: #838383;
     font-weight: normal;
@@ -208,16 +203,19 @@ a:hover {
 
  #results {
     display: none;
+    position: absolute;
+    right: 0;
     text-align: left;
     margin-top: 2px;
     padding: 10px;
-    background: #242424;
+    z-index: 100;
+    background: #FFF;
     width: 395px;
-    margin-left: -30px;
     border-collapse: separate;/* for ie9 boxshadow */
     -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
     box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    box-sizing: border-box;
 }
 
 #results li {
@@ -225,7 +223,7 @@ a:hover {
 }
 
 #results li a {
-    color: #838383 !important;
+    color: #19191e !important;
     font-weight: normal;
     line-height: 16px;
 }
@@ -298,11 +296,6 @@ a:hover {
     #padding: 2px 15px 0px;
     padding: 0px 15px 0px;
  }
-/*
-.search-button:hover{
-    color: #3C4502;
-}
-*/
 
 /** Hack for Mozilla **/
 @-moz-document url-prefix() 
@@ -344,7 +337,7 @@ input[type="checkbox"].menu-button {
     padding-left: 34px;
     /* #padding-top: 8px; */
     width: auto;
-    display: none;
+    display: block;
     /* #visibility: hidden; */
     position: absolute;
     bottom: 18px;
@@ -360,15 +353,6 @@ input[type="checkbox"].menu-button {
     margin: 8px 35px 0px 3px;
 }
 
-/** Hack for Mozilla **/
-/*@-moz-document url-prefix() 
-{
-    .main-navigation li {
-        margin: 10px 1.6em 0px 3px;    
-    }
-}*/
-/*********************/
-
 .main-navigation li a {
     color: #19191e;
     font-weight: normal;
@@ -383,11 +367,6 @@ input[type="checkbox"].menu-button {
     #font-weight: bold;
 }
 
-/** Hacks for Opera 12 **/
-/*@media (min-resolution: .001dpcm) {
-    _:-o-prefocus, .main-navigation li { margin: 10px 1.6em 0px 3px; } 
-}*/
-/*********************/
 
 .main-navigation .current-menu-item a, .main-navigation .current-menu-ancestor a, .main-navigation .current_page_item a, .main-navigation .current_page_ancestor a {
     color: #0030ff;
@@ -396,8 +375,7 @@ input[type="checkbox"].menu-button {
 
 .header-logo-search {
     padding-left:35px;
-    padding-top: 28px;
-    overflow: hidden;
+    padding-top: 25px;
 }
 
 /** Posts **/
@@ -598,29 +576,217 @@ input[type="checkbox"].menu-button {
 
 /***********/
 
+/******* PHOTO TRATMENTS **********/
+
+/******* EXAMPLE ********/
+/*
+    <div class="img-gradient {{CLASS TO BE REPLACES WITH THE COLOR LAYER}}">
+        <img src="https://placeimg.com/200/200/any/grayscale" alt="" class="canvas-img">
+    </div>
+*/
+.canvas-img{
+    opacity: 0.6;
+    max-width: 100%;
+    height: auto;
+}
+
+.img-gradient{
+    background-blend-mode: multiply;
+    width: 100%;
+    height: auto;
+}
+
+.red-to-blue-0deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(left, #0030FF 0%, #FF2E54 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #0030FF 0%,#FF2E54 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #0030FF 0%,#FF2E54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#FF2E54',GradientType=0 ); /* IE6-9 */
+}
+.red-to-blue--90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #0030FF 0%, #FF2E54 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #0030FF 0%,#FF2E54 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #0030FF 0%,#FF2E54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#FF2E54',GradientType=0 ); /* IE6-9 */
+}
+.red-to-blue-90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(top, #0030FF 0%, #FF2E54 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #0030FF 0%,#FF2E54 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #0030FF 0%,#FF2E54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#FF2E54',GradientType=0 ); /* IE6-9 */
+}
+.red-to-blue-180deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(right, #0030FF 0%, #FF2E54 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #0030FF 0%,#FF2E54 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #0030FF 0%,#FF2E54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF2E54', endColorstr='#0030FF',GradientType=0 ); /* IE6-9 */
+}
+/****** MAGENTA *********/
+
+.red-to-magenta-0deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(left, #0030FF 0%, #E533FF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #0030FF 0%,#E533FF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #0030FF 0%,#E533FF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#E533FF',GradientType=0 ); /* IE6-9 */
+}
+.red-to-magenta--90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #0030FF 0%, #E533FF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #0030FF 0%,#E533FF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #0030FF 0%,#E533FF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#E533FF',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-magenta-90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(top, #0030FF 0%, #E533FF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #0030FF 0%,#E533FF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #0030FF 0%,#E533FF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#E533FF',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-magenta-180deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(right, #0030FF 0%, #E533FF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #0030FF 0%,#E533FF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #0030FF 0%,#E533FF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E533FF', endColorstr='#0030FF',GradientType=0 ); /* IE6-9 */
+}
+/****** GREEN *********/
+
+.red-to-green-0deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(left, #0030FF 0%, #00FF80 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #0030FF 0%,#00FF80 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #0030FF 0%,#00FF80 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#00FF80',GradientType=0 ); /* IE6-9 */
+}
+.red-to-green--90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #0030FF 0%, #00FF80 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #0030FF 0%,#00FF80 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #0030FF 0%,#00FF80 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#00FF80',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-green-90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(top, #0030FF 0%, #00FF80 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #0030FF 0%,#00FF80 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #0030FF 0%,#00FF80 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#00FF80',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-green-180deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(right, #0030FF 0%, #00FF80 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #0030FF 0%,#00FF80 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #0030FF 0%,#00FF80 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00FF80', endColorstr='#0030FF',GradientType=0 ); /* IE6-9 */
+}
+
+/****** CYAN *********/
+
+.red-to-cyan-0deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(left, #0030FF 0%, #00FAFF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #0030FF 0%,#00FAFF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #0030FF 0%,#00FAFF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#00FAFF',GradientType=0 ); /* IE6-9 */
+}
+.red-to-cyan--90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #0030FF 0%, #00FAFF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #0030FF 0%,#00FAFF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #0030FF 0%,#00FAFF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#00FAFF',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-cyan-90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(top, #0030FF 0%, #00FAFF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #0030FF 0%,#00FAFF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #0030FF 0%,#00FAFF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#00FAFF',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-cyan-180deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(right, #0030FF 0%, #00FAFF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #0030FF 0%,#00FAFF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #0030FF 0%,#00FAFF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00FAFF', endColorstr='#0030FF',GradientType=0 ); /* IE6-9 */
+}
+
+/****** YELLOW *********/
+
+.red-to-yellow-0deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(left, #0030FF 0%, #F7FF3D 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #0030FF 0%,#F7FF3D 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #0030FF 0%,#F7FF3D 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#F7FF3D',GradientType=0 ); /* IE6-9 */
+}
+.red-to-yellow--90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #0030FF 0%, #F7FF3D 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #0030FF 0%,#F7FF3D 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #0030FF 0%,#F7FF3D 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#F7FF3D',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-yellow-90deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(top, #0030FF 0%, #F7FF3D 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #0030FF 0%,#F7FF3D 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #0030FF 0%,#F7FF3D 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0030FF', endColorstr='#F7FF3D',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-yellow-180deg{
+    background: #0030FF; /* Old browsers */
+    background: -moz-linear-gradient(right, #0030FF 0%, #F7FF3D 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #0030FF 0%,#F7FF3D 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #0030FF 0%,#F7FF3D 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F7FF3D', endColorstr='#0030FF',GradientType=0 ); /* IE6-9 */
+}
+
+/******* END PHOTO TRATMENTS ******/
+
+
 
 /** Media Queries **/
-
-
 @media only screen and (max-width: 767px) {
+    .header-twitter-container{
+        min-height: 165px;
+        height: auto !important;
+    }
     #main-content{
         overflow: visible;
     }
+    .razorfish-logo{
+        float: none;
+    }
     .header-twitter-container{
         height: auto;
-        margin-bottom: 45px;
     }
     .site-content { 
         width: 100%;
     }
-
+    .site-content{
+        padding-top: 0;
+    }
     .widget-area {
         display: none;
     }
     .search-plugin{
         position: absolute;
-        top: 5px;
-        right: 75px;
+        top: 4px;
+        right: 65px;
     }
     .menu-icon {
         float: right;
@@ -640,16 +806,18 @@ input[type="checkbox"].menu-button {
     }
 
     .menu-button-label.open:before {
-        content: "\2716";
-        font-size: 30px;
+        content: "\00d7";
+        font-size: 60px;
         top: -7px;
         position: relative;
+        color: #0030ff;
+        line-height: 0.7em;
     }
     .main-navigation{
         display: none;
         width: 91%;
         position: relative;
-        margin: 0px auto;
+        margin: 0px auto 50px;
         padding: 0;
     }
 
@@ -665,7 +833,6 @@ input[type="checkbox"].menu-button {
         padding: 5px 0;
     }
 
-/*
     .header-twitter-container {
         height: 165px;
     }
@@ -675,11 +842,11 @@ input[type="checkbox"].menu-button {
     }
 
     .search-plugin {
-        width: 38%;
+        width: 100%;
     }
 
     .search-textfield {
-        width: 130px;
+        width: 18%;
     }
 
     .search-button {
@@ -689,462 +856,45 @@ input[type="checkbox"].menu-button {
     .main-navigation {
         padding-left: 0;
     }
-*/
-   /* .main-navigation li {
+
+    .main-navigation li {
         margin: 10px 10px 0px 0px;
     }
     #results {
-        width: 295px;
-        margin-left: -30px;
-    }*/
-
-/*
-    .widget-area {
-        margin: 1.51em 1.3em 0px 0px;
-    }
-    */
-}
-/**//*
-@media only screen and (max-width: 600px) {
-    .site-header {
-        min-height: 120px;
-        padding-bottom: 25px;
-        width: 100%;
-    }
-
-    .widget-area {
-        display: none;
-    }
-
-    .header-twitter-container { 
-        height: auto;
-        width: 100%;
-    }
-
-    .header-logo-search {
-        padding-left: 20px;
-    }
-
-    .twitter-plugin { 
-        height: 65px;
-        width: 100%;
-    }
-
-    .razorfish-logo {
-        width: 46%;
-    }
-
-    .search-plugin {
-        width: 42%;
-    }
-
-    .search-textfield {
-        height: 23px;
-        margin-top: 2px;
-        width: 130px;
-    }
-
-    .search-button {
-        font-size: 2.8em;
-        #padding: 2px 10px 0px;
-        padding:  1px 15px 0px 10px;
-    }
-
-    .menu-button-label {
-        font-size: 3.4em;
-    }
-
-    .menu-icon {
-        padding-top: 3px;
-        display: block;
-    }
-
-    .main-navigation {
-        float: right;
-        width: 50%;
-    }
-
-    .main-navigation ul {
-        margin-top: 15px;
-    }
-
-    .main-navigation li {
-        border-bottom: 1px solid #FFFFFF;
-        display: block !important;
-        line-height: 1.4;
-        margin: 0px 28px 0px 0px;
-        text-align: right;
-    }
-
-    .main-navigation li:first-child {
-        border-top: 1px solid #FFFFFF;
-    }
-
-    .main-navigation li a {
-        line-height: 1.2;
-    }
-
-    .twitter-plugin { 
-        height: 70px;
-        width: 100%;
-    }
-
-    .twitter-plugin-container { 
-        padding: 0.8em 1.2em;
-    }
-
-    .twitter-plugin-header { 
-        float: left;
-        padding-top: 10px;
-        padding-right: 10px;
-    }
-
-    .site-content { 
-        width: 100%;
-    }
-
-    .contentinfo {
-        font-size: 0.82em;
-        width: 100%;
-    }
-}
-*//*
-@media screen and (max-width: 480px) {
-
-    .header-twitter-container { 
-        height: auto;
-        width: 100%;
-    }
-
-    .site-header {
-        min-height: 50px;
-        #padding: 20px 0px 20px;
-        padding: 15px 0px 20px;
-        width: 100%;
-    }
-
-    .header-logo-search {
-        padding-left: 15px;
-        padding-top: 0;
-    }
-
-    .razorfish-logo {
-        width: 47%;
-    }
-    
-    .search-plugin {
-        padding-top: 7px;
-        width: 43%;
-        z-index: 999;
-    }
-
-    .search-textfield {
-        font-size: 1em;
-        height: 14px;
-        margin-top: 3px;
-        width: 103px;
-    }
-
-    ::-webkit-input-placeholder {
-        font-size: 0.9em;
-    }
-
-    ::-moz-placeholder { 
-        font-size: 0.9em;
-     } /* firefox 18- *
-
-    :-moz-placeholder { 
-        font-size: 0.9em;
-     } /* firefox 19+ *
-
-    .search-button {
-        font-size: 2.2em;
-        padding: 0 0 0 2px;
-    }
-    #results {
-        width: 325px;
-        margin: 2px -156px;
-    }
-    .menu-icon {
-        float: right;
-        margin-right: 17px;
-        padding-top: 5px;
-        width: auto;
-        position: absolute;
-        top: 14px;
+        position: fixed;
+        width: 91%;    
+        left: 0;
         right: 0;
+        margin: 0 auto;
     }
+    .contentinfo{
+        width: 91%;
+        margin: 0 auto;
+    }
+    .site-info{
+        padding: 0;
+        display: flex;
+    }
+    .site-info > div{
+        flex-basis: 50%;
+        margin-right: 0;
+    }
+}
 
-    .menu-button-label {
-        font-size: 2.8em;
-        height: auto;
-        width: auto;
+@media screen and (max-width: 400px) {
+    .site-info{
+        flex-flow: column;
     }
-
-    .twitter-plugin { 
-        height: 65px;
-        width: 100%;
+    .site-info > div{
+        padding: 5px 0;
     }
-
-    .twitter-plugin-container { 
-        font-size: 0.8em;
-        padding: 0.8em 1.2em;
-    }
-
-    .twitter-plugin-header { 
-        float: left;
-        padding-top: 6px;
-        padding-right: 10px;
-    }
-
-    .kebo-tweets .ktweet .ktext { 
-        padding: 0px 0px 0px 10px;
-    }
-    
-    .main-navigation {
-        float: right;
-        padding-top: 0;
-        width: 47%;
-        position: relative;
-    }
-
-    .main-navigation ul.nav-menu,
-    .main-navigation div.nav-menu > ul {
-        display: block !important;
-        text-align: right;
-    }
-
-    .main-navigation li {
-        border-bottom: 1px solid #FFFFFF;
-        font-size: 18px;
-        line-height: 1.2;
-        margin: 0px 18px 0px 0px;
-        text-align: right;
-    }
-
-    .main-navigation li:first-child {
-        border-top: 1px solid #FFFFFF;
-    }
-
-    .main-navigation li a {
-        line-height: 1.2;
-    }
-
-    .nav-previous-posts {
-        padding-left: 1.5em;
-    }
-
-    .nav-next-posts {
-        padding-right: 1.5em;
-    }
-
-    .site-info { 
-        padding-left: 2em;
-        padding-right: 1.5em;
-    }
-
-    .contentinfo {
-        font-size: 0.7em;
-        padding-top: 1.5em;
-        width: 100%;
-    }
-
-    .footer-links .links { 
-        display: block;
-    }
-
-    .razorfish-copyright {
-        /*float: right;*
-        width: 22%;
-    }
-
-}*/
+}
 
 @media screen and (max-width: 320px) {
     .header-logo-search {
         padding-left: 15px;
-        padding-top: 5px;
     }
 }
-
-/**@media screen and (max-width: 600px) {**/
-
-   /* .site-content { 
-        width: 100%;
-    }
-
-    .widget-area {
-        display: none;
-    }
-
-    .header-twitter-container { 
-        height: auto;
-        width: 100%;
-    }*/
-
-    .site-header {
-        /*min-height: 50px;*/
-        padding: 15px 0;
-        /*width: 100%;*/
-    }
-
-   /* .header-logo-search {
-        padding-left: 15px;
-        padding-top: 0;
-    }*/
-
-    
-    .razorfish-logo {
-        width: 50%;
-    }
-    
-    .search-plugin {
-        padding-top: 3px;
-        width: 40%;
-    }
-
-    .search-textfield {
-        font-size: 0.8em;
-        height: 8px;
-        margin-top: 2px;
-        width: 90px;
-    }
-    #results {
-        width: 280px;
-        margin: 2px -144px;
-    }
-    ::-webkit-input-placeholder {
-        font-size: 0.9em;
-    }
-
-    ::-moz-placeholder { 
-        font-size: 0.8em;
-     } /* firefox 18- */
-
-    :-moz-placeholder { 
-        font-size: 0.7em;
-     } /* firefox 19+ */
-
-    .search-button {
-        font-size: 1.7em;
-        padding: 0 1px;
-    }
-
-    .menu-icon {
-        float: right;
-        margin-right: 15px;
-        padding-top: 2px;
-        width: auto;
-    }
-
-    .menu-button-label {
-        font-size: 2.1em;
-        height: auto;
-        width: auto;
-    }
-/*
-    .twitter-plugin { 
-        height: 65px;
-        width: 100%;
-    }
-
-    .twitter-plugin-container { 
-        font-size: 0.8em;
-        padding: 0.8em 1.2em;
-    }
-
-    .twitter-plugin-header { 
-        float: left;
-        padding-top: 6px;
-        padding-right: 10px;
-    }
-
-    .kebo-tweets .ktweet .ktext { 
-        padding: 0px 0px 0px 10px;
-    }*
-    
-    .main-navigation {
-        /*float: right;
-        padding-top: 0;*
-        width: 46%;
-    }
-/
-    .main-navigation ul.nav-menu,
-    .main-navigation div.nav-menu > ul {
-        display: block !important;
-        text-align: right;
-    }
-*
-    .main-navigation li {
-        /*border-bottom: 1px solid #FFFFFF;
-        font-size: 1.2em;
-        line-height: 1.2;*
-        margin: 0px 0.8em 0px 0px;
-        /*text-align: right;*
-    }
-/
-    .main-navigation li:first-child {
-        border-top: 1px solid #FFFFFF;
-    }
-
-    .main-navigation li a {
-        line-height: 1.2;
-    }
-
-    .nav-previous-posts {
-        padding-left: 1.5em;
-    }
-
-    .nav-next-posts {
-        padding-right: 1.5em;
-    }
-
-    .site-info { 
-        padding-left: 2em;
-        padding-right: 1.5em;
-    }
-
-    .contentinfo {
-        font-size: 0.7em;
-        padding-top: 1.5em;
-        width: 100%;
-    }
-
-    .footer-links .links { 
-        display: block;
-    }
-*
-    .razorfish-copyright {
-        /*float: right;*
-        width: 34%;
-    }
-
-}*/
-
-// @media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) { 
-    
-//     .site-content { 
-//         width: 100%;
-//     }
-
-//     .widget-area {
-//         display: none;
-//     }
-
-//     .entry-header .entry-title {
-//         padding-bottom: 1em;
-//         padding-top: 1em;
-//     }
-
-//     .entry-content, .entry-summary, .mu_register {
-//         padding-bottom: 1em;
-//     }
-// }
-
-
-
-
-
 
 /* SPECIFIC PAGES */
 /******************/

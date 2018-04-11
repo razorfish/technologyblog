@@ -3,19 +3,6 @@ jQuery(document).ready(function() {
 	var click_counter_search = 0;
 	jQuery("button:submit").click(function() { return false; });
 
-	setMenuMobile();
-
-	jQuery(window).resize( function() {
-		setMenuMobile();
-	});
-
-	function setMenuMobile() {
-		if (jQuery('body').outerWidth() > 767) {
-			jQuery(".main-navigation").css("display", "block");
-		} else {
-			jQuery(".main-navigation").css("display", "none");
-		}
-	}
 
 	jQuery(".menu-button-label").click(
 		function() {
@@ -24,7 +11,7 @@ jQuery(document).ready(function() {
 				jQuery(".menu-button-label").addClass('open');
 			}
 			else {
-				jQuery('.main-navigation').css("display", "none");
+				jQuery('.main-navigation').css("display", "");
 				jQuery(".menu-button-label").removeClass('open');
 			}
 		}
