@@ -580,20 +580,34 @@ input[type="checkbox"].menu-button {
 
 /******* EXAMPLE ********/
 /*
-    <div class="img-gradient {{CLASS TO BE REPLACES WITH THE COLOR LAYER}}">
+    <div class="img-treatment">
+        <div class="filter {{CLASS TO APPLY A FILTER OR COLOR LAYER}}" aria-hiden="true"></div>
+        <div class="filter {{CLASS TO BE REPLACES WITH THE COLOR LAYER}}" aria-hiden="true"></div>
         <img src="https://placeimg.com/200/200/any/grayscale" alt="" class="canvas-img">
     </div>
 */
+
+.img-treatment{
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
 .canvas-img{
     opacity: 0.6;
     max-width: 100%;
     height: auto;
 }
 
-.img-gradient{
-    background-blend-mode: multiply;
+.filter{
+    position: absolute;
+    height: 100%;
     width: 100%;
-    height: auto;
+    left: 0;
+    top: 0;
+}
+
+.filter-multiply{
+    background-blend-mode: multiply;
 }
 
 .red-to-blue-0deg{
