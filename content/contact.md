@@ -11,6 +11,6 @@ url: /contact
 
 Whether you want to transform your business, advance your career, or simply find out more about what we’re doing, this is the place.
 <br/><br/><br/>
-<a href="http://www.razorfish.com/#!contact" class="blue-btn">Get in touch with us</a> or email [XYZ@sapientrazorfish.com](mailto:XYZ@sapientrazorfish.com).
+<a href="https://www.sapientrazorfish.com/contact" class="blue-btn">Get in touch with us</a>
 <br/><br/>
 
