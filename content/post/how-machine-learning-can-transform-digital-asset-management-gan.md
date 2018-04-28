@@ -47,7 +47,7 @@ An example code repository: https://github.com/luanfujun/deep-photo-styletransfe
 An example code repository: https://github.com/facebook/eyescream
 
 - **Generate video frames.** Use still photos to generate a [video](https://www.popsci.com/this-ai-generates-video-from-stills), or extend a video to generate additional video frames based on prior content. The image below from a [Facebook post](https://code.facebook.com/posts/1587249151575490/a-path-to-unsupervised-learning-through-adversarial-networks/) outlines the difference between the results computed from a traditional neural network vs a GAN (the adversarial GDL network)
-![example result](https://scontent-ort2-1.xx.fbcdn.net/v/t39.2365-6/13437806_1761667164091469_1027270248_n.jpg?oh=0c9e785a57e13ab874e7d876e102e61f&oe=5ADB9C5B)
+![example result](https://scontent.fmia1-2.fna.fbcdn.net/v/t39.2365-6/13437806_1761667164091469_1027270248_n.jpg?_nc_cat=0&oh=aad4d320dc7619a1274af050da9e857b&oe=5B52435B)
 An example code repository: https://github.com/cvondrick/videogan
 
 - **Improved image manipulation.** Support the image editing process to make all edits look more natural.
