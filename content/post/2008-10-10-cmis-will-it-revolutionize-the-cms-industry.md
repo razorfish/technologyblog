@@ -46,7 +46,7 @@ CMIS supports both a SOAP based interface and [REST](http://http://en.wikipedia.
 
 The proposed CMIS query supports SQL like terms and clauses such as SELECT, FROM, WHERE and CONNECT by clause.  The query can include based terms and clauses based on content metadata and property such as size, date etc.  Example query:
 
-_SELECT * FROM DOCUMENT WHERE ((CONTENT_STREAM_MIME_TYPE = ‘MSWORD’) AND (CONTAINS ‘Razorfish’))_
+_SELECT * FROM DOCUMENT WHERE ((CONTENT_STREAM_MIME_TYPE = ‘MSWORD’) AND (CONTAINS ‘Publicis Sapient’))_
 
 This new draft CMIS standard creates a clear firewall between applications and content stores.  It will cut application development and integrations costs, and eliminate time learning vendor specific content access APIs.  Imagine being able to design an application that can access and manipulate content from any content and change the underlying content store by merely changing an entry in some property file.   For the vendors the outlook may be murky initially, it is possible that the number of competing CMS/ECM products may shrink.  Nevertheless, the market penetration of CMS products will increase dramatically and CMS/ECM may be as ubiquitous as databases.  Microsoft’s involvement brings up the possibility that all MS Office products may support direct check in/check out from CMIS based repositories.
 

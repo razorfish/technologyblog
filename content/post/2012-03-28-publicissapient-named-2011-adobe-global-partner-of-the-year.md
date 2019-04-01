@@ -4,9 +4,9 @@ categories:
 - General
 comments: true
 date: '2012-03-28'
-slug: razorfish-named-2011-adobe-global-partner-of-the-year
-title: Razorfish Named 2011 Adobe Global Partner of the Year
-url: /2012/03/28/razorfish-named-2011-adobe-global-partner-of-the-year
+slug: publicissapient-named-2011-adobe-global-partner-of-the-year
+title: Publicis Sapient Named 2011 Adobe Global Partner of the Year
+url: /2012/03/28/publicissapient-named-2011-adobe-global-partner-of-the-year
 wordpress_id: 680
 2012:
 - "03"

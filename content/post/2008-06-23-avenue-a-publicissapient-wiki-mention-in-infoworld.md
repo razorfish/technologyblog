@@ -4,15 +4,15 @@ categories:
 - General
 comments: true
 date: '2008-06-23'
-slug: avenue-a-razorfish-wiki-mention-in-infoworld
+slug: avenue-a-publicissapient-wiki-mention-in-infoworld
 tags:
 - Infoworld
 - mediawiki
 - php
 - Shiv Singh
 - wikipedia
-title: Avenue A | Razorfish wiki mention in Infoworld
-url: /2008/06/23/avenue-a-razorfish-wiki-mention-in-infoworld
+title: Avenue A | Publicis Sapient wiki mention in Infoworld
+url: /2008/06/23/avenue-a-publicissapient-wiki-mention-in-infoworld
 wordpress_id: 48
 2008:
 - "06"

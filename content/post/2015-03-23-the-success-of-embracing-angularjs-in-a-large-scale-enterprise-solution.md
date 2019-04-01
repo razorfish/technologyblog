@@ -13,7 +13,7 @@ wordpress_id: 1107
 ---
 
 
-##### by Jeff Chew ([@therealjeffchew](http://www.twitter.com/therealjeffchew)) - Technology [@Razorfish](http://www.twitter.com/razorfish)
+##### by Jeff Chew ([@therealjeffchew](http://www.twitter.com/therealjeffchew)) - Technology [@publicissapient](http://www.twitter.com/publicissapient)
 
 
 
@@ -23,7 +23,7 @@ On March 17th, I gave a [talk at the Google office in Chelsea](http://www.meetup
 
 
 
-Rewind over a year ago, I joined the Ford account at Razorfish understanding that I’d be taking on and leading the Presentation Layer charge of a massive revamp of the Ford and Lincoln owner portals ([http://owner.ford.com](http://owner.ford.com) / [http://owner.lincoln.com](http://owner.lincoln.com)).
+Rewind over a year ago, I joined the Ford account at Publicis Sapient understanding that I’d be taking on and leading the Presentation Layer charge of a massive revamp of the Ford and Lincoln owner portals ([http://owner.ford.com](http://owner.ford.com) / [http://owner.lincoln.com](http://owner.lincoln.com)).
 
 
 
@@ -110,7 +110,7 @@ The final story evolved into two separate tales. One is how to guide a new Angul
 
 
 
-All in all, I’m proud of the work that the Razorfish Ford team was able to accomplish, and even prouder of the fact that we could tell our story outside the walls of our office. The presentation at Google was well received, and was delivered to a packed room with people standing in the back.
+All in all, I’m proud of the work that the Publicis Sapient  Ford team was able to accomplish, and even prouder of the fact that we could tell our story outside the walls of our office. The presentation at Google was well received, and was delivered to a packed room with people standing in the back.
 
 
 

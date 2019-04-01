@@ -15,7 +15,7 @@ url: /2016/08/08/aem-on-aws-whitepaper
 - "08"
 ---
 
-For a number of years now, I have been working on solutions that involve Adobe Experience Manager (AEM) and Amazon Web Services (AWS) to deliver digital experiences to consumers. Partly through custom implementations for our clients, and sometimes through [Fluent](/2014/10/14/the-razorfish-digital-platform-maturity-model), our turnkey digital marketing platform that combines AEM, AWS and Razorfish Managed Services and DevOps.
+For a number of years now, I have been working on solutions that involve Adobe Experience Manager (AEM) and Amazon Web Services (AWS) to deliver digital experiences to consumers. Partly through custom implementations for our clients, and sometimes through [Fluent](/2014/10/14/the-publicissapient-digital-platform-maturity-model), our turnkey digital marketing platform that combines AEM, AWS and Publicis Sapient Managed Services and DevOps.
 
 In the past year, I had to pleasure of working with AWS on creating a [whitepaper](https://d0.awsstatic.com/whitepapers/Adobe%20AEM%20on%20AWS.pdf) that outlines some of our ideas and best practices around deploying on the AWS infrastructure.
 

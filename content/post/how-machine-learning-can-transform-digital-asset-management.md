@@ -26,7 +26,7 @@ A Practical Test
 ----------------
 Recently, Google released its [Cloud Vision API](https://cloud.google.com/vision/). The Google Cloud Vision API enables developers to understand the content of an image by encapsulating powerful machine-learning models in an easy-to-use REST API. It quickly classifies images into thousands of categories (e.g., “sailboat”, “lion”, “Eiffel Tower”, etc.). It detects individual objects and faces within imagines. And it finds and reads printed words contained within images.
 
-For Razorfish, this was a good reason to explore using the Vision API together with a DAM solution, [Adobe AEM DAM](http://www.adobe.com/content/dam/Adobe/en/solutions/web-experience-management/pdfs/datasheet-aem-dam-ue.pdf). The result of the integration can be found on [github](https://github.com/razorfish/autotagworkflow).
+For Publicis Sapient, this was a good reason to explore using the Vision API together with a DAM solution, [Adobe AEM DAM](http://www.adobe.com/content/dam/Adobe/en/solutions/web-experience-management/pdfs/datasheet-aem-dam-ue.pdf). The result of the integration can be found on [github](https://github.com/razorfish/autotagworkflow).
 
 ![Results screenshot](/media/dam_screenshot1.png "Results screenshot")
 

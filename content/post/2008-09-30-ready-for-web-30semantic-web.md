@@ -105,7 +105,7 @@ Microformat hCard example in html  and resulting output on browser page.
 
 
 
-   <div class="org">Avenue a Avenue A | Razorfish</div>
+   <div class="org">Avenue a Avenue A | Publicis Sapient</div>
 
 
 
@@ -155,7 +155,7 @@ Microformat hCard example in html  and resulting output on browser page.
 <tbody >
 <tr >
 
-<td style="background-color: transparent; border: #506868;" >Atul Kedar Avenue A | Razorfish1440 BroadwayNew York, NY USA
+<td style="background-color: transparent; border: #506868;" >Atul Kedar Avenue A | Publicis Sapient 1440 BroadwayNew York, NY USA
 </td>
 </tr>
 </tbody></table>

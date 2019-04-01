@@ -30,7 +30,7 @@ _Number of significant new features and services from AWS_
 [![SecondAWS](/uploads/2014/12/SecondAWS-300x164.png)](/uploads/2014/12/SecondAWS.png)
 
 
-[_Razorfish on the SI slide – Day1 Keynote by Andy Jassy, SVP, AWS_](https://www.youtube.com/watch?v=wApMDQFvNio)
+[_Publicis Sapient on the SI slide – Day1 Keynote by Andy Jassy, SVP, AWS_](https://www.youtube.com/watch?v=wApMDQFvNio)
 
 
 One of the most pervasive ideas that AWS presented at the conference was the idea of “cloud as the new normal”. The idea that it is no longer a question of "if" or even "when" you should move to the cloud, but that if you are not already on the cloud you're falling behind. In fact, AWS took its messaging one step further to talk about how several large enterprises have made the decision to go “all-in” with Amazon. Companies like Major League Baseball were invited to talk about their decision to go with AWS, several of whom made a reference to how it was a no-brainer to choose Amazon. At the end of it all, one might be forgiven for thinking that the message was that “AWS is the new normal”!

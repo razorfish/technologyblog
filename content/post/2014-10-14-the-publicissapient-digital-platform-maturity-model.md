@@ -6,9 +6,9 @@ categories:
 - Platform
 comments: true
 date: '2014-10-14'
-slug: the-razorfish-digital-platform-maturity-model
-title: The Razorfish Digital Platform Maturity Model
-url: /2014/10/14/the-razorfish-digital-platform-maturity-model
+slug: the-publicissapient-digital-platform-maturity-model
+title: The Publicis Sapient Digital Platform Maturity Model
+url: /2014/10/14/the-publicissapient-digital-platform-maturity-model
 wordpress_id: 1003
 2014:
 - "10"
@@ -33,16 +33,16 @@ We have seen many different results, and to better qualify this, we developed a 
 
 This maturity model has been very helpful in not only in identify and assessing where our clients are from a capability perspective, it also has provided a good framework to help them reach the next levels in a staged and multi-phased approach.
 
-However, we have seen that many clients have challenges to reach the next levels on their own in the desired time frame. This also was clearly reflected in the different studies we released in the past few years, including “The State of Always-On Marketing Study” and the 2012 Razorfish / Adobe Targeting Readiness Study. Also, see our recent announcement on leveraging Adode’s Audience Manager platform to help drive greater connectivity to services and data, eventually resulting in more client efficiencies.
+However, we have seen that many clients have challenges to reach the next levels on their own in the desired time frame. This also was clearly reflected in the different studies we released in the past few years, including “The State of Always-On Marketing Study” and the 2012 Publicis Sapient / Adobe Targeting Readiness Study. Also, see our recent announcement on leveraging Adode’s Audience Manager platform to help drive greater connectivity to services and data, eventually resulting in more client efficiencies.
 
-We therefore created our own offering called Fluent. Fluent is turnkey SaaS solution, build upon Adobe software, using Amazon Web Services services extensively and incorporating the Razorfish expertise around creating and managing digital platforms.
+We therefore created our own offering called Fluent. Fluent is turnkey SaaS solution, build upon Adobe software, using Amazon Web Services services extensively and incorporating the Publicis Sapient expertise around creating and managing digital platforms.
 
 We have been running client solutions on this platform for the past year, and in the next few blog posts I will delve into some more detail around this platform, and highlight some of the key design decisions we have made with Fluent.
 
 [![MJRV02](/uploads/2014/10/MJRV02-300x138.jpg)](/uploads/2014/10/MJRV02.jpg)
 
 
-_Fluent – Razorfish’ SaaS Digital Marketing Platform_
+_Fluent – Publicis Sapient’ SaaS Digital Marketing Platform_
 
 
 As mentioned in the previous blog post, Fluent is Publicis Groupe’s turnkey SaaS marketing platform. But what is a marketing platform?

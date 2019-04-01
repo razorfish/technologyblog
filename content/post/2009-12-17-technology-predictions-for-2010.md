@@ -19,7 +19,7 @@ wordpress_id: 333
 ---
 
 
-Razorfish's Matt Johnson outlined his predictions for content management over at our CMS blog, [www.cmsoutlook.com](http://www.cmsoutlook.com/). Many of his predictions will hold true for web technology at large as well. I see traction and opportunities for:
+Publicis Sapient's Matt Johnson outlined his predictions for content management over at our CMS blog, [www.cmsoutlook.com](http://www.cmsoutlook.com/). Many of his predictions will hold true for web technology at large as well. I see traction and opportunities for:
 
 
 

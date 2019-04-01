@@ -118,7 +118,7 @@ In essence, these frameworks try to solve the same underlying problem. Yet Rails
 ### Conclusion
 
 
-I have used both the Rails and the MDD approach throughout my career. I have introduced the light-weight MDD approach in a number of recent projects at [Razorfish](http://www.razorfish.com), which led to us building a jumpstart kit that in its first iteration lets us quickly bootstrap projects with [Interwoven TeamSite](http://www.interwoven.com) and [.NET](http://www.microsoft.com/NET/) as an application platform. This has not only saved us a lot of time, but also a lot of headaches and long nights of debugging code. We are able to quickly react to changes during the development cycle. Changes to the domain model can be made within the matter of the short time it takes to open a UML editor and re-run the code generator.
+I have used both the Rails and the MDD approach throughout my career. I have introduced the light-weight MDD approach in a number of recent projects at [Publicis Sapient](http://www.publicissapient.com), which led to us building a jumpstart kit that in its first iteration lets us quickly bootstrap projects with [Interwoven TeamSite](http://www.interwoven.com) and [.NET](http://www.microsoft.com/NET/) as an application platform. This has not only saved us a lot of time, but also a lot of headaches and long nights of debugging code. We are able to quickly react to changes during the development cycle. Changes to the domain model can be made within the matter of the short time it takes to open a UML editor and re-run the code generator.
 
 I consequently see MDD as a vital part of agile enterprise development and a complementing technology which picks up where a Rails framework hits its limits.
 

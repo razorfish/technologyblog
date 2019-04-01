@@ -46,7 +46,7 @@ That being said, I think there's a couple of critical element to why we have to 
   3. Outside of [organic search](http://en.wikipedia.org/wiki/Organic_search) people read things on the web, so they can send  them to their social graph. Again, we mush make it easy for people to connect with their social graph, so people can passively or actively tell their community about the content.
 
 
-At Avenue A | Razorfish, we're one of the largest buyers of online media in  the world and we're partnering with [Pluck](http://www.pluck.com/), a  social media technology vendor serving 2.5 billion impressions a month to bring  this to life. For more information read the [press  release](http://www.emediawire.com/releases/2008/8/prweb1178994.htm) or read [David Deal](http://www.superhypeblog.com/)'s  blog.
+At Avenue A | Publicis Sapient, we're one of the largest buyers of online media in  the world and we're partnering with [Pluck](http://www.pluck.com/), a  social media technology vendor serving 2.5 billion impressions a month to bring  this to life. For more information read the [press  release](http://www.emediawire.com/releases/2008/8/prweb1178994.htm) or read [David Deal](http://www.superhypeblog.com/)'s  blog.
 
 
 [![Zemanta Pixie](http://img.zemanta.com/reblog_e.png?x-id=9c3f195a-d71f-4514-8be6-77a0b82b3630)](http://reblog.zemanta.com/zemified/9c3f195a-d71f-4514-8be6-77a0b82b3630/)

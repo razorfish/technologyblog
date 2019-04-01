@@ -8,7 +8,7 @@ date: '2010-03-24'
 excerpt: 'SharePoint is a great platform for external-facing sites. '
 slug: why-should-you-consider-sharepoint-for-external-facing-sites
 tags:
-- Razorfish
+- Publicis Sapient
 - Sharepoint
 title: Why Should You Consider SharePoint for External-Facing Sites
 url: /2010/03/24/why-should-you-consider-sharepoint-for-external-facing-sites
@@ -55,6 +55,6 @@ Still, good planning and design certainly pay off when using SharePoint for B2B 
   * Finally, SharePoint is the platform with the most publically available documentation, code samples, and guidance; and training in SharePoint is easily accessible.
 
 
-There are many convincing reasons to consider SharePoint for public facing sites. Razorfish has a wealth of experience building external SharePoint sites for brands like [Kraft’s Maxwell House](http://www.kraftbrands.com/maxwellhousecoffee/Pages/default.aspx), [Kroger](http://www.kroger.com/), [Dell Financial Services](http://www.dellfinancialservices.com), [Carnival Cruise Lines](http://www.pocruises.com.au/Pages/default.aspx), [Pfizer](http://www.pfizer.co.uk/default.aspx), [Parsons](http://www.parsons.com/), and [TCDRS](http://www.tcdrs.org/).
+There are many convincing reasons to consider SharePoint for public facing sites. Publicis Sapient has a wealth of experience building external SharePoint sites for brands like [Kraft’s Maxwell House](http://www.kraftbrands.com/maxwellhousecoffee/Pages/default.aspx), [Kroger](http://www.kroger.com/), [Dell Financial Services](http://www.dellfinancialservices.com), [Carnival Cruise Lines](http://www.pocruises.com.au/Pages/default.aspx), [Pfizer](http://www.pfizer.co.uk/default.aspx), [Parsons](http://www.parsons.com/), and [TCDRS](http://www.tcdrs.org/).
 
-Please contact us at [www.razorfish.com](http://www.razorfish.com) for more information.
+Please contact us at [www.publicissapient.com](http://www.publicissapient.com) for more information.

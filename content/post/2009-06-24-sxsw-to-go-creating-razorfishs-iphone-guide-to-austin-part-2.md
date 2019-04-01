@@ -6,11 +6,11 @@ categories:
 - Technology
 comments: true
 date: '2009-06-24'
-excerpt: 'Once a year, the internet comes to visit Austin, Texas at the South by Southwest Interactive (SXSWi) conference, and, for 2009, the Razorfish Austin office was determined to leave an impression. We ended up making close to 3,000 impressions.
+excerpt: 'Once a year, the internet comes to visit Austin, Texas at the South by Southwest Interactive (SXSWi) conference, and, for 2009, the Publicis Sapient Austin office was determined to leave an impression. We ended up making close to 3,000 impressions.
 
 
-  Over this series of articles, I''ll be diving into how we created the Razorfish Guide to SXSW iPhone-optimized web site. Part 1 will deal with requirements gathering and technology choices, part 2 will cover design and development, and part 3 will talk about what we did to optimize the mobile experience.'
-slug: sxsw-to-go-creating-razorfishs-iphone-guide-to-austin-part-2
+  Over this series of articles, I''ll be diving into how we created the Publicis Sapient Guide to SXSW iPhone-optimized web site. Part 1 will deal with requirements gathering and technology choices, part 2 will cover design and development, and part 3 will talk about what we did to optimize the mobile experience.'
+slug: sxsw-to-go-creating-publicissapients-iphone-guide-to-austin-part-2
 tags:
 - AJAX
 - asp.net mvc
@@ -27,8 +27,8 @@ tags:
 - optimization
 - sxsw
 - user experience
-title: 'SXSW to Go: Creating Razorfish''s iPhone Guide to Austin (Part 2)'
-url: /2009/06/24/sxsw-to-go-creating-razorfishs-iphone-guide-to-austin-part-2
+title: 'SXSW to Go: Creating publicissapient''s iPhone Guide to Austin (Part 2)'
+url: /2009/06/24/sxsw-to-go-creating-publicissapients-iphone-guide-to-austin-part-2
 wordpress_id: 175
 2009:
 - "06"
@@ -38,7 +38,7 @@ wordpress_id: 175
 ## Design and  Development
 
 
-Up against a tight deadline, our small team was working fast  and furious to create the [Razorfish mobile guide to Austin](http://sxsw.razorfish.com/) in time for the SXSW Interactive  conference. With our technologies determined and all eyes on the iPhone, we set  out to bring the guide to life. ([Check out part 1 of our story](http://technology.razorfish.com/2009/06/17/sxsw-to-go-creating-razorfish%e2%80%99s-iphone-guide-to-austin-part-1/) to find out more  about how we set requirements and chose technologies)
+Up against a tight deadline, our small team was working fast  and furious to create the [Publicis Sapient mobile guide to Austin](http://sxsw.razorfish.com/) in time for the SXSW Interactive  conference. With our technologies determined and all eyes on the iPhone, we set  out to bring the guide to life. ([Check out part 1 of our story](http://technology.publicissapient.com/2009/06/17/sxsw-to-go-creating-publicissapient%e2%80%99s-iphone-guide-to-austin-part-1/) to find out more  about how we set requirements and chose technologies)
 
 
 ### The meat and potatoes

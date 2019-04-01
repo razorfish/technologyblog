@@ -45,5 +45,5 @@ You could try out the app at:  [http://whispering-refuge-9133.herokuapp.com/](
 
 More Info about the app available [here](http://challengepost.com/software/simpledone-1g2nq).
 
-Visit us at [Razorfish.com](http://www.razorfish.com)[
+Visit us at [publicissapient.com](http://www.publicissapient.com)[
 ](http://www.neevtech.com/)

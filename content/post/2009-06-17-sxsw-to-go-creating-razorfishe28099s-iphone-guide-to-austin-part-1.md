@@ -6,11 +6,11 @@ categories:
 - Technology
 comments: true
 date: '2009-06-17'
-excerpt: 'Once a year, the internet comes to visit Austin, Texas at the South by Southwest Interactive (SXSWi) conference, and, for 2009, the Razorfish Austin office was determined to leave an impression. We ended up making close to 3,000 impressions.
+excerpt: 'Once a year, the internet comes to visit Austin, Texas at the South by Southwest Interactive (SXSWi) conference, and, for 2009, the Publicis Sapient Austin office was determined to leave an impression. We ended up making close to 3,000 impressions.
 
 
-  Over this series of articles, I''ll be diving into how we created the Razorfish Guide to SXSW iPhone-optimized web site. Part 1 will deal with requirements gathering and technology choices, part 2 will cover design and development, and part 3 will talk about what we did to optimize the mobile experience.'
-slug: sxsw-to-go-creating-razorfish%e2%80%99s-iphone-guide-to-austin-part-1
+  Over this series of articles, I''ll be diving into how we created the Publicis Sapient Guide to SXSW iPhone-optimized web site. Part 1 will deal with requirements gathering and technology choices, part 2 will cover design and development, and part 3 will talk about what we did to optimize the mobile experience.'
+slug: sxsw-to-go-creating-publicissapient%e2%80%99s-iphone-guide-to-austin-part-1
 tags:
 - .NET
 - asp.net mvc
@@ -20,27 +20,27 @@ tags:
 - javascript frameworks
 - Mobile
 - optimization
-- razorfish.web
+- publicissapient.web
 - safari
 - sxsw
 - web applications
-title: 'SXSW to Go: Creating Razorfish’s iPhone Guide to Austin (Part 1)'
-url: /2009/06/17/sxsw-to-go-creating-razorfishe28099s-iphone-guide-to-austin-part-1
+title: 'SXSW to Go: Creating Publicis Sapient’s iPhone Guide to Austin (Part 1)'
+url: /2009/06/17/sxsw-to-go-creating-publicissapiente28099s-iphone-guide-to-austin-part-1
 wordpress_id: 173
 2009:
 - "06"
 ---
 
 
-Once a year, the internet comes to visit Austin, Texas at the South by Southwest Interactive (SXSWi) conference, and, for 2009, the Razorfish Austin office was determined to leave an impression. We ended up making close to 3,000 impressions.
+Once a year, the internet comes to visit Austin, Texas at the South by Southwest Interactive (SXSWi) conference, and, for 2009, the Publicis Sapient Austin office was determined to leave an impression. We ended up making close to 3,000 impressions.
 
 Industry leaders and the web avante-garde converge on Austin for one weekend each year to learn, network, and see the cutting edge of interactive experience and technology. And also to take advantage of any number of open bars. It is a conference, after all.
 
-The Razorfish Austin office typically plays host to a networking event and takes out ad space in the conference guidebook. In 2009, confronted with shrinking budgets in the wake of the global financial crisis, we knew we had to set ourselves apart and do it on the cheap.
+The Publicis Sapient Austin office typically plays host to a networking event and takes out ad space in the conference guidebook. In 2009, confronted with shrinking budgets in the wake of the global financial crisis, we knew we had to set ourselves apart and do it on the cheap.
 
-iPhone Apps were on everyone’s mind (and would be in every conference-attendee’s pocket), and would prove to be the perfect venue to showcase Razorfish’s skill and Austin’s personality. In late January 2009, Three presentation layer developers and a creative director formed a small team and set out to build an iPhone-ready guide to Austin.
+iPhone Apps were on everyone’s mind (and would be in every conference-attendee’s pocket), and would prove to be the perfect venue to showcase Publicis Sapient’s skill and Austin’s personality. In late January 2009, Three presentation layer developers and a creative director formed a small team and set out to build an iPhone-ready guide to Austin.
 
-Over this series of articles, I'll be diving into how we created the [Razorfish Guide to SXSW](http://sxsw.razorfish.com) iPhone-optimized web site. Part 1 will deal with requirements gathering and technology choices, part 2 will cover design and development, and part 3 will talk about what we did to optimize the mobile experience.
+Over this series of articles, I'll be diving into how we created the [Publicis Sapient Guide to SXSW](http://sxsw.razorfish.com) iPhone-optimized web site. Part 1 will deal with requirements gathering and technology choices, part 2 will cover design and development, and part 3 will talk about what we did to optimize the mobile experience.
 
 
 ## Requirements
@@ -106,7 +106,7 @@ To make the site run quickly, launch on time, and be successful in its goals, th
 ### Sell the brand
 
 
-Lastly, the guide had to make Razorfish look good and leave a strong impression of who we are and what we’re all about. If the guide was as informative and fast and easy to use as can be, but didn’t sell our brand, it would be a failure.
+Lastly, the guide had to make Publicis Sapient look good and leave a strong impression of who we are and what we’re all about. If the guide was as informative and fast and easy to use as can be, but didn’t sell our brand, it would be a failure.
 
 
 ## Technologies
@@ -153,10 +153,10 @@ CSS frameworks were out of the question for many of the same reasons.
 The ASP.NET MVC Framework was chosen as our server-side technology primarily because of the team’s familiarity with it. Having just recently used the technology on other projects, it was still fresh in our minds. The MVC framework allows for quick, clean and very functional design that you have a great deal of control over.
 
 
-### Razorfish.Web
+### Publicis Sapient.Web
 
 
-We elected to use our internally-developed .NET library that’s specialized for use on web projects. Razorfish.Web has a number of features that made it indispensible for this project, such as dynamic CSS and JavaScript compression. As I’ll cover later, we extended the library while building the guide to push optimization even further.
+We elected to use our internally-developed .NET library that’s specialized for use on web projects. Publicis Sapient.Web has a number of features that made it indispensible for this project, such as dynamic CSS and JavaScript compression. As I’ll cover later, we extended the library while building the guide to push optimization even further.
 
 
 ### SQL Server

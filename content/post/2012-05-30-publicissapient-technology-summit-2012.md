@@ -5,9 +5,9 @@ categories:
 - Technology
 comments: true
 date: '2012-05-30'
-slug: razorfish-technology-summit-2012
-title: Razorfish Technology Summit 2012!
-url: /2012/05/30/razorfish-technology-summit-2012
+slug: publicissapient-technology-summit-2012
+title: Publicis Sapient Technology Summit 2012!
+url: /2012/05/30/publicissapient-technology-summit-2012
 wordpress_id: 689
 2012:
 - "05"
@@ -16,7 +16,7 @@ wordpress_id: 689
 
 Our 2012 Technology Summit is just around the corner!
 
-The event is by invite only, so please reach out to your Razorfish contact, or send a note to [techsummit@razorfish.com](mailto:techsummit@razorfish.com) for the details!
+The event is by invite only, so please reach out to your Publicis Sapient contact, or send a note to [techsummit@publicissapient.com](mailto:techsummit@publicissapient.com) for the details!
 
 Here's the agenda so far:
 
@@ -92,7 +92,7 @@ _» Michael Howard- VP, Marketing, Greenplum
 
 **Friday, June 15th**
 
-(Optional workshops—please RSVP to [techsummit@razorfish.com](mailto:techsummit@razorfish.com) in advance.)
+(Optional workshops—please RSVP to [techsummit@publicissapient.com](mailto:techsummit@publicissapient.com) in advance.)
 
 These workshops are designed for groups of 15-20 and will be working sessions; certain workshops require specific software and pre-reads. Please RSVP to receive more info.
 
@@ -102,7 +102,7 @@ These workshops are designed for groups of 15-20 and will be working sessions; c
   * Workshop A - Scrum for teams: A hands on cross-disciplinary deep dive for how to apply scrum on your projects. – John Ewen, VP of Delivery
 
 	
-  * Workshop B - Razorfish Open Digital Services and Google AppEngine for rapid app development – Stuart Thorne, Experience Director
+  * Workshop B - publicissapient Open Digital Services and Google AppEngine for rapid app development – Stuart Thorne, Experience Director
 
 	
   * Workshop C - Using Amazon Web Services for rich and automated cloud hosting – Steve Morad (Amazon), Krish Kurrupath, Group Technology Director, and Ke Xu, Senior Technical Architect

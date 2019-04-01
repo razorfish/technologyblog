@@ -54,7 +54,7 @@ The model hosting component facilitates accessibility to other applications. The
 
 #2 AWS Lambda Improvements and Cloud 9
 --------
-A number of Lambda improvements were announced. At SapientRazorfish, we see big opportunities with AWS Lambda. This [blog](/2016/05/06/a-reactive-serverless-cms-for-the-technology-blog/index.html) is managed through Lambda functions, and AWS Lambda is a Swiss Army knife in our DevOps practice.  The major announcement around development was the collaborative development tool, Cloud 9.
+A number of Lambda improvements were announced. At Publicis Sapient, we see big opportunities with AWS Lambda. This [blog](/2016/05/06/a-reactive-serverless-cms-for-the-technology-blog/index.html) is managed through Lambda functions, and AWS Lambda is a Swiss Army knife in our DevOps practice.  The major announcement around development was the collaborative development tool, Cloud 9.
 
 Lambda development can still be fairly complicated. Especially in a team environment, ensuring all team members have the same configuration and test environment requires some work. With Cloud 9, all of this is now simplified, including an integrated debugger. Coding becomes the collaborative process it should be. 
 

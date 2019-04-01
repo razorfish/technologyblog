@@ -56,4 +56,4 @@ Since the phone numbers can be programmed and controlled using any HTTP/HTTPS UR
 
  In addition, Twilio also provides [REST APIs](https://www.twilio.com/docs/api/rest) to perform functions like making a call, modifying a live call, collecting call logs, creating queues, buying numbers, sending SMS, etc. There are [helper libraries](https://www.twilio.com/docs/libraries) available in all the popular programming languages which provide a wrapper to work with the REST APIs.
 
-From: Khurshidali Shaikh - Razorfish India Team
+From: Khurshidali Shaikh - Publicis Sapient India Team

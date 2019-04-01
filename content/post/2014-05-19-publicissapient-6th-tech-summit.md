@@ -4,16 +4,16 @@ categories:
 - General
 comments: true
 date: '2014-05-19'
-slug: razorfishs-6th-tech-summit
-title: Razorfish’s 6th Tech Summit!
-url: /2014/05/19/razorfishs-6th-tech-summit
+slug: publicissapients-6th-tech-summit
+title: Publicis Sapient’s 6th Tech Summit!
+url: /2014/05/19/publicissapients-6th-tech-summit
 wordpress_id: 952
 2014:
 - "05"
 ---
 
 
-We are only a few weeks away from Razorfish’s 6th Tech Summit!
+We are only a few weeks away from Publicis Sapient’s 6th Tech Summit!
 
 The Internet of Things and sensor driven experiences are drastically changing the way people consume, transact, and generally interact with brands.
 
@@ -38,4 +38,4 @@ In its 6th year, the Tech Summit brings together more than 200 attendees and spe
 
 Join us to boost your tech IQ, connect with old friends and meet your future partners.
 
-_Attendance at the Tech Summit is by invite only. Please contact your Razorfish rep or email us at **techsummit@razorfish.com** for more information._
+_Attendance at the Tech Summit is by invite only. Please contact your Publicis Sapient rep or email us at **techsummit@publicissapient.com** for more information._

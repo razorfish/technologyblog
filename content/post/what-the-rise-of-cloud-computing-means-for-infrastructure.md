@@ -52,7 +52,7 @@ As this example shows, the application and infrastructure views need to be merge
 New Architectures
 -----------------
 
-A number of new architectures have been created now that infrastructure is programmable. [Reactive architectures](http://www.razorfish.com/ideas/reactive-architectures.htm) and code executors like Google Cloud Functions and AWS Lambda are examples of these serverless computing services. Once we start using fully dynamic infrastructures for auto-scaling and micro services, the need for in integrated view of both the application and systems becomes even more important.
+A number of new architectures have been created now that infrastructure is programmable. [Reactive architectures](http://www.publicissapient.com/ideas/reactive-architectures.htm) and code executors like Google Cloud Functions and AWS Lambda are examples of these serverless computing services. Once we start using fully dynamic infrastructures for auto-scaling and micro services, the need for in integrated view of both the application and systems becomes even more important.
 
 Finding New Solutions
 ---------------------
