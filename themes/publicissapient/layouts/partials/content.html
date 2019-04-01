@@ -1,0 +1,70 @@
+<article class="post type-post status-publish format-standard hentry format">
+
+	<!-- .entry-header -->
+	<header class="entry-header">
+
+	{{ $baseurl := .Site.BaseURL }}
+
+        <!--
+		<div class="entry-meta">
+			<span class="cat-links">
+                {{ range .Params.categories }}
+                <a href="{{ $baseurl }}/categories/{{ lower . | urlize }}/index.html" rel="category">{{ . }}</a>
+                {{ end }}
+			</span>
+		</div>
+        -->
+        <a href="{{ .Permalink }}index.html" rel="bookmark" style="text-decoration: none; color: #000000;">
+		  <h1 class="entry-title">{{ .Title }}</h1>
+        </a>
+
+        <!--
+		<div class="entry-meta">
+			<span class="entry-date">
+				<a href="{{ .Permalink }}/index.html" rel="bookmark">
+					<time class="entry-date" datetime="{{ .Date }}">
+						{{ .Date.Format "January 2" }}
+					</time>
+				</a>
+			</span>
+		</div><!-- .entry-meta -->
+
+	</header>
+	
+	<div class="entry-content">
+		{{ .Content }}
+	</div><!-- .entry-content -->
+
+    <!--
+    <div class="entry-meta">
+        <span class="entry-date">
+            <a href="{{ .Permalink }}/index.html" rel="bookmark">
+                <h1>{{ .Title }}</h1>
+                <h2>
+                <time class="entry-date" datetime="{{ .Date }}">
+                    {{ .Date.Format "January 2" }}
+                </time>
+                </h2>
+            </a>
+        </span>
+    </div>
+-->
+    
+	<footer class="entry-meta">
+        
+            <a href="{{ .Permalink }}index.html" rel="bookmark">
+                <h1>{{ .Title }}</h1>
+                <h2>
+                <time class="entry-date" datetime="{{ .Date }}">
+                    {{ .Date.Format "January 2, 2006" }}
+                </time>
+                </h2>
+            </a>
+       
+		<span class="tag-links">		
+			{{ range .Params.tags }}
+                <a href="{{ $baseurl}}/tags/{{ lower . | urlize }}/index.html" rel="tag">{{ . }}</a>
+            {{ end }}
+		</span>
+	</footer>
+</article> <!-- #post-## -->

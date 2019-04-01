@@ -1,0 +1,12 @@
+<aside id="recent-posts-3" class="widget widget_recent_entries">
+	<h2 class="widget-title">Archives</h2>
+		<ul>
+            {{ range $value := .Site.Pages.GroupByDate "January 2006" }}
+				{{ $url := (index $value.Pages 0).Date.Format "2006/01" | urlize }}
+				<li>
+					<li><a href="/{{ $url }}">{{ .Key }}</a></li>
+				</li>
+			{{ end }}
+		</ul>
+
+</aside>

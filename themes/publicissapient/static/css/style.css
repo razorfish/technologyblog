@@ -1,0 +1,1035 @@
+/*
+Theme Name: Razorfish Theme (Child Theme Twenty Twelve)
+Author: Razorfish
+Author URI: http://www.razorfish.com/
+Description: Child Theme for Twenty Twelve theme
+Version: 2.0
+Template: twentytwelve
+*/
+
+/**
+* TABLE OF CONTENTS
+* 
+* 1. GENERAL RESET
+* 2. FONTS
+* 3. PAGE STRUCTURE
+*/
+
+@import url("./twentytwelve/style.css");
+
+@font-face{
+    font-family: 'gotham_book';
+    src: url('./fonts/Gotham-Book.otf'),
+         url('./fonts/Gotham-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'gotham_med';
+    src: url('./fonts/Gotham-Medium.otf'),
+         url('./fonts/Gotham-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'miller';
+    src: url('./fonts/Miller-Display-Roman.otf'),
+         url('./fonts/MillerDisplayRoman.ttf') format('truetype'),
+         url('./fonts/Miller-Display-Roman.woff') format('woff'),
+         url('./fonts/Miller-Display-Roman.woff2') format('woff2'),
+         url('./fonts/Miller-Display-Roman.eot') format('eot');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    overflow: hidden;
+    background: #F2F2F2;
+}
+
+/** Responsive Images **/
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/** General Site **/
+
+body .site { 
+    padding: 0px;
+    font-family: 'FuturaNextW05-Book', Arial, sans-serif;
+    margin-top:0;
+}
+.site { 
+    max-width: 1060px;
+}
+
+a { 
+    color: #fe414d;
+    font-weight: bold;
+}
+
+a:hover {
+     color: #3C4502;
+}
+
+/** Page structure **/
+#main-content {
+    overflow: hidden;ƒ
+    width: 100%;
+}
+
+.site-content { 
+    background-color: #FFFFFF;
+    float: left;
+    margin: 0px;
+    padding-bottom: 15px;
+    padding-top: 30px;
+    width: 76%;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+.widget-area { 
+    margin: 1.51em 1.5em 0px 0px;
+    width: 17%;
+}
+
+.widget-area .widget { 
+    margin-bottom: 50px;
+}
+
+.widget-area .widget h3, h1.widget-title { 
+    border-bottom: 1px solid #999999;
+    margin: 0px;
+    padding-bottom: 3px;
+}
+
+.widget-title {
+    color: #19191e;
+    font-family: 'FuturaNextW05-Book';
+    font-size: 18px;
+    text-transform: capitalize;
+    margin: 0;
+    border-bottom: 1px solid #999999;
+}
+
+.widget-area .widget ul {
+    height: 19em;
+    overflow: auto;
+    padding-top: 20px;
+}
+
+.widget-area .widget p, .widget-area .widget li, .widget-area .widget .textwidget { 
+    font-size: 14px;
+    line-height: 1.5;
+    color: #838383;
+}
+
+ #hirenurtureContainer {
+        margin-top: 4px;
+        text-align: center;
+    }
+
+@media screen and (max-width: 600px) {
+    #hirenurtureContainer {
+        background: white;
+        padding-bottom: 30px;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 1034px) {
+    #hirenurtureContainer {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1034px) {
+    #hirenurtureContainer {
+        display: block;
+    }
+}
+
+.tagcloud {
+    height: 25em;
+    overflow: auto;
+    padding-top: 8px;
+}
+
+.tagcloud a {
+    line-height: 1.5;
+    text-transform: capitalize;
+}
+
+.widget-area .widget a { 
+    color: #838383;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.widget-area .widget a:hover { 
+    color: #fe414d;
+}
+
+.header-twitter-container {
+    min-height: 165px;
+    width: 100%;
+    position: relative;
+}
+
+.header-container {
+    margin-top: 1.71em;
+}
+
+.site-header {
+    float: left;
+    height: inherit;
+    padding: 0px;
+    width: 100%;
+}
+
+.razorfish-logo {
+    float:left;
+    width: 50%;
+}
+
+.search-plugin {
+    padding-top: 15px;
+    text-align:right;
+    width: auto;
+    right: 22%;
+    position: relative;
+}
+
+ #results {
+    display: none;
+    position: absolute;
+    right: 0;
+    text-align: left;
+    margin-top: 2px;
+    padding: 10px;
+    z-index: 100;
+    background: #FFF;
+    width: 395px;
+    border-collapse: separate;/* for ie9 boxshadow */
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 5px 0px rgba(0,0,0,0.75);
+    box-sizing: border-box;
+}
+
+#results li {
+    padding: 4px 0;
+}
+
+#results li a {
+    color: #19191e !important;
+    font-weight: normal;
+    line-height: 16px;
+}
+
+#results li a:hover {
+    color: #fe414d !important;
+}
+
+.menu-icon {
+    float:left;
+    padding-top: 10px;
+    width: 6%;
+    display: none;
+}
+
+.search-textfield {
+    border-color: #999;
+    color: #999;
+    #display: none;
+    font-size: 13px;
+    font-size: 0.9286rem;
+    height: 23px;
+    #margin-top: 5px;
+    margin-top: 2px;
+    vertical-align: top;
+    visibility: visible;
+    width: 160px;
+}
+
+/** Hacks for Opera 12 **/
+@media (min-resolution: .001dpcm) {
+    _:-o-prefocus, .search-textfield {margin-top: 6px;} 
+    _:-o-prefocus, .search-plugin {padding-top: 10px;}
+    _:-o-prefocus, .menu-icon {padding-top: 5px;}
+}
+/***********************/
+
+::-webkit-input-placeholder {
+    color: #999;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+::-moz-placeholder { 
+    color: #999;
+    font-weight: normal;
+    font-size: 15px;
+ } /* firefox 18- */
+
+:-moz-placeholder { 
+    color: #999;
+    font-weight: normal;
+    font-size: 15px;
+ } /* firefox 19+ */
+
+:-ms-input-placeholder { 
+    color: #999;
+    font-size: 13px;
+    font-size: 15px;
+} /* ie */
+
+
+.search-button {
+    background: transparent;
+    border: 0;
+    #color: #758312;
+    color: #3C4502;
+    cursor: pointer;
+    font-size: 2.8em;
+    #padding: 2px 15px 0px;
+    padding: 0px 15px 0px;
+ }
+
+/** Hack for Mozilla **/
+@-moz-document url-prefix() 
+{
+    .search-button {
+        margin-top: -2px;    
+    }
+}
+/***********************/
+
+input[type="checkbox"].menu-button { 
+    display: none;
+}
+
+.menu-button-label {
+    color: #758312;
+    cursor: pointer;
+    #display: inline-block;
+    #height: 42px;
+    #margin-left: 5px;
+    #padding-top: 10px;
+    font-size: 3.5em;
+    #width: 42px;
+}
+
+.site-content article { 
+    border-bottom: 1px solid #999999;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    width: 91%;
+}
+
+/** Navigation **/
+
+.main-navigation {
+    margin: 0px;
+    padding-left: 34px;
+    /* #padding-top: 8px; */
+    width: auto;
+    display: block;
+    /* #visibility: hidden; */
+    position: absolute;
+    bottom: 18px;
+}
+
+.main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul { 
+    border: 0px;
+}
+
+.main-navigation li {
+    font-size: 22px;
+    letter-spacing: 1px;
+    margin: 8px 35px 0px 3px;
+}
+
+.main-navigation li a {
+    color: #19191e;
+    font-weight: normal;
+    line-height: 1.6;
+    text-decoration: none;
+    font-family: 'gotham_med';
+    text-transform: uppercase;
+}
+
+.main-navigation li a:hover { 
+    color: #fe414d;
+    #font-weight: bold;
+}
+
+
+.main-navigation .current-menu-item a, .main-navigation .current-menu-ancestor a, .main-navigation .current_page_item a, .main-navigation .current_page_ancestor a {
+    color: #fe414d;
+    font-weight: bold;
+}
+
+.header-logo-search {
+    padding-left:35px;
+    padding-top: 25px;
+}
+
+/** Posts **/
+.entry-header .entry-title {
+    font-size: 36px;
+    font-family: 'FuturaNextW05-Book';
+    font-size: 2.571rem;
+}
+
+.entry-header h2 {
+    color: #838383;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.2em;
+    padding-top: 1.2em;
+}
+
+.entry-header .entry-title a { 
+    color: #fe414d;
+    font-weight: bold;
+}
+
+.entry-content, .entry-summary, .mu_register { 
+    color: #19191e;
+	font-size: 16px;
+	font-size: 1.143rem;
+}
+
+.entry-content h2, .entry-summary h2, .mu_register h2 { 
+    color: #fe414d;
+    font-family: 'FuturaNextW05-Book';
+	font-size: 16px;
+	font-size: 1.143rem;
+}
+
+.entry-content img, .comment-content img, .widget img, img.header-image, .author-avatar img, img.wp-post-image { 
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.entry-content .author { 
+    font-size: 14px;
+    line-height: 18px;
+    color: #838383;
+}
+.entry-content .author-name { 
+    font-size: 24px;
+    line-height: 18px;
+    font-family: 'FuturaNextW05-Book';
+    text-decoration: none;
+}
+
+.more-link {
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.more-link .read-more {
+    border-radius: 0;
+    box-shadow: none;
+}
+
+/** After Posts **/
+
+.synved-social-button, .synved-social-button-share, .synved-social-provider-mail { 
+   float:right;
+   padding-left: 15px;
+}
+
+.comments-tags-titles {
+    color: #fe414d;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-bottom: 1em;
+}
+
+.comments-tags {
+    color: #7D7D7D;
+    font-weight: normal;
+}
+
+.comments-tags a {
+    color: #7D7D7D;
+    text-decoration: none;
+}
+
+.comments-tags a:before {
+    content: "#";
+}
+
+.comments-tags a:hover {
+    color: #fe414d;
+}
+
+.comments-link a, .entry-meta a { 
+    font-size: 0.86em;
+}
+
+.nav-previous, .previous-image {
+    padding-left: 0;
+    width: 5%;
+}
+
+.nav-next, .next-image { 
+    padding-right: 0;
+    width: 5%;
+}
+
+.nav-previous-posts {
+    float: left;
+    margin-left: 0;
+    padding-left: 2.5em;
+    width: 10%;
+}
+
+.nav-next-posts {
+    float: right;
+    margin-right: 0;
+    padding-right: 2.5em;
+    text-align: right;
+    width: 10%;
+}
+
+.site-content nav {
+    margin-left: auto;
+    margin-right: auto;
+    width: 91%;
+}
+
+.nav-single + .comments-area, #comment-nav-above {
+    margin: 2em auto;
+    width: 91%;
+}
+
+.comments-area {
+        margin: auto 2em;
+    }
+
+#respond { 
+    margin-top: 0;
+}
+
+.form-allowed-tags {
+    display: none;
+}
+
+.contentinfo { 
+    font-size: 0.86em;
+    padding-bottom: 4em;
+    padding-top: 2.5em;
+    width: 76%;
+}
+
+.site-info { 
+    font-weight: bold;
+    padding: 0px 3em;
+    display: flex;
+}
+
+.footer-links {
+    margin-top: auto;
+    margin-left: auto;
+    color: #838383;
+ }
+
+.footer-links .links {
+    display: inline-block;
+}
+
+.footer-links a { 
+    color: #838383;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+/*** btn contact us ***/
+.blue-btn{
+    border:solid 1px #fe414d;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 12px;
+    padding: 18px;
+    font-family: 'gotham_med';
+    margin-right: 10px;
+}
+.blue-btn:hover{
+    color: #fe414d;
+}
+/**************/
+
+/*** Search ***/
+.archive-header, .page-header { 
+    margin-left: 2.5em;
+}
+
+/***********/
+
+/******* PHOTO TRATMENTS **********/
+
+/******* EXAMPLE ********/
+/*
+    <div class="img-treatment">
+        <div class="filter {{CLASS TO APPLY A FILTER OR COLOR LAYER}}" aria-hiden="true"></div>
+        <div class="filter {{CLASS TO BE REPLACES WITH THE COLOR LAYER}}" aria-hiden="true"></div>
+        <img src="https://placeimg.com/200/200/any/grayscale" alt="" class="canvas-img">
+    </div>
+*/
+
+.img-treatment{
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+.canvas-img{
+    opacity: 0.6;
+    max-width: 100%;
+    height: auto;
+}
+
+.filter{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.filter-multiply{
+    background-blend-mode: multiply;
+}
+
+.red-to-blue-0deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(left, #fe414d 0%, #FF2E54 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #fe414d 0%,#FF2E54 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #fe414d 0%,#FF2E54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#FF2E54',GradientType=0 ); /* IE6-9 */
+}
+.red-to-blue--90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #fe414d 0%, #FF2E54 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #fe414d 0%,#FF2E54 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #fe414d 0%,#FF2E54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#FF2E54',GradientType=0 ); /* IE6-9 */
+}
+.red-to-blue-90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(top, #fe414d 0%, #FF2E54 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #fe414d 0%,#FF2E54 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #fe414d 0%,#FF2E54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#FF2E54',GradientType=0 ); /* IE6-9 */
+}
+.red-to-blue-180deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(right, #fe414d 0%, #FF2E54 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #fe414d 0%,#FF2E54 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #fe414d 0%,#FF2E54 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF2E54', endColorstr='#fe414d',GradientType=0 ); /* IE6-9 */
+}
+/****** MAGENTA *********/
+
+.red-to-magenta-0deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(left, #fe414d 0%, #E533FF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #fe414d 0%,#E533FF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #fe414d 0%,#E533FF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#E533FF',GradientType=0 ); /* IE6-9 */
+}
+.red-to-magenta--90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #fe414d 0%, #E533FF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #fe414d 0%,#E533FF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #fe414d 0%,#E533FF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#E533FF',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-magenta-90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(top, #fe414d 0%, #E533FF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #fe414d 0%,#E533FF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #fe414d 0%,#E533FF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#E533FF',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-magenta-180deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(right, #fe414d 0%, #E533FF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #fe414d 0%,#E533FF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #fe414d 0%,#E533FF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E533FF', endColorstr='#fe414d',GradientType=0 ); /* IE6-9 */
+}
+/****** GREEN *********/
+
+.red-to-green-0deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(left, #fe414d 0%, #00FF80 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #fe414d 0%,#00FF80 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #fe414d 0%,#00FF80 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#00FF80',GradientType=0 ); /* IE6-9 */
+}
+.red-to-green--90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #fe414d 0%, #00FF80 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #fe414d 0%,#00FF80 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #fe414d 0%,#00FF80 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#00FF80',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-green-90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(top, #fe414d 0%, #00FF80 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #fe414d 0%,#00FF80 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #fe414d 0%,#00FF80 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#00FF80',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-green-180deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(right, #fe414d 0%, #00FF80 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #fe414d 0%,#00FF80 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #fe414d 0%,#00FF80 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00FF80', endColorstr='#fe414d',GradientType=0 ); /* IE6-9 */
+}
+
+/****** CYAN *********/
+
+.red-to-cyan-0deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(left, #fe414d 0%, #00FAFF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #fe414d 0%,#00FAFF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #fe414d 0%,#00FAFF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#00FAFF',GradientType=0 ); /* IE6-9 */
+}
+.red-to-cyan--90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #fe414d 0%, #00FAFF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #fe414d 0%,#00FAFF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #fe414d 0%,#00FAFF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#00FAFF',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-cyan-90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(top, #fe414d 0%, #00FAFF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #fe414d 0%,#00FAFF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #fe414d 0%,#00FAFF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#00FAFF',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-cyan-180deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(right, #fe414d 0%, #00FAFF 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #fe414d 0%,#00FAFF 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #fe414d 0%,#00FAFF 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00FAFF', endColorstr='#fe414d',GradientType=0 ); /* IE6-9 */
+}
+
+/****** YELLOW *********/
+
+.red-to-yellow-0deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(left, #fe414d 0%, #F7FF3D 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #fe414d 0%,#F7FF3D 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #fe414d 0%,#F7FF3D 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#F7FF3D',GradientType=0 ); /* IE6-9 */
+}
+.red-to-yellow--90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #fe414d 0%, #F7FF3D 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #fe414d 0%,#F7FF3D 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #fe414d 0%,#F7FF3D 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#F7FF3D',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-yellow-90deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(top, #fe414d 0%, #F7FF3D 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #fe414d 0%,#F7FF3D 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #fe414d 0%,#F7FF3D 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fe414d', endColorstr='#F7FF3D',GradientType=0 ); /* IE6-9 */
+}
+
+.red-to-yellow-180deg{
+    background: #fe414d; /* Old browsers */
+    background: -moz-linear-gradient(right, #fe414d 0%, #F7FF3D 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(right, #fe414d 0%,#F7FF3D 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to left, #fe414d 0%,#F7FF3D 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F7FF3D', endColorstr='#fe414d',GradientType=0 ); /* IE6-9 */
+}
+
+/******* END PHOTO TRATMENTS ******/
+
+
+
+/** Media Queries **/
+@media only screen and (max-width: 767px) {
+    .header-twitter-container{
+        min-height: 165px;
+        height: auto !important;
+    }
+    #main-content{
+        overflow: visible;
+    }
+    .razorfish-logo{
+        float: none;
+    }
+    .header-twitter-container{
+        height: auto;
+    }
+    .site-content { 
+        width: 100%;
+    }
+    .site-content{
+        padding-top: 0;
+    }
+    .widget-area {
+        display: none;
+    }
+    .search-plugin{
+        position: absolute;
+        top: 4px;
+        right: 65px;
+    }
+    .menu-icon {
+        float: right;
+        margin-right: 17px;
+        padding-top: 5px;
+        width: auto;
+        position: absolute;
+        top: 14px;
+        right: 0;
+        display: block;
+    }
+
+    .menu-button-label {
+        font-size: 2.8em;
+        height: auto;
+        width: auto;
+    }
+
+    .menu-button-label.open:before {
+        content: "\00d7";
+        font-size: 60px;
+        top: -7px;
+        position: relative;
+        color: #fe414d;
+        line-height: 0.7em;
+    }
+    .main-navigation{
+        display: none;
+        width: 91%;
+        position: relative;
+        margin: 0px auto 50px;
+        padding: 0;
+    }
+
+    .main-navigation ul.nav-menu, 
+    .main-navigation div.nav-menu > ul { 
+        display: block;
+    }
+
+    .main-navigation li{
+        display: block;
+        width: 100%;
+        text-align: right;
+        padding: 5px 0;
+    }
+
+    .header-twitter-container {
+        height: 165px;
+    }
+
+    .header-logo-search {
+        padding-left: 15px;
+    }
+
+    .search-plugin {
+        width: 100%;
+    }
+
+    .search-textfield {
+        width: 18%;
+    }
+
+    .search-button {
+        padding: 0px 15px 0px 5px;
+    }
+
+    .main-navigation {
+        padding-left: 0;
+    }
+
+    .main-navigation li {
+        margin: 10px 10px 0px 0px;
+    }
+    #results {
+        position: fixed;
+        width: 91%;    
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+    .contentinfo{
+        width: 91%;
+        margin: 0 auto;
+    }
+    .site-info{
+        padding: 0;
+        display: flex;
+    }
+    .site-info > div{
+        flex-basis: 50%;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .site-info{
+        flex-flow: column;
+    }
+    .site-info > div{
+        padding: 5px 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .header-logo-search {
+        padding-left: 15px;
+    }
+}
+
+/* SPECIFIC PAGES */
+/******************/
+
+.ios-button, .android-button {
+    display: inline-block;
+    text-indent: -9999px;
+}
+
+.ios-button {
+    background: url(images/quizup/appStore_badge.jpg) left center no-repeat;
+    margin-right: 15px;
+    width: 112px;
+    height: 33px;
+}
+
+.android-button {
+    background: url(images/quizup/android_badge.jpg) left center no-repeat;
+    width: 95px;
+    height: 33px;
+}
+
+.quizup-iframe {
+    background: #333 url(images/quizup/refreshing.png) center no-repeat;
+}
+
+.iframe-footer {
+    background: #ececec;
+    margin-top: -2px;
+    height: auto;
+    padding: 20px;
+}
+
+.iframe-footer.placeholder {
+    background: #333;
+}
+
+.iframe-footer .quizup-logo, .iframe-footer .razorfish-logo {
+    display: inline-block;
+}
+
+.iframe-footer .quizup-logo {
+    background: url(images/quizup/quizup_logo.png) left center no-repeat;
+    width: 98px;
+    height: 77px;
+}
+
+.iframe-footer .razorfish-logo {
+    background: url(images/quizup/razorfish_logo.png) left center no-repeat;
+    float: right;
+    width: 149px;
+    height: 32px;
+    margin-top: 40px;
+}
+
+/* print styles */
+@media only print {
+    .header-twitter-container {
+        height: auto;
+    }
+    .search-plugin, .twitter-plugin, .site-header, #secondary  {
+        display: none;
+    }
+    .site-content {
+        width: 100%;
+    }
+}
+
+
+/********** NEW FONT FAMILY ************/
+@font-face {
+    font-family: "FuturaNextW05-Bold";
+    src: url("./fonts/FuturaNextW05-Bold.eot?#iefix");
+    src: url("./fonts/FuturaNextW05-Bold.eot?#iefix") format("eot")
+        ,url("./fonts/FuturaNextW05-Bold.woff2") format("woff2")
+        ,url("./fonts/FuturaNextW05-Bold.woff") format("woff")
+        ,url("./fonts/FuturaNextW05-Bold.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: "FuturaNextW05-Medium";
+    src: url("./fonts/FuturaNextW05-Medium.eot?#iefix");
+    src: url("./fonts/FuturaNextW05-Medium.eot?#iefix") format("eot")
+        ,url("./fonts/FuturaNextW05-Medium.woff2") format("woff2")
+        ,url("./fonts/FuturaNextW05-Medium.woff") format("woff")
+        ,url("./fonts/FuturaNextW05-Medium.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: "FuturaNextW05-Book";
+    src: url("./fonts/FuturaNextW05-Book.eot?#iefix");
+    src: url("./fonts/FuturaNextW05-Book.eot?#iefix") format("eot")
+        ,url("./fonts/FuturaNextW05-Book.woff2") format("woff2")
+        ,url("./fonts/FuturaNextW05-Book.woff") format("woff")
+        ,url("./fonts/FuturaNextW05-Book.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: "FuturaNextW05-Light";
+    src: url("./fonts/FuturaNextW05-Light.eot?#iefix");
+    src: url("./fonts/FuturaNextW05-Light.eot?#iefix") format("eot")
+        ,url("./fonts/FuturaNextW05-Light.woff2") format("woff2")
+        ,url("./fonts/FuturaNextW05-Light.woff") format("woff")
+        ,url("./fonts/FuturaNextW05-Light.ttf") format("truetype")
+
+}
+
+@font-face {
+    font-family: "FuturaNextW05-DemiBold";
+    src: url("./fonts/FuturaNextW05-DemiBold.eot?#iefix");
+    src: url("./fonts/FuturaNextW05-DemiBold.eot?#iefix") format("eot")
+        ,url("./fonts/FuturaNextW05-DemiBold.woff2") format("woff2")
+        ,url("./fonts/FuturaNextW05-DemiBold.woff") format("woff")
+        ,url("./fonts/FuturaNextW05-DemiBold.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: "FuturaNextW05-ExtraBold";
+    src: url("./fonts/FuturaNextW05-ExtraBold.eot?#iefix");
+    src: url("./fonts/FuturaNextW05-ExtraBold.eot?#iefix") format("eot")
+        ,url("./fonts/FuturaNextW05-ExtraBold.woff2") format("woff2")
+        ,url("./fonts/FuturaNextW05-ExtraBold.woff") format("woff")
+        ,url("./fonts/FuturaNextW05-ExtraBold.ttf") format("truetype")
+}

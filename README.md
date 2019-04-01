@@ -1,7 +1,7 @@
 # technologyblog
 
-This repository contains the content for the SapientRazorfish technology blog
+This repository contains the content for the PublicisSapient technology blog
 
-For details, visit the technology blog at [technology.razorfish.com](http://technology.razorfish.com)
+For details, visit the technology blog at [technology.publicissapient.com](http://technology.publicissapient.com)
 
 Now with Hugo upgraded to 0.40

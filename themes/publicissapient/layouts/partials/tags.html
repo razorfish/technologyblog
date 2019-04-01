@@ -1,0 +1,20 @@
+<aside id="tag cloud-2" class="widget widget_tag_cloud">
+	
+	<h2 class="widget-title">Tags</h2>
+   <!-- {{ printf "%#v" .Site.Taxonomies.tags }} -->
+	      <div class="tagcloud">
+		{{ $baseurl := .Site.BaseURL }}
+		{{ range $key, $value := .Site.Taxonomies.tags }}
+        
+     
+		
+  
+            {{ $linksize :=(add (mul .Count 1.5) 10)}}
+			<a href="{{ $baseurl }}/tags/{{ $key | urlize }}/index.html" class='tag-link-{{ $linksize }}' style='font-size:{{ $linksize }}px'>{{ $key | title }}</a>
+      
+
+		{{ end }}
+
+  </div>
+
+</aside>
